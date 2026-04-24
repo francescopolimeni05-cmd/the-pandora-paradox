@@ -98,3 +98,5 @@ docs/meeting_brief_*
 docs/PROGRESS.ja.md
 docs/PROGRESS.ja.pdf
 docs/README.ja.md
+docs/ml_comparison_*
+data/figures/08_feature_importance.png

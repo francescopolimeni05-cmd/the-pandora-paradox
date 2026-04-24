@@ -92,11 +92,5 @@ scripts/05_1_ml_model.py
 data/model_results.json
 data/model_results_real.json
 data/*.backup.json
-docs/midterm/
-docs/original_docs/
-docs/meeting_brief_*
-docs/PROGRESS.ja.md
-docs/PROGRESS.ja.pdf
-docs/README.ja.md
-docs/ml_comparison_*
+docs/
 data/figures/08_feature_importance.png

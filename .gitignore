@@ -1,0 +1,100 @@
+# ============================================================
+# Secrets — NEVER COMMIT
+# ============================================================
+.env
+.env.local
+.env.*.local
+*.key
+*_secret*
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# ============================================================
+# IDE / OS
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Logs (collector logs we delete after each run)
+# ============================================================
+*.log
+logs_*.txt
+data_collection.log
+subtitle_collection.log
+extended_collection.log
+
+# ============================================================
+# Smoke-test / scratch artefacts (regenerated on demand)
+# ============================================================
+data/smoke_test.json
+data/extended_smoke_test.json
+data/subtitle_raw.json
+
+# ============================================================
+# Reference materials excluded for copyright reasons
+# ============================================================
+P262 _ The Pandora Paradox*.pdf
+
+# ============================================================
+# Misc
+# ============================================================
+*.tmp
+*.bak
+~$*
+
+# Safety-net backups left by scripts/07_google_trends_serpapi.py --merge
+# and scripts/09_youtube_trailer_views.py --merge (regenerated on every run).
+data/*.backup.json
+
+# ============================================================
+# Public-repo exclusions (dataset-only release)
+# ============================================================
+scripts/05_ml_model.py
+scripts/05_1_ml_model.py
+data/model_results.json
+data/model_results_real.json
+data/*.backup.json
+docs/midterm/
+docs/original_docs/
+docs/meeting_brief_*
+docs/PROGRESS.ja.md
+docs/PROGRESS.ja.pdf
+docs/README.ja.md

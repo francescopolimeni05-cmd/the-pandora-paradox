@@ -1,0 +1,195 @@
+rank,title,year,worldwide_gross,domestic_gross,budget,genre,franchise,director,studio,is_sequel,is_animated
+1,Avatar,2009,2923706994,760505847,237000000,Sci-Fi,Avatar,James Cameron,20th Century Fox,False,False
+2,Avengers: Endgame,2019,2798754989,858373391,356000000,Action,MCU,Anthony & Joe Russo,Marvel Studios,True,False
+3,Avatar: The Way of Water,2022,2320250281,684074366,350000000,Sci-Fi,Avatar,James Cameron,20th Century Studios,True,False
+4,Titanic,1997,2257844680,659363944,200000000,Drama,,James Cameron,Paramount,False,False
+5,Star Wars: The Force Awakens,2015,2071562175,936662225,200000000,Sci-Fi,Star Wars,J.J. Abrams,Lucasfilm,True,False
+6,Avengers: Infinity War,2018,2052415039,678815482,316000000,Action,MCU,Anthony & Joe Russo,Marvel Studios,True,False
+7,Spider-Man: No Way Home,2021,1929340411,804793477,200000000,Action,Spider-Man,Jon Watts,Sony,True,False
+8,Inside Out 2,2024,1698468228,652858789,200000000,Animation,Inside Out,Kelsey Mann,Pixar,True,True
+9,Jurassic World,2015,1670400637,652270625,150000000,Action,Jurassic,Colin Trevorrow,Universal,True,False
+10,The Lion King (2019),2019,1657922558,541386957,260000000,Animation,Lion King,Jon Favreau,Disney,True,True
+11,The Avengers,2012,1520591679,623357910,220000000,Action,MCU,Joss Whedon,Marvel Studios,False,False
+12,Furious 7,2015,1515461453,515900338,190000000,Action,Fast & Furious,James Wan,Universal,True,False
+13,Frozen II,2019,1450026015,477373578,150000000,Animation,Frozen,Chris Buck,Disney,True,True
+14,Top Gun: Maverick,2022,1490212222,567915301,170000000,Action,Top Gun,Joseph Kosinski,Paramount,True,False
+15,Barbie,2023,1444956839,636242439,145000000,Comedy,,Greta Gerwig,Warner Bros,False,False
+16,Avengers: Age of Ultron,2015,1405403694,459005868,250000000,Action,MCU,Joss Whedon,Marvel Studios,True,False
+17,Black Panther,2018,1350821664,700059566,200000000,Action,MCU,Ryan Coogler,Marvel Studios,False,False
+18,Harry Potter and the Deathly Hallows – Part 2,2011,1342025430,380674993,250000000,Fantasy,Harry Potter,David Yates,Warner Bros,True,False
+19,Star Wars: The Last Jedi,2017,1332459537,620181382,200000000,Sci-Fi,Star Wars,Rian Johnson,Lucasfilm,True,False
+20,Aquaman,2018,1148161807,335061007,160000000,Action,DC Extended,James Wan,Warner Bros,False,False
+21,Incredibles 2,2018,1242805359,608581744,200000000,Animation,Incredibles,Brad Bird,Pixar,True,True
+22,The Fate of the Furious,2017,1236005118,401715658,250000000,Action,Fast & Furious,F. Gary Gray,Universal,True,False
+23,Frozen,2013,1290000000,400721099,150000000,Animation,Frozen,Chris Buck,Disney,False,True
+25,Minions,2015,1159398499,336045770,74500000,Animation,Minions,Pierre Coffin,Illumination,True,True
+26,Captain America: Civil War,2016,1153304495,408084349,250000000,Action,MCU,Anthony & Joe Russo,Marvel Studios,True,False
+27,Beauty and the Beast (2017),2017,1263521126,504014061,160000000,Fantasy,,Bill Condon,Disney,False,False
+28,Rogue One: A Star Wars Story,2016,1056057273,532177430,200000000,Sci-Fi,Star Wars,Gareth Edwards,Lucasfilm,False,False
+29,Finding Dory,2016,1028551760,486295808,200000000,Animation,Finding Nemo,Andrew Stanton,Pixar,True,True
+30,Iron Man 3,2013,1215439994,408992272,200000000,Action,MCU,Shane Black,Marvel Studios,True,False
+31,Toy Story 4,2019,1074251311,433038290,200000000,Animation,Toy Story,Josh Cooley,Pixar,True,True
+32,Doctor Strange in the Multiverse of Madness,2022,955841637,411051477,200000000,Action,MCU,Sam Raimi,Marvel Studios,True,False
+33,Thor: Love and Thunder,2022,943139099,343261365,250000000,Action,MCU,Taika Waititi,Marvel Studios,True,False
+34,Ant-Man and the Wasp: Quantumania,2023,476471457,476471457,325000000,Action,MCU,Jon Watts,Marvel Studios,True,False
+35,Shrek Forever After,2010,752374151,325009553,165000000,Animation,Shrek,Mike Mitchell,DreamWorks,True,True
+36,Shrek the Third,2007,799101703,322019694,160000000,Animation,Shrek,Chris Miller,DreamWorks,True,True
+37,Shrek 2,2004,919838758,441241348,70000000,Animation,Shrek,Andrew Adamson,DreamWorks,True,True
+38,Shrek,2001,487007353,267652016,60000000,Animation,Shrek,Andrew Adamson,DreamWorks,False,True
+39,Pirates of the Caribbean: Dead Men Tell No Tales,2017,794903993,172558007,250000000,Fantasy,Pirates,Joachim Rønning,Disney,True,False
+40,Pirates of the Caribbean: On Stranger Tides,2011,1046808205,241063875,250000000,Fantasy,Pirates,Rob Marshall,Disney,True,False
+41,Pirates of the Caribbean: Dead Man's Chest,2006,1065659812,423315812,200000000,Fantasy,Pirates,Gore Verbinski,Disney,True,False
+42,Pirates of the Caribbean: The Curse of the Black Pearl,2003,654264015,305388685,140000000,Fantasy,Pirates,Gore Verbinski,Disney,False,False
+43,Toy Story,1995,373554033,191796233,30000000,Animation,Toy Story,John Lasseter,Pixar,False,True
+44,Toy Story 2,1999,485460855,245852179,90000000,Animation,Toy Story,John Lasseter,Pixar,True,True
+45,Toy Story 3,2010,1066969541,415004880,200000000,Animation,Toy Story,Lee Unkrich,Pixar,True,True
+46,Cars,2006,461983149,244082982,120000000,Animation,Cars,John Lasseter,Pixar,False,True
+47,Cars 2,2011,559821087,191444589,200000000,Animation,Cars,John Lasseter,Pixar,True,True
+48,Cars 3,2017,383682457,152968620,175000000,Animation,Cars,Brian Fee,Pixar,True,True
+49,Monsters University,2013,743849673,287015615,200000000,Animation,Monsters,Dan Scanlon,Pixar,True,True
+50,"Monsters, Inc.",2001,577646724,289152677,115000000,Animation,Monsters,Pete Docter,Pixar,False,True
+51,Up,2009,735099082,293004164,175000000,Animation,,Pete Docter,Pixar,False,True
+52,WALL-E,2008,532681980,223808164,180000000,Animation,,Andrew Stanton,Pixar,False,True
+53,Ratatouille,2007,623722953,261461292,150000000,Animation,,Brad Bird,Pixar,False,True
+54,The Incredibles,2004,633026024,261441092,92000000,Animation,Incredibles,Brad Bird,Pixar,False,True
+55,A Bug's Life,1998,363398550,162798565,120000000,Animation,,John Lasseter,Pixar,False,True
+56,Finding Nemo,2003,940335536,380799117,94000000,Animation,Finding Nemo,Andrew Stanton,Pixar,False,True
+57,Coco,2017,807926220,210073344,175000000,Animation,,Lee Unkrich,Pixar,False,True
+58,Encanto,2021,779091396,256394355,75000000,Animation,,Byron Howard,Disney,False,True
+59,Mulan,1998,304320881,120620254,70000000,Animation,,Tony Bancroft,Disney,False,True
+60,The Jungle Book,1967,900000000,141843092,4000000,Animation,,Wolfgang Reitherman,Disney,False,True
+61,101 Dalmatians,1961,215888778,80000000,4000000,Animation,,Clyde Geronimi,Disney,False,True
+62,The Lion King (1994),1994,763455278,302100000,45000000,Animation,Lion King,Roger Allers,Disney,False,True
+63,The Little Mermaid,1989,210640166,84500000,40000000,Animation,,Ron Clements,Disney,False,True
+64,Beauty and the Beast (1991),1991,270400000,100000000,32000000,Animation,,Gary Trousdale,Disney,False,True
+65,Aladdin,1992,504050219,217350219,28000000,Animation,,Ron Clements,Disney,False,True
+66,Snow White and the Seven Dwarfs,1937,403000000,185000000,1500000,Animation,,David Hand,Disney,False,True
+67,Cinderella,1950,269000000,100000000,3000000,Animation,,Clyde Geronimi,Disney,False,True
+68,Sleeping Beauty,1959,170000000,80000000,4000000,Animation,,Clyde Geronimi,Disney,False,True
+69,Tangled,2010,591794936,200821936,260000000,Animation,,Nathan Greno,Disney,False,True
+70,Wreck-It Ralph,2012,471222889,189394141,165000000,Animation,,Rich Moore,Disney,False,True
+71,Big Hero 6,2014,657463394,222500177,165000000,Animation,,Don Hall,Disney,False,True
+72,Moana,2016,643331588,248742475,250000000,Animation,,Ron Clements,Disney,False,True
+73,Zootopia,2016,1023784195,383688113,150000000,Animation,,Byron Howard,Disney,False,True
+75,Raya and the Last Dragon,2021,132248351,43321682,100000000,Animation,,Don Hall,Disney,False,True
+76,Turning Red,2022,479263394,200636479,175000000,Animation,,Domee Shi,Pixar,False,True
+77,Lightyear,2022,226437552,118899961,200000000,Animation,Toy Story,Angus MacLane,Pixar,True,True
+78,Elemental,2023,495771956,143005340,175000000,Animation,,Peter Sohn,Pixar,False,True
+79,Wish,2023,261929843,88026489,250000000,Animation,,Chris Buck,Disney,False,True
+81,Madagascar 3,2012,746921139,244406078,135000000,Animation,Madagascar,Eric Darnell,DreamWorks,True,True
+82,Kung Fu Panda 3,2016,521665856,143697201,145000000,Animation,Kung Fu Panda,Jennifer Yuh Nelson,DreamWorks,True,True
+83,Rise of the Guardians,2012,306066279,103415362,145000000,Animation,,Peter Ramsey,DreamWorks,False,True
+84,The Croods,2013,587204057,187695345,135000000,Animation,,Kirk DeMicco,DreamWorks,False,True
+85,The Croods: A New Age,2020,469891341,127369050,140000000,Animation,Croods,Joel Crawford,DreamWorks,True,True
+86,Megamind,2010,468683387,148760930,130000000,Animation,,Tom McGrath,DreamWorks,False,True
+87,Trolls,2016,344587573,153724407,125000000,Animation,Trolls,Mike Mitchell,DreamWorks,False,True
+88,Trolls World Tour,2020,380616879,126872339,80000000,Animation,Trolls,Walt Dohrn,DreamWorks,True,True
+89,Kung Fu Panda,2008,631744560,215398809,130000000,Animation,Kung Fu Panda,Mark Osborne,DreamWorks,False,True
+90,Kung Fu Panda 2,2011,665527395,165002051,150000000,Animation,Kung Fu Panda,Jennifer Yuh Nelson,DreamWorks,True,True
+91,How to Train Your Dragon,2010,494878759,217588003,165000000,Animation,Dragons,Dean DeBlois,DreamWorks,False,True
+92,How to Train Your Dragon 2,2014,618876695,258686621,145000000,Animation,Dragons,Dean DeBlois,DreamWorks,True,True
+93,How to Train Your Dragon 3,2019,521616256,159398718,150000000,Animation,Dragons,Dean DeBlois,DreamWorks,True,True
+94,Madagascar,2005,532692000,192971790,75000000,Animation,Madagascar,Eric Darnell,DreamWorks,False,True
+95,Madagascar 2,2008,604200000,187270000,75000000,Animation,Madagascar,Eric Darnell,DreamWorks,True,True
+96,Despicable Me,2010,543368506,160430685,69000000,Animation,Despicable Me,Pierre Coffin,Illumination,False,True
+97,Despicable Me 2,2013,970761885,367791993,76000000,Animation,Despicable Me,Pierre Coffin,Illumination,True,True
+98,Despicable Me 3,2017,1034799409,264624300,80000000,Animation,Despicable Me,Kyle Balda,Illumination,True,True
+100,The Secret Life of Pets,2016,875457937,368384330,75000000,Animation,,Eric Darnell,Illumination,False,True
+101,Sing,2016,633065556,274879808,75000000,Animation,,Christophe Lourdelet,Illumination,False,True
+102,Sing 2,2021,374065313,126000000,85000000,Animation,Sing,Christophe Lourdelet,Illumination,True,True
+103,The Secret Life of Pets 2,2019,431118094,158877425,80000000,Animation,Pets,Chris Renaud,Illumination,True,True
+104,Hop,2011,340275694,183388954,65000000,Animation,,Tim Hill,Illumination,False,True
+105,Horton Hears a Who!,2008,459323305,154529584,85000000,Animation,,Jimmy Hayward,Blue Sky Studios,False,True
+106,Ice Age,2002,383257136,176417760,59000000,Animation,Ice Age,Chris Wedge,20th Century Fox,False,True
+107,Ice Age: The Meltdown,2006,655664329,200959380,60000000,Animation,Ice Age,Carlos Saldanha,20th Century Fox,True,True
+108,Ice Age: Dawn of the Dinosaurs,2009,886686817,196573117,90000000,Animation,Ice Age,Carlos Saldanha,20th Century Fox,True,True
+109,Ice Age: Continental Drift,2012,877244008,161290200,95000000,Animation,Ice Age,Steve Martino,20th Century Fox,True,True
+110,Ice Age: Collision Course,2016,408619881,64089627,65000000,Animation,Ice Age,Mike Thurmeier,20th Century Fox,True,True
+111,Rio,2011,484606190,143616321,90000000,Animation,Rio,Carlos Saldanha,20th Century Fox,False,True
+112,Rio 2,2014,500456880,131309639,103000000,Animation,Rio,Carlos Saldanha,20th Century Fox,True,True
+113,Rango,2011,245155451,123480305,135000000,Animation,,Gore Verbinski,Paramount,False,True
+114,The Book of Life,2014,95454857,37872066,50000000,Animation,,Jorge R. Gutiérrez,20th Century Fox,False,True
+115,Curious George,2006,267575760,70099997,60000000,Animation,Curious George,Matthew O'Callaghan,Universal,False,True
+116,Charlotte's Web,2006,188895949,82689166,75000000,Animation,,Gary Winick,Paramount,False,True
+117,Stuart Little,1999,140475849,64314086,80000000,Animation,Stuart Little,Rob Minkoff,Columbia,False,True
+118,Bumblebee,2018,468261530,227870667,135000000,Action,Transformers,Travis Knight,Paramount,True,False
+119,Transformers,2007,709709780,319246193,150000000,Action,Transformers,Michael Bay,Paramount,False,False
+120,Transformers: Revenge of the Fallen,2009,836848151,402111738,200000000,Action,Transformers,Michael Bay,Paramount,True,False
+121,Transformers: Dark of the Moon,2011,1123646428,352390543,200000000,Action,Transformers,Michael Bay,Paramount,True,False
+122,Transformers: Age of Extinction,2014,1104054072,245439076,210000000,Action,Transformers,Michael Bay,Paramount,True,False
+123,Transformers: The Last Knight,2017,762682157,130168424,217000000,Action,Transformers,Michael Bay,Paramount,True,False
+124,Guardians of the Galaxy,2014,773638383,333176594,170000000,Action,MCU,James Gunn,Marvel Studios,False,False
+125,Guardians of the Galaxy Vol. 2,2017,863756034,389813856,200000000,Action,MCU,James Gunn,Marvel Studios,True,False
+126,Guardians of the Galaxy Vol. 3,2023,845289623,331187414,250000000,Action,MCU,James Gunn,Marvel Studios,True,False
+127,Thor,2011,449326618,181030016,150000000,Action,MCU,Kenneth Branagh,Marvel Studios,False,False
+128,Thor: The Dark World,2013,644571402,206362140,170000000,Action,MCU,Alan Taylor,Marvel Studios,True,False
+129,Thor: Ragnarok,2017,854461807,315058289,180000000,Action,MCU,Taika Waititi,Marvel Studios,True,False
+130,Iron Man,2008,585366247,318412291,140000000,Action,MCU,Jon Favreau,Marvel Studios,False,False
+131,Iron Man 2,2010,623933331,312057175,200000000,Action,MCU,Jon Favreau,Marvel Studios,True,False
+132,Captain America: The First Avenger,2011,370569774,176654505,140000000,Action,MCU,Joe Johnston,Marvel Studios,False,False
+133,Captain America: The Winter Soldier,2014,714766305,259759742,170000000,Action,MCU,Anthony & Joe Russo,Marvel Studios,True,False
+134,Ant-Man,2015,519311965,180202305,130000000,Action,MCU,Peyton Reed,Marvel Studios,False,False
+135,Ant-Man and the Wasp,2018,622706314,216648740,195000000,Action,MCU,Peyton Reed,Marvel Studios,True,False
+136,Black Widow,2021,379826451,183635505,200000000,Action,MCU,Cate Shortland,Marvel Studios,False,False
+137,Captain Marvel,2019,1128274794,426471595,175000000,Action,MCU,Anna Boden,Marvel Studios,False,False
+138,Spider-Man: Homecoming,2017,880166924,334201140,175000000,Action,Spider-Man,Jon Watts,Sony,False,False
+139,Spider-Man: Far From Home,2019,1131927996,390532085,160000000,Action,Spider-Man,Jon Watts,Sony,True,False
+140,The Amazing Spider-Man,2012,758225437,292587330,230000000,Action,Spider-Man,Marc Webb,Sony,False,False
+141,The Amazing Spider-Man 2,2014,709037765,321557177,255000000,Action,Spider-Man,Marc Webb,Sony,True,False
+142,Spider-Man 3,2007,891871626,336530303,258000000,Action,Spider-Man,Sam Raimi,Sony,True,False
+143,Spider-Man 2,2004,784009778,373585825,200000000,Action,Spider-Man,Sam Raimi,Sony,True,False
+144,Spider-Man,2002,822103006,407022728,139000000,Action,Spider-Man,Sam Raimi,Sony,False,False
+145,Venom,2018,856024408,213311220,100000000,Action,Marvel,Ruben Fleischer,Sony,False,False
+146,Venom: Let There Be Carnage,2021,502122430,213207118,200000000,Action,Marvel,Andy Serkis,Sony,True,False
+147,X-Men Origins: Wolverine,2009,373062864,179883157,150000000,Action,X-Men,Gavin Hood,20th Century Fox,False,False
+148,The Wolverine,2013,414031218,132560482,120000000,Action,X-Men,James Mangold,20th Century Fox,True,False
+149,Logan,2017,619021436,226277068,97000000,Action,X-Men,James Mangold,20th Century Fox,True,False
+150,X-Men: Days of Future Past,2014,747862775,233921534,165000000,Action,X-Men,Bryan Singer,20th Century Fox,True,False
+151,X-Men: The Last Stand,2006,604753969,234362141,210000000,Action,X-Men,Brett Ratner,20th Century Fox,True,False
+152,X-Men: Apocalypse,2016,543933666,155009746,178000000,Action,X-Men,Bryan Singer,20th Century Fox,True,False
+153,X-Men: Dark Phoenix,2019,252751822,65017516,200000000,Action,X-Men,Simon Kinberg,20th Century Fox,True,False
+154,Deadpool,2016,783112979,363070709,58000000,Action,X-Men,Tim Miller,20th Century Fox,False,False
+155,Deadpool 2,2018,785046920,324582498,110000000,Action,X-Men,David Leitch,20th Century Fox,True,False
+156,Wonder Woman,2017,822007722,412563408,149000000,Action,DC Extended,Patty Jenkins,Warner Bros,False,False
+157,Wonder Woman 1984,2020,822007722,169950241,200000000,Action,DC Extended,Patty Jenkins,Warner Bros,True,False
+158,Batman v Superman: Dawn of Justice,2016,873260194,330360194,250000000,Action,DC Extended,Zack Snyder,Warner Bros,True,False
+159,Superman Returns,2006,391081192,200081192,270000000,Action,Superman,Bryan Singer,Warner Bros,True,False
+160,Man of Steel,2013,668045518,291045518,225000000,Action,DC Extended,Zack Snyder,Warner Bros,False,False
+161,The Dark Knight,2008,1005064122,534858444,185000000,Action,Batman,Christopher Nolan,Warner Bros,True,False
+162,The Dark Knight Rises,2012,1081041287,448139099,250000000,Action,Batman,Christopher Nolan,Warner Bros,True,False
+163,Batman Begins,2005,375147760,206853925,150000000,Action,Batman,Christopher Nolan,Warner Bros,False,False
+164,Justice League,2017,657924571,229024910,300000000,Action,DC Extended,Zack Snyder,Warner Bros,True,False
+165,Aquaman and the Lost Kingdom,2023,439346305,134396305,250000000,Action,DC Extended,James Wan,Warner Bros,True,False
+166,Shazam! Fury of the Gods,2023,288820061,58820061,200000000,Action,DC Extended,David F. Sandberg,Warner Bros,True,False
+167,The Flash,2023,104822712,55313393,200000000,Action,DC Extended,Andy Muschietti,Warner Bros,False,False
+168,Eternals,2021,402115086,164370079,300000000,Action,MCU,Chloé Zhao,Marvel Studios,False,False
+169,Shang-Chi and the Legend of the Ten Rings,2021,432242351,224543292,150000000,Action,MCU,Destin Daniel Cretton,Marvel Studios,False,False
+170,Black Panther: Wakanda Forever,2022,859160608,453823998,250000000,Action,MCU,Ryan Coogler,Marvel Studios,True,False
+172,The Mummy,1999,416401889,135703889,80000000,Action,Universal Monsters,Stephen Sommers,Universal,False,False
+173,The Mummy Returns,2001,429946661,202007754,130000000,Action,Universal Monsters,Stephen Sommers,Universal,True,False
+174,The Mummy: Tomb of the Dragon Emperor,2008,407453881,102368143,145000000,Action,Universal Monsters,Rob Cohen,Universal,True,False
+175,Jurassic Park,1993,1038668406,402453156,63000000,Action,Jurassic,Steven Spielberg,Universal,False,False
+176,Jurassic Park III,2001,368875760,181171875,93000000,Action,Jurassic,Joe Johnston,Universal,True,False
+177,The Lost World: Jurassic Park,1997,618638999,229984375,100000000,Action,Jurassic,Steven Spielberg,Universal,True,False
+178,Jurassic World: Fallen Kingdom,2018,1310413368,417719262,170000000,Action,Jurassic,J.A. Bayona,Universal,True,False
+179,Jurassic World Dominion,2022,1003715284,376388819,165000000,Action,Jurassic,Colin Trevorrow,Universal,True,False
+180,Godzilla,2014,529076069,200124928,160000000,Action,Godzilla,Gareth Edwards,Warner Bros,False,False
+181,Godzilla: King of the Monsters,2019,384820245,110552940,200000000,Action,Godzilla,Michael Dougherty,Warner Bros,True,False
+182,Godzilla vs. Kong,2021,470099918,196352122,200000000,Action,MonsterVerse,Adam Wingard,Warner Bros,True,False
+183,Godzilla x Kong: The New Empire,2024,567167020,196424340,140000000,Action,MonsterVerse,Adam Wingard,Warner Bros,True,False
+184,King Kong,2005,562207947,218206409,207000000,Action,King Kong,Peter Jackson,Universal,False,False
+185,Rampage,2018,428758310,126068106,160000000,Action,,Brad Peyton,Warner Bros,False,False
+186,Dune,2021,636925760,231249487,165000000,Sci-Fi,Dune,Denis Villeneuve,Warner Bros,False,False
+187,Dune: Part Two,2024,711419839,282091656,190000000,Sci-Fi,Dune,Denis Villeneuve,Warner Bros,True,False
+188,Inception,2010,839292287,292587330,160000000,Sci-Fi,,Christopher Nolan,Warner Bros,False,False
+189,Interstellar,2014,731210309,188020017,165000000,Sci-Fi,,Christopher Nolan,Paramount,False,False
+191,Seabiscuit,2003,302576117,120087374,85000000,Drama,,Gary Ross,Universal,False,False
+192,Apollo 13,1995,355237933,125522557,52000000,Drama,,Ron Howard,Universal,False,False
+193,The Revenant,2015,532950695,183637430,135000000,Drama,,Alejandro González Iñárritu,20th Century Fox,False,False
+194,Oppenheimer,2023,952060471,326471445,100000000,Drama,,Christopher Nolan,Universal,False,False
+195,Killers of the Flower Moon,2023,156529284,59600961,200000000,Drama,,Martin Scorsese,Apple,False,False
+196,The Wolf of Wall Street,2013,392002827,116715172,100000000,Crime,,Martin Scorsese,Paramount,False,False
+197,Once Upon a Time in Hollywood,2019,405199931,142505000,95000000,Drama,,Quentin Tarantino,Sony,False,False
+198,Pulp Fiction,1994,213959223,100973993,8000000,Crime,,Quentin Tarantino,Miramax,False,False
+199,Inglourious Basterds,2009,321456983,120540760,70000000,War,,Quentin Tarantino,Universal,False,False
+200,The Hateful Eight,2015,160369000,60725522,44000000,Crime,,Quentin Tarantino,Weinstein,False,False

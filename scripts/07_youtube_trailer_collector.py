@@ -441,14 +441,20 @@ def main():
         records = records[: args.limit]
     logger.info(f"Loaded {len(records)} films from {args.input}")
 
-    # Resume: load already-processed records
+    # Resume: load already-processed records. Treat api_error (e.g. quota
+    # exhaustion) as NOT done, so a re-run after the daily quota resets retries them.
     already: Dict[Tuple[str, int], Dict] = {}
+    carry: list = []
     if args.resume and os.path.exists(args.output):
         with open(args.output, "r", encoding="utf-8") as f:
             for r in json.load(f):
+                if r.get("status") == "api_error":   # nested top-level 'status'
+                    continue  # retry these
                 already[(r.get("movie_title"), r.get("movie_year"))] = r
-        logger.info(f"Resume: {len(already)} films already done")
-    out_records = list(already.values())
+                carry.append(r)
+        n_retry = sum(1 for r in json.load(open(args.output)) if r.get("status") == "api_error")
+        logger.info(f"Resume: {len(already)} films kept; retrying {n_retry} api_error films")
+    out_records = list(carry)
 
     yt = build("youtube", "v3", developerKey=args.api_key,
                cache_discovery=False)

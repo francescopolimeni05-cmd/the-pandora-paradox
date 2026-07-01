@@ -230,7 +230,18 @@ def fetch_omdb(clean_title: str, year: int, api_key: str) -> Dict:
 
 
 def main():
-    in_path = os.path.join(DATA_DIR, "extended_api_data.json")
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--threshold", type=int, default=SUSPICION_THRESHOLD,
+                    help="Refetch any film whose current wiki total_views <= this. "
+                         "Raise it (e.g. 200000) to also catch blockbusters mis-resolved "
+                         "to a '(YYYY film)' redirect, like Inception (16,722). Safe: a film "
+                         "is only updated if a better title yields HIGHER views.")
+    ap.add_argument("--input", default=os.path.join(DATA_DIR, "extended_api_data.json"))
+    args = ap.parse_args()
+    threshold = args.threshold
+    in_path = args.input
+
     with open(in_path, "r", encoding="utf-8") as f:
         records = json.load(f)
     omdb_key = os.environ.get("OMDB_API_KEY")
@@ -239,9 +250,9 @@ def main():
     suspects: List[Dict] = []
     for rec in records:
         wp = (rec.get("metrics", {}) or {}).get("wikipedia_pageviews", {}) or {}
-        if (wp.get("total_views", 0) or 0) <= SUSPICION_THRESHOLD:
+        if (wp.get("total_views", 0) or 0) <= threshold:
             suspects.append(rec)
-    logger.info(f"Found {len(suspects)} films with wiki_views <= {SUSPICION_THRESHOLD}; refetching")
+    logger.info(f"Found {len(suspects)} films with wiki_views <= {threshold}; refetching")
 
     n_pageviews_fixed = 0
     n_wikiquote_fixed = 0

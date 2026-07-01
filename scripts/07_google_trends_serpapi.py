@@ -133,17 +133,47 @@ def fetch_trends(
     }
 
     last_error = None
-    for attempt in range(1, max_retries + 1):
+    attempt = 0
+    waits = 0
+    cooldown = 300       # 5-min park when we hit the hourly rate cap
+    max_waits = 24       # up to ~2h of patient waiting before giving up
+    while True:
         try:
             resp = requests.get(SERPAPI_ENDPOINT, params=params, timeout=timeout)
         except requests.RequestException as e:
             last_error = f"network: {e}"
+            attempt += 1
+            if attempt >= max_retries:
+                break
             time.sleep(2 * attempt)
             continue
 
-        if resp.status_code == 429:
-            last_error = f"http 429 — SerpAPI rate limit (unusual)"
-            time.sleep(5 * attempt)
+        body = None
+        if resp.status_code == 200:
+            try:
+                body = resp.json()
+            except ValueError:
+                last_error = "non-json response"
+                attempt += 1
+                if attempt >= max_retries:
+                    break
+                time.sleep(2 * attempt)
+                continue
+
+        # SerpAPI Starter plan = 200 searches/hour. On the hourly cap (429, or a
+        # 200 whose error text mentions hour/rate/run-out) we PARK and retry the
+        # same film, so one overnight run finishes everything hands-off.
+        err_msg = str((body or {}).get("error", "")).lower()
+        rate_limited = (resp.status_code == 429) or \
+            any(w in err_msg for w in ("per hour", "hour", "run out", "rate"))
+        if rate_limited:
+            if waits >= max_waits:
+                return {"movie_title": title, "movie_year": year,
+                        "status": "error", "error": "rate_limited_timeout"}
+            waits += 1
+            print(f"      ...limite orario SerpAPI (Trends): pausa {cooldown // 60} min, "
+                  f"poi riprendo (attesa {waits}/{max_waits})", flush=True)
+            time.sleep(cooldown)
             continue
 
         if resp.status_code != 200:
@@ -153,13 +183,6 @@ def fetch_trends(
                 "status": "error",
                 "error": f"http {resp.status_code}: {resp.text[:200]}",
             }
-
-        try:
-            body = resp.json()
-        except ValueError:
-            last_error = "non-json response"
-            time.sleep(2 * attempt)
-            continue
 
         if body.get("error"):
             return {

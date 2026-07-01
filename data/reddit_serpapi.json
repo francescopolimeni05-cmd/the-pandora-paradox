@@ -1,0 +1,2802 @@
+[
+  {
+    "movie_title": "Avatar",
+    "movie_year": 2009,
+    "reddit_serp_results": 8920000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Avengers: Endgame",
+    "movie_year": 2019,
+    "reddit_serp_results": 230000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Avatar: The Way of Water",
+    "movie_year": 2022,
+    "reddit_serp_results": 64500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Titanic",
+    "movie_year": 1997,
+    "reddit_serp_results": 422000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Star Wars: The Force Awakens",
+    "movie_year": 2015,
+    "reddit_serp_results": 70600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Avengers: Infinity War",
+    "movie_year": 2018,
+    "reddit_serp_results": 119000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spider-Man: No Way Home",
+    "movie_year": 2021,
+    "reddit_serp_results": 192000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Inside Out 2",
+    "movie_year": 2024,
+    "reddit_serp_results": 63100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jurassic World",
+    "movie_year": 2015,
+    "reddit_serp_results": 398000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Lion King (2019)",
+    "movie_year": 2019,
+    "reddit_serp_results": 10600,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Avengers",
+    "movie_year": 2012,
+    "reddit_serp_results": 389000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Furious 7",
+    "movie_year": 2015,
+    "reddit_serp_results": 39000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Frozen II",
+    "movie_year": 2019,
+    "reddit_serp_results": 25200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Top Gun: Maverick",
+    "movie_year": 2022,
+    "reddit_serp_results": 241000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Barbie",
+    "movie_year": 2023,
+    "reddit_serp_results": 1510000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Avengers: Age of Ultron",
+    "movie_year": 2015,
+    "reddit_serp_results": 78800,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Black Panther",
+    "movie_year": 2018,
+    "reddit_serp_results": 66400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+    "movie_year": 2011,
+    "reddit_serp_results": 10600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Star Wars: The Last Jedi",
+    "movie_year": 2017,
+    "reddit_serp_results": 50300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Aquaman",
+    "movie_year": 2018,
+    "reddit_serp_results": 274000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Incredibles 2",
+    "movie_year": 2018,
+    "reddit_serp_results": 47100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Fate of the Furious",
+    "movie_year": 2017,
+    "reddit_serp_results": 9200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Frozen",
+    "movie_year": 2013,
+    "reddit_serp_results": 2400000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Minions",
+    "movie_year": 2015,
+    "reddit_serp_results": 314000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Captain America: Civil War",
+    "movie_year": 2016,
+    "reddit_serp_results": 116000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Beauty and the Beast (2017)",
+    "movie_year": 2017,
+    "reddit_serp_results": 6130,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Rogue One: A Star Wars Story",
+    "movie_year": 2016,
+    "reddit_serp_results": 23600,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Finding Dory",
+    "movie_year": 2016,
+    "reddit_serp_results": 24900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Iron Man 3",
+    "movie_year": 2013,
+    "reddit_serp_results": 139000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Toy Story 4",
+    "movie_year": 2019,
+    "reddit_serp_results": 107000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Doctor Strange in the Multiverse of Madness",
+    "movie_year": 2022,
+    "reddit_serp_results": 49600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Thor: Love and Thunder",
+    "movie_year": 2022,
+    "reddit_serp_results": 97800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ant-Man and the Wasp: Quantumania",
+    "movie_year": 2023,
+    "reddit_serp_results": 32000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Shrek Forever After",
+    "movie_year": 2010,
+    "reddit_serp_results": 17400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Shrek the Third",
+    "movie_year": 2007,
+    "reddit_serp_results": 16600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Shrek 2",
+    "movie_year": 2004,
+    "reddit_serp_results": 110000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Shrek",
+    "movie_year": 2001,
+    "reddit_serp_results": 614000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "movie_year": 2017,
+    "reddit_serp_results": 8270,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: On Stranger Tides",
+    "movie_year": 2011,
+    "reddit_serp_results": 6760,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: Dead Man's Chest",
+    "movie_year": 2006,
+    "reddit_serp_results": 11000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "movie_year": 2003,
+    "reddit_serp_results": 11300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Toy Story",
+    "movie_year": 1995,
+    "reddit_serp_results": 668000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Toy Story 2",
+    "movie_year": 1999,
+    "reddit_serp_results": 101000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Toy Story 3",
+    "movie_year": 2010,
+    "reddit_serp_results": 96000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cars",
+    "movie_year": 2006,
+    "reddit_serp_results": 8840000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cars 2",
+    "movie_year": 2011,
+    "reddit_serp_results": 102000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cars 3",
+    "movie_year": 2017,
+    "reddit_serp_results": 76700,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Monsters University",
+    "movie_year": 2013,
+    "reddit_serp_results": 27200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Monsters, Inc.",
+    "movie_year": 2001,
+    "reddit_serp_results": 101000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Up",
+    "movie_year": 2009,
+    "reddit_serp_results": 139000000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "WALL-E",
+    "movie_year": 2008,
+    "reddit_serp_results": 262000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ratatouille",
+    "movie_year": 2007,
+    "reddit_serp_results": 143000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Incredibles",
+    "movie_year": 2004,
+    "reddit_serp_results": 105000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "A Bug's Life",
+    "movie_year": 1998,
+    "reddit_serp_results": 38700,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Finding Nemo",
+    "movie_year": 2003,
+    "reddit_serp_results": 65100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Coco",
+    "movie_year": 2017,
+    "reddit_serp_results": 344000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Encanto",
+    "movie_year": 2021,
+    "reddit_serp_results": 200000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Mulan",
+    "movie_year": 1998,
+    "reddit_serp_results": 177000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Jungle Book",
+    "movie_year": 1967,
+    "reddit_serp_results": 39900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "101 Dalmatians",
+    "movie_year": 1961,
+    "reddit_serp_results": 25100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Lion King (1994)",
+    "movie_year": 1994,
+    "reddit_serp_results": 14800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Little Mermaid",
+    "movie_year": 1989,
+    "reddit_serp_results": 82100,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Beauty and the Beast (1991)",
+    "movie_year": 1991,
+    "reddit_serp_results": 10000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Aladdin",
+    "movie_year": 1992,
+    "reddit_serp_results": 241000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Snow White and the Seven Dwarfs",
+    "movie_year": 1937,
+    "reddit_serp_results": 11100,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cinderella",
+    "movie_year": 1950,
+    "reddit_serp_results": 224000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Sleeping Beauty",
+    "movie_year": 1959,
+    "reddit_serp_results": 55900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Tangled",
+    "movie_year": 2010,
+    "reddit_serp_results": 208000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Wreck-It Ralph",
+    "movie_year": 2012,
+    "reddit_serp_results": 52600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Big Hero 6",
+    "movie_year": 2014,
+    "reddit_serp_results": 69000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Moana",
+    "movie_year": 2016,
+    "reddit_serp_results": 261000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Zootopia",
+    "movie_year": 2016,
+    "reddit_serp_results": 365000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Raya and the Last Dragon",
+    "movie_year": 2021,
+    "reddit_serp_results": 16400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Turning Red",
+    "movie_year": 2022,
+    "reddit_serp_results": 87600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Lightyear",
+    "movie_year": 2022,
+    "reddit_serp_results": 124000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Elemental",
+    "movie_year": 2023,
+    "reddit_serp_results": 266000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Wish",
+    "movie_year": 2023,
+    "reddit_serp_results": 46300000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Madagascar 3",
+    "movie_year": 2012,
+    "reddit_serp_results": 13300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Kung Fu Panda 3",
+    "movie_year": 2016,
+    "reddit_serp_results": 30900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Rise of the Guardians",
+    "movie_year": 2012,
+    "reddit_serp_results": 36100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Croods",
+    "movie_year": 2013,
+    "reddit_serp_results": 16600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Croods: A New Age",
+    "movie_year": 2020,
+    "reddit_serp_results": 2670,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Megamind",
+    "movie_year": 2010,
+    "reddit_serp_results": 102000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Trolls",
+    "movie_year": 2016,
+    "reddit_serp_results": 391000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Trolls World Tour",
+    "movie_year": 2020,
+    "reddit_serp_results": 6380,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Kung Fu Panda",
+    "movie_year": 2008,
+    "reddit_serp_results": 171000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Kung Fu Panda 2",
+    "movie_year": 2011,
+    "reddit_serp_results": 41100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "How to Train Your Dragon",
+    "movie_year": 2010,
+    "reddit_serp_results": 146000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "How to Train Your Dragon 2",
+    "movie_year": 2014,
+    "reddit_serp_results": 20700,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "How to Train Your Dragon 3",
+    "movie_year": 2019,
+    "reddit_serp_results": 4340,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Madagascar",
+    "movie_year": 2005,
+    "reddit_serp_results": 108000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Madagascar 2",
+    "movie_year": 2008,
+    "reddit_serp_results": 10800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Despicable Me",
+    "movie_year": 2010,
+    "reddit_serp_results": 98000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Despicable Me 2",
+    "movie_year": 2013,
+    "reddit_serp_results": 16400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Despicable Me 3",
+    "movie_year": 2017,
+    "reddit_serp_results": 13900,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Secret Life of Pets",
+    "movie_year": 2016,
+    "reddit_serp_results": 13100,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Sing",
+    "movie_year": 2016,
+    "reddit_serp_results": 5660000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Sing 2",
+    "movie_year": 2021,
+    "reddit_serp_results": 22200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Secret Life of Pets 2",
+    "movie_year": 2019,
+    "reddit_serp_results": 3060,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Hop",
+    "movie_year": 2011,
+    "reddit_serp_results": 2890000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Horton Hears a Who!",
+    "movie_year": 2008,
+    "reddit_serp_results": 10600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ice Age",
+    "movie_year": 2002,
+    "reddit_serp_results": 136000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ice Age: The Meltdown",
+    "movie_year": 2006,
+    "reddit_serp_results": 2020,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ice Age: Dawn of the Dinosaurs",
+    "movie_year": 2009,
+    "reddit_serp_results": 3140,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ice Age: Continental Drift",
+    "movie_year": 2012,
+    "reddit_serp_results": 3030,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ice Age: Collision Course",
+    "movie_year": 2016,
+    "reddit_serp_results": 3750,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Rio",
+    "movie_year": 2011,
+    "reddit_serp_results": 401000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Rio 2",
+    "movie_year": 2014,
+    "reddit_serp_results": 15300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Rango",
+    "movie_year": 2011,
+    "reddit_serp_results": 167000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Book of Life",
+    "movie_year": 2014,
+    "reddit_serp_results": 65300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Curious George",
+    "movie_year": 2006,
+    "reddit_serp_results": 22400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Charlotte's Web",
+    "movie_year": 2006,
+    "reddit_serp_results": 16600,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Stuart Little",
+    "movie_year": 1999,
+    "reddit_serp_results": 23100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Bumblebee",
+    "movie_year": 2018,
+    "reddit_serp_results": 264000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Transformers",
+    "movie_year": 2007,
+    "reddit_serp_results": 3820000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Transformers: Revenge of the Fallen",
+    "movie_year": 2009,
+    "reddit_serp_results": 19300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Transformers: Dark of the Moon",
+    "movie_year": 2011,
+    "reddit_serp_results": 13900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Transformers: Age of Extinction",
+    "movie_year": 2014,
+    "reddit_serp_results": 26300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Transformers: The Last Knight",
+    "movie_year": 2017,
+    "reddit_serp_results": 27200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Guardians of the Galaxy",
+    "movie_year": 2014,
+    "reddit_serp_results": 395000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Guardians of the Galaxy Vol. 2",
+    "movie_year": 2017,
+    "reddit_serp_results": 36200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Guardians of the Galaxy Vol. 3",
+    "movie_year": 2023,
+    "reddit_serp_results": 47500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Thor",
+    "movie_year": 2011,
+    "reddit_serp_results": 2270000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Thor: The Dark World",
+    "movie_year": 2013,
+    "reddit_serp_results": 50100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Thor: Ragnarok",
+    "movie_year": 2017,
+    "reddit_serp_results": 112000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Iron Man",
+    "movie_year": 2008,
+    "reddit_serp_results": 1700000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Iron Man 2",
+    "movie_year": 2010,
+    "reddit_serp_results": 215000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Captain America: The First Avenger",
+    "movie_year": 2011,
+    "reddit_serp_results": 39600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Captain America: The Winter Soldier",
+    "movie_year": 2014,
+    "reddit_serp_results": 47800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ant-Man",
+    "movie_year": 2015,
+    "reddit_serp_results": 197000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ant-Man and the Wasp",
+    "movie_year": 2018,
+    "reddit_serp_results": 77400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Black Widow",
+    "movie_year": 2021,
+    "reddit_serp_results": 193000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Captain Marvel",
+    "movie_year": 2019,
+    "reddit_serp_results": 289000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spider-Man: Homecoming",
+    "movie_year": 2017,
+    "reddit_serp_results": 77800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spider-Man: Far From Home",
+    "movie_year": 2019,
+    "reddit_serp_results": 29100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Amazing Spider-Man",
+    "movie_year": 2012,
+    "reddit_serp_results": 239000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Amazing Spider-Man 2",
+    "movie_year": 2014,
+    "reddit_serp_results": 87100,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spider-Man 3",
+    "movie_year": 2007,
+    "reddit_serp_results": 258000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spider-Man 2",
+    "movie_year": 2004,
+    "reddit_serp_results": 651000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spider-Man",
+    "movie_year": 2002,
+    "reddit_serp_results": 10100000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Venom",
+    "movie_year": 2018,
+    "reddit_serp_results": 666000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Venom: Let There Be Carnage",
+    "movie_year": 2021,
+    "reddit_serp_results": 22300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "X-Men Origins: Wolverine",
+    "movie_year": 2009,
+    "reddit_serp_results": 60600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Wolverine",
+    "movie_year": 2013,
+    "reddit_serp_results": 62800,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Logan",
+    "movie_year": 2017,
+    "reddit_serp_results": 627000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "X-Men: Days of Future Past",
+    "movie_year": 2014,
+    "reddit_serp_results": 38200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "X-Men: The Last Stand",
+    "movie_year": 2006,
+    "reddit_serp_results": 12100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "X-Men: Apocalypse",
+    "movie_year": 2016,
+    "reddit_serp_results": 25500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "X-Men: Dark Phoenix",
+    "movie_year": 2019,
+    "reddit_serp_results": 16100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Deadpool",
+    "movie_year": 2016,
+    "reddit_serp_results": 1380000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Deadpool 2",
+    "movie_year": 2018,
+    "reddit_serp_results": 95400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Wonder Woman",
+    "movie_year": 2017,
+    "reddit_serp_results": 540000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Wonder Woman 1984",
+    "movie_year": 2020,
+    "reddit_serp_results": 32900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Batman v Superman: Dawn of Justice",
+    "movie_year": 2016,
+    "reddit_serp_results": 50800,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Superman Returns",
+    "movie_year": 2006,
+    "reddit_serp_results": 68300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Man of Steel",
+    "movie_year": 2013,
+    "reddit_serp_results": 173000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Dark Knight",
+    "movie_year": 2008,
+    "reddit_serp_results": 612000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Dark Knight Rises",
+    "movie_year": 2012,
+    "reddit_serp_results": 186000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Batman Begins",
+    "movie_year": 2005,
+    "reddit_serp_results": 183000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Justice League",
+    "movie_year": 2017,
+    "reddit_serp_results": 846000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Aquaman and the Lost Kingdom",
+    "movie_year": 2023,
+    "reddit_serp_results": 15600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Shazam! Fury of the Gods",
+    "movie_year": 2023,
+    "reddit_serp_results": 14200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Flash",
+    "movie_year": 2023,
+    "reddit_serp_results": 322000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Eternals",
+    "movie_year": 2021,
+    "reddit_serp_results": 185000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Shang-Chi and the Legend of the Ten Rings",
+    "movie_year": 2021,
+    "reddit_serp_results": 17700,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Black Panther: Wakanda Forever",
+    "movie_year": 2022,
+    "reddit_serp_results": 33900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Mummy",
+    "movie_year": 1999,
+    "reddit_serp_results": 133000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Mummy Returns",
+    "movie_year": 2001,
+    "reddit_serp_results": 20200,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Mummy: Tomb of the Dragon Emperor",
+    "movie_year": 2008,
+    "reddit_serp_results": 3640,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jurassic Park",
+    "movie_year": 1993,
+    "reddit_serp_results": 447000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jurassic Park III",
+    "movie_year": 2001,
+    "reddit_serp_results": 22700,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Lost World: Jurassic Park",
+    "movie_year": 1997,
+    "reddit_serp_results": 27800,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jurassic World: Fallen Kingdom",
+    "movie_year": 2018,
+    "reddit_serp_results": 33000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jurassic World Dominion",
+    "movie_year": 2022,
+    "reddit_serp_results": 72300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Godzilla",
+    "movie_year": 2014,
+    "reddit_serp_results": 2280000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Godzilla: King of the Monsters",
+    "movie_year": 2019,
+    "reddit_serp_results": 79600,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Godzilla vs. Kong",
+    "movie_year": 2021,
+    "reddit_serp_results": 108000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Godzilla x Kong: The New Empire",
+    "movie_year": 2024,
+    "reddit_serp_results": 21100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "King Kong",
+    "movie_year": 2005,
+    "reddit_serp_results": 338000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Rampage",
+    "movie_year": 2018,
+    "reddit_serp_results": 152000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Dune",
+    "movie_year": 2021,
+    "reddit_serp_results": 1790000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Dune: Part Two",
+    "movie_year": 2024,
+    "reddit_serp_results": 54300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Inception",
+    "movie_year": 2010,
+    "reddit_serp_results": 437000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Interstellar",
+    "movie_year": 2014,
+    "reddit_serp_results": 850000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Seabiscuit",
+    "movie_year": 2003,
+    "reddit_serp_results": 11800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Apollo 13",
+    "movie_year": 1995,
+    "reddit_serp_results": 78000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Revenant",
+    "movie_year": 2015,
+    "reddit_serp_results": 99000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Oppenheimer",
+    "movie_year": 2023,
+    "reddit_serp_results": 483000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Killers of the Flower Moon",
+    "movie_year": 2023,
+    "reddit_serp_results": 70600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Wolf of Wall Street",
+    "movie_year": 2013,
+    "reddit_serp_results": 90300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Once Upon a Time in Hollywood",
+    "movie_year": 2019,
+    "reddit_serp_results": 146000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pulp Fiction",
+    "movie_year": 1994,
+    "reddit_serp_results": 388000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Inglourious Basterds",
+    "movie_year": 2009,
+    "reddit_serp_results": 96400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Hateful Eight",
+    "movie_year": 2015,
+    "reddit_serp_results": 58600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Big Lebowski",
+    "movie_year": 1998,
+    "reddit_serp_results": 90400,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Donnie Darko",
+    "movie_year": 2001,
+    "reddit_serp_results": 173000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Fight Club",
+    "movie_year": 1999,
+    "reddit_serp_results": 378000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Office Space",
+    "movie_year": 1999,
+    "reddit_serp_results": 138000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Blade Runner",
+    "movie_year": 1982,
+    "reddit_serp_results": 655000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Thing",
+    "movie_year": 1982,
+    "reddit_serp_results": 22100000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Shawshank Redemption",
+    "movie_year": 1994,
+    "reddit_serp_results": 78400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Scott Pilgrim vs. the World",
+    "movie_year": 2010,
+    "reddit_serp_results": 92000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Clerks",
+    "movie_year": 1994,
+    "reddit_serp_results": 126000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pi",
+    "movie_year": 1998,
+    "reddit_serp_results": 480000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Memento",
+    "movie_year": 2000,
+    "reddit_serp_results": 229000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Primer",
+    "movie_year": 2004,
+    "reddit_serp_results": 2430000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Moon",
+    "movie_year": 2009,
+    "reddit_serp_results": 15700000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Man from Earth",
+    "movie_year": 2007,
+    "reddit_serp_results": 16300,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Coherence",
+    "movie_year": 2013,
+    "reddit_serp_results": 82300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Napoleon Dynamite",
+    "movie_year": 2004,
+    "reddit_serp_results": 16800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Mean Girls",
+    "movie_year": 2004,
+    "reddit_serp_results": 275000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "American Psycho",
+    "movie_year": 2000,
+    "reddit_serp_results": 134000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Heathers",
+    "movie_year": 1988,
+    "reddit_serp_results": 108000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Wet Hot American Summer",
+    "movie_year": 2001,
+    "reddit_serp_results": 28200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Idiocracy",
+    "movie_year": 2006,
+    "reddit_serp_results": 169000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Boondock Saints",
+    "movie_year": 1999,
+    "reddit_serp_results": 16000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Room",
+    "movie_year": 2003,
+    "reddit_serp_results": 11400000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Princess Bride",
+    "movie_year": 1987,
+    "reddit_serp_results": 124000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Labyrinth",
+    "movie_year": 1986,
+    "reddit_serp_results": 218000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Dark Crystal",
+    "movie_year": 1982,
+    "reddit_serp_results": 41400,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Tron",
+    "movie_year": 1982,
+    "reddit_serp_results": 209000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Fear and Loathing in Las Vegas",
+    "movie_year": 1998,
+    "reddit_serp_results": 43300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Bring It On",
+    "movie_year": 2000,
+    "reddit_serp_results": 185000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jennifer's Body",
+    "movie_year": 2009,
+    "reddit_serp_results": 56600,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Hocus Pocus",
+    "movie_year": 1993,
+    "reddit_serp_results": 76500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Iron Giant",
+    "movie_year": 1999,
+    "reddit_serp_results": 45300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Treasure Planet",
+    "movie_year": 2002,
+    "reddit_serp_results": 65000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Children of Men",
+    "movie_year": 2006,
+    "reddit_serp_results": 64300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Snatch",
+    "movie_year": 2000,
+    "reddit_serp_results": 256000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Lock, Stock and Two Smoking Barrels",
+    "movie_year": 1998,
+    "reddit_serp_results": 37700,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Trainspotting",
+    "movie_year": 1996,
+    "reddit_serp_results": 142000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Requiem for a Dream",
+    "movie_year": 2000,
+    "reddit_serp_results": 83600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Dredd",
+    "movie_year": 2012,
+    "reddit_serp_results": 169000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Edge of Tomorrow",
+    "movie_year": 2014,
+    "reddit_serp_results": 112000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Blade Runner 2049",
+    "movie_year": 2017,
+    "reddit_serp_results": 220000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Nice Guys",
+    "movie_year": 2016,
+    "reddit_serp_results": 76500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Annihilation",
+    "movie_year": 2018,
+    "reddit_serp_results": 329000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Sorry to Bother You",
+    "movie_year": 2018,
+    "reddit_serp_results": 57500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Swiss Army Man",
+    "movie_year": 2016,
+    "reddit_serp_results": 44400,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Lighthouse",
+    "movie_year": 2019,
+    "reddit_serp_results": 142000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Mandy",
+    "movie_year": 2018,
+    "reddit_serp_results": 226000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Hackers",
+    "movie_year": 1995,
+    "reddit_serp_results": 211000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Empire Records",
+    "movie_year": 1995,
+    "reddit_serp_results": 36000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Dazed and Confused",
+    "movie_year": 1993,
+    "reddit_serp_results": 87300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "This Is Spinal Tap",
+    "movie_year": 1984,
+    "reddit_serp_results": 46900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Brazil",
+    "movie_year": 1985,
+    "reddit_serp_results": 775000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Repo Man",
+    "movie_year": 1984,
+    "reddit_serp_results": 46900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Withnail and I",
+    "movie_year": 1987,
+    "reddit_serp_results": 15300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "A Clockwork Orange",
+    "movie_year": 1971,
+    "reddit_serp_results": 94900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Eraserhead",
+    "movie_year": 1977,
+    "reddit_serp_results": 113000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Harold and Maude",
+    "movie_year": 1971,
+    "reddit_serp_results": 23300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "John Carter",
+    "movie_year": 2012,
+    "reddit_serp_results": 32500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Lone Ranger",
+    "movie_year": 2013,
+    "reddit_serp_results": 15400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cutthroat Island",
+    "movie_year": 1995,
+    "reddit_serp_results": 12800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Heaven's Gate",
+    "movie_year": 1980,
+    "reddit_serp_results": 37600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Waterworld",
+    "movie_year": 1995,
+    "reddit_serp_results": 60600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ishtar",
+    "movie_year": 1987,
+    "reddit_serp_results": 31800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Battlefield Earth",
+    "movie_year": 2000,
+    "reddit_serp_results": 33800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Adventures of Pluto Nash",
+    "movie_year": 2002,
+    "reddit_serp_results": 2420,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Mars Needs Moms",
+    "movie_year": 2011,
+    "reddit_serp_results": 11000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Gigli",
+    "movie_year": 2003,
+    "reddit_serp_results": 17700,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Catwoman",
+    "movie_year": 2004,
+    "reddit_serp_results": 220000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The 13th Warrior",
+    "movie_year": 1999,
+    "reddit_serp_results": 14600,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Sahara",
+    "movie_year": 2005,
+    "reddit_serp_results": 67600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Final Fantasy: The Spirits Within",
+    "movie_year": 2001,
+    "reddit_serp_results": 12000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Speed Racer",
+    "movie_year": 2008,
+    "reddit_serp_results": 106000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Jupiter Ascending",
+    "movie_year": 2015,
+    "reddit_serp_results": 24300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Tomorrowland",
+    "movie_year": 2015,
+    "reddit_serp_results": 55200,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Golden Compass",
+    "movie_year": 2007,
+    "reddit_serp_results": 10300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pan",
+    "movie_year": 2015,
+    "reddit_serp_results": 2240000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "King Arthur: Legend of the Sword",
+    "movie_year": 2017,
+    "reddit_serp_results": 5110,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Valerian and the City of a Thousand Planets",
+    "movie_year": 2017,
+    "reddit_serp_results": 11700,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ben-Hur",
+    "movie_year": 2016,
+    "reddit_serp_results": 69300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Monster Trucks",
+    "movie_year": 2016,
+    "reddit_serp_results": 18100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "A Wrinkle in Time",
+    "movie_year": 2018,
+    "reddit_serp_results": 14000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cats",
+    "movie_year": 2019,
+    "reddit_serp_results": 8090000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Happening",
+    "movie_year": 2008,
+    "reddit_serp_results": 44000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Green Lantern",
+    "movie_year": 2011,
+    "reddit_serp_results": 188000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "R.I.P.D.",
+    "movie_year": 2013,
+    "reddit_serp_results": 13800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "47 Ronin",
+    "movie_year": 2013,
+    "reddit_serp_results": 16500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Dark Phoenix",
+    "movie_year": 2019,
+    "reddit_serp_results": 71000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Terminator: Dark Fate",
+    "movie_year": 2019,
+    "reddit_serp_results": 28700,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Solo: A Star Wars Story",
+    "movie_year": 2018,
+    "reddit_serp_results": 28100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Babylon",
+    "movie_year": 2022,
+    "reddit_serp_results": 306000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Amsterdam",
+    "movie_year": 2022,
+    "reddit_serp_results": 219000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Strange World",
+    "movie_year": 2022,
+    "reddit_serp_results": 60500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Marvels",
+    "movie_year": 2023,
+    "reddit_serp_results": 168000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Mortal Engines",
+    "movie_year": 2018,
+    "reddit_serp_results": 22100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Robin Hood",
+    "movie_year": 2018,
+    "reddit_serp_results": 300000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Nutcracker and the Four Realms",
+    "movie_year": 2018,
+    "reddit_serp_results": 2640,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Cleopatra",
+    "movie_year": 1963,
+    "reddit_serp_results": 140000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Blair Witch Project",
+    "movie_year": 1999,
+    "reddit_serp_results": 88100,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Paranormal Activity",
+    "movie_year": 2007,
+    "reddit_serp_results": 121000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Once",
+    "movie_year": 2007,
+    "reddit_serp_results": 61300000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Little Miss Sunshine",
+    "movie_year": 2006,
+    "reddit_serp_results": 64100,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Juno",
+    "movie_year": 2007,
+    "reddit_serp_results": 159000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Get Out",
+    "movie_year": 2017,
+    "reddit_serp_results": 19200000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Hereditary",
+    "movie_year": 2018,
+    "reddit_serp_results": 354000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Witch",
+    "movie_year": 2015,
+    "reddit_serp_results": 428000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "It Follows",
+    "movie_year": 2014,
+    "reddit_serp_results": 310000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Whiplash",
+    "movie_year": 2014,
+    "reddit_serp_results": 304000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Ex Machina",
+    "movie_year": 2014,
+    "reddit_serp_results": 144000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Lady Bird",
+    "movie_year": 2017,
+    "reddit_serp_results": 85800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Moonlight",
+    "movie_year": 2016,
+    "reddit_serp_results": 304000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Florida Project",
+    "movie_year": 2017,
+    "reddit_serp_results": 41200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Tangerine",
+    "movie_year": 2015,
+    "reddit_serp_results": 108000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Eighth Grade",
+    "movie_year": 2018,
+    "reddit_serp_results": 40800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Saw",
+    "movie_year": 2004,
+    "reddit_serp_results": 62000000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Open Water",
+    "movie_year": 2003,
+    "reddit_serp_results": 46200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Chronicle",
+    "movie_year": 2012,
+    "reddit_serp_results": 161000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "District 9",
+    "movie_year": 2009,
+    "reddit_serp_results": 45900,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Looper",
+    "movie_year": 2012,
+    "reddit_serp_results": 113000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Brick",
+    "movie_year": 2005,
+    "reddit_serp_results": 1370000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Babadook",
+    "movie_year": 2014,
+    "reddit_serp_results": 56500,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "A Ghost Story",
+    "movie_year": 2017,
+    "reddit_serp_results": 30100,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Frances Ha",
+    "movie_year": 2012,
+    "reddit_serp_results": 32800,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "500 Days of Summer",
+    "movie_year": 2009,
+    "reddit_serp_results": 72100,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Lost in Translation",
+    "movie_year": 2003,
+    "reddit_serp_results": 68200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Garden State",
+    "movie_year": 2004,
+    "reddit_serp_results": 45200,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Booksmart",
+    "movie_year": 2019,
+    "reddit_serp_results": 42600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Uncut Gems",
+    "movie_year": 2019,
+    "reddit_serp_results": 122000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Good Time",
+    "movie_year": 2017,
+    "reddit_serp_results": 2190000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Lobster",
+    "movie_year": 2015,
+    "reddit_serp_results": 59500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Amelie",
+    "movie_year": 2001,
+    "reddit_serp_results": 79500,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Oldboy",
+    "movie_year": 2003,
+    "reddit_serp_results": 89500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Pan's Labyrinth",
+    "movie_year": 2006,
+    "reddit_serp_results": 46600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "City of God",
+    "movie_year": 2002,
+    "reddit_serp_results": 86000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Akira",
+    "movie_year": 1988,
+    "reddit_serp_results": 390000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Princess Mononoke",
+    "movie_year": 1997,
+    "reddit_serp_results": 64200,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Drive",
+    "movie_year": 2011,
+    "reddit_serp_results": 26500000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Burning",
+    "movie_year": 2018,
+    "reddit_serp_results": 5580000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "A Separation",
+    "movie_year": 2011,
+    "reddit_serp_results": 31000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Enter the Void",
+    "movie_year": 2009,
+    "reddit_serp_results": 36500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Spring Breakers",
+    "movie_year": 2012,
+    "reddit_serp_results": 21600,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Nightcrawler",
+    "movie_year": 2014,
+    "reddit_serp_results": 182000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Birdman",
+    "movie_year": 2014,
+    "reddit_serp_results": 105000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Her",
+    "movie_year": 2013,
+    "reddit_serp_results": 73800000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Grand Budapest Hotel",
+    "movie_year": 2014,
+    "reddit_serp_results": 59700,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Eternal Sunshine of the Spotless Mind",
+    "movie_year": 2004,
+    "reddit_serp_results": 138000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "There Will Be Blood",
+    "movie_year": 2007,
+    "reddit_serp_results": 165000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "No Country for Old Men",
+    "movie_year": 2007,
+    "reddit_serp_results": 223000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Donnie Brasco",
+    "movie_year": 1997,
+    "reddit_serp_results": 31300,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Gattaca",
+    "movie_year": 1997,
+    "reddit_serp_results": 74200,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Event Horizon",
+    "movie_year": 1997,
+    "reddit_serp_results": 90500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Dark City",
+    "movie_year": 1998,
+    "reddit_serp_results": 90500,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "The Fountain",
+    "movie_year": 2006,
+    "reddit_serp_results": 86900,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Sunshine",
+    "movie_year": 2007,
+    "reddit_serp_results": 899000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Grindhouse",
+    "movie_year": 2007,
+    "reddit_serp_results": 94300,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "MacGruber",
+    "movie_year": 2010,
+    "reddit_serp_results": 19400,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Kung Fury",
+    "movie_year": 2015,
+    "reddit_serp_results": 24600,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  }
+]

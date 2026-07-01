@@ -1,0 +1,788 @@
+[
+  {
+    "title": "Tomorrowland",
+    "year": 2015,
+    "quotes": [
+      "We are the Future."
+    ]
+  },
+  {
+    "title": "The Secret Life of Pets 2",
+    "year": 2019,
+    "quotes": [
+      "And, Thank you!"
+    ]
+  },
+  {
+    "title": "Rio 2",
+    "year": 2014,
+    "quotes": [
+      "Back to the party",
+      "It's on in the Amazon!"
+    ]
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "quotes": [
+      "I See You."
+    ]
+  },
+  {
+    "title": "Incredibles 2",
+    "year": 2018,
+    "quotes": [
+      "Oh, my god.",
+      "Well, that went poorly."
+    ]
+  },
+  {
+    "title": "The Croods",
+    "year": 2013,
+    "quotes": [
+      "I have an idea!"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "year": 2017,
+    "quotes": [
+      "This is not over!"
+    ]
+  },
+  {
+    "title": "Man of Steel",
+    "year": 2013,
+    "quotes": [
+      "Welcome to the Planet."
+    ]
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "quotes": [
+      "That's for sure."
+    ]
+  },
+  {
+    "title": "Shrek Forever After",
+    "year": 2010,
+    "quotes": [
+      "The Final Chapter"
+    ]
+  },
+  {
+    "title": "Cinderella",
+    "year": 1950,
+    "quotes": [
+      "Are you going to get it?",
+      "We have to get dressed!"
+    ]
+  },
+  {
+    "title": "A Bug's Life",
+    "year": 1998,
+    "quotes": [
+      "Leave the island?!"
+    ]
+  },
+  {
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "quotes": [
+      "No, Thank you."
+    ]
+  },
+  {
+    "title": "Saw",
+    "year": 2004,
+    "quotes": [
+      "I want to play a game."
+    ]
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "quotes": [
+      "I love this car.",
+      "That’s my car!",
+      "Shia LaBeouf as Sam Witwicky"
+    ]
+  },
+  {
+    "title": "The Fountain",
+    "year": 2006,
+    "quotes": [
+      "I'm here for her."
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": 2016,
+    "quotes": [
+      "Kung Fu Panda",
+      "The weight is over.",
+      "Kung Fu Panda 2"
+    ]
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "year": 2011,
+    "quotes": [
+      "Kung Fu Panda",
+      "Kung Fu Panda 3"
+    ]
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "quotes": [
+      "Welcome to hell"
+    ]
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "quotes": [
+      "And so it begins..."
+    ]
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "quotes": [
+      "I lost my friend.",
+      "I love you, Joseph.",
+      "Oh shit, I gotta pee!"
+    ]
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "quotes": [
+      "The adventure of a lifetime.",
+      "The celebration of a lifetime."
+    ]
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "quotes": [
+      "Reach for the sky!",
+      "There's a snake in my boot!",
+      "You're my favorite deputy!"
+    ]
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "quotes": [
+      "Reach for the sky!",
+      "To infinity and beyond!",
+      "Buzz Lightyear to the recsue!"
+    ]
+  },
+  {
+    "title": "Jurassic World Dominion",
+    "year": 2022,
+    "quotes": [
+      "I always come back.",
+      "I could use your expertise."
+    ]
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "quotes": [
+      "The Last Stand",
+      "The future begins.",
+      "His past. Our future."
+    ]
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "quotes": [
+      "The Last Stand",
+      "Prepare for the Apocalypse.",
+      "Only the strong will survive"
+    ]
+  },
+  {
+    "title": "Godzilla",
+    "year": 2014,
+    "quotes": [
+      "That's a lot of fish.",
+      "Running would be a good idea."
+    ]
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "quotes": [
+      "I'm the king of the world!"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows – Part 2",
+    "year": 2011,
+    "quotes": [
+      "It all ends."
+    ]
+  },
+  {
+    "title": "Paranormal Activity",
+    "year": 2007,
+    "quotes": [
+      "Don't See It Alone",
+      "What Happens When You Sleep?"
+    ]
+  },
+  {
+    "title": "Furious 7",
+    "year": 2015,
+    "quotes": [
+      "One last ride."
+    ]
+  },
+  {
+    "title": "Beauty and the Beast (2017)",
+    "year": 2017,
+    "quotes": [
+      "I told you to go away."
+    ]
+  },
+  {
+    "title": "Spring Breakers",
+    "year": 2012,
+    "quotes": [
+      "Love You like a Love Song",
+      "Round & Round",
+      "A Year Without Rain"
+    ]
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "quotes": [
+      "Fuck this guy!"
+    ]
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "quotes": [
+      "Divided we fall",
+      "Whose side are you on?"
+    ]
+  },
+  {
+    "title": "Apollo 13",
+    "year": 1995,
+    "quotes": [
+      "Houston, we have a problem."
+    ]
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "quotes": [
+      "Adventure is out there!",
+      "From the director of Monsters, Inc."
+    ]
+  },
+  {
+    "title": "Cars 2",
+    "year": 2011,
+    "quotes": [
+      "Fuel the love.",
+      "The mission begins."
+    ]
+  },
+  {
+    "title": "Tangled",
+    "year": 2010,
+    "quotes": [
+      "Get tangled up."
+    ]
+  },
+  {
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "quotes": [
+      "Family no more.",
+      "Family will be broken."
+    ]
+  },
+  {
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "quotes": [
+      "Choose your fate."
+    ]
+  },
+  {
+    "title": "Big Hero 6",
+    "year": 2014,
+    "quotes": [
+      "I am not fast."
+    ]
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "quotes": [
+      "There are no laws.",
+      "You can't stop what's coming.",
+      "There are no clean getaways."
+    ]
+  },
+  {
+    "title": "Empire Records",
+    "year": 1995,
+    "quotes": [
+      "Open 'til Midnight.",
+      "Damn the Man! Save the Empire!"
+    ]
+  },
+  {
+    "title": "Heathers",
+    "year": 1988,
+    "quotes": [
+      "Greetings and Salutations."
+    ]
+  },
+  {
+    "title": "Finding Dory",
+    "year": 2016,
+    "quotes": [
+      "Just keep swimming!"
+    ]
+  },
+  {
+    "title": "MacGruber",
+    "year": 2010,
+    "quotes": [
+      "You're crazy, man!",
+      "Never ever say 'never ever'."
+    ]
+  },
+  {
+    "title": "Mulan",
+    "year": 1998,
+    "quotes": [
+      "It is my duty to fight."
+    ]
+  },
+  {
+    "title": "Shrek the Third",
+    "year": 2007,
+    "quotes": [
+      "That's it! We're leaving!"
+    ]
+  },
+  {
+    "title": "Dark City",
+    "year": 1998,
+    "quotes": [
+      "Never talk to strangers."
+    ]
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "quotes": [
+      "The legend is real.",
+      "Stoick the Vast"
+    ]
+  },
+  {
+    "title": "Despicable Me",
+    "year": 2010,
+    "quotes": [
+      "Ok, my turn."
+    ]
+  },
+  {
+    "title": "Aquaman",
+    "year": 2018,
+    "quotes": [
+      "Join me or die!"
+    ]
+  },
+  {
+    "title": "Wet Hot American Summer",
+    "year": 2001,
+    "quotes": [
+      "Oh, fuck my cock!"
+    ]
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "year": 2014,
+    "quotes": [
+      "Its a spaceship."
+    ]
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "quotes": [
+      "Got room for one more?",
+      "Slow like molasses."
+    ]
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "quotes": [
+      "She's not just a computer."
+    ]
+  },
+  {
+    "title": "Fear and Loathing in Las Vegas",
+    "year": 1998,
+    "quotes": [
+      "Buy the ticket, take the ride."
+    ]
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "quotes": [
+      "Live. Die. Repeat."
+    ]
+  },
+  {
+    "title": "Minions",
+    "year": 2015,
+    "quotes": [
+      "It’s red hot."
+    ]
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "quotes": [
+      "Higher. Further. Faster.",
+      "Discover what makes a (her)o.",
+      "Higher, further, faster, baby."
+    ]
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "quotes": [
+      "Chris Hemsworth as Thor"
+    ]
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "quotes": [
+      "Peter Travers, .",
+      "A New-England Folktale",
+      "Evil takes many forms"
+    ]
+  },
+  {
+    "title": "The Boondock Saints",
+    "year": 1999,
+    "quotes": [
+      "There was a fire-fight!"
+    ]
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "quotes": [
+      "We're in the endgame now."
+    ]
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "quotes": [
+      "Mark Hamill - Luke Skywalker",
+      "Harrison Ford - Han Solo"
+    ]
+  },
+  {
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "quotes": [
+      "Mark Hamill as Luke Skywalker",
+      "Daisy Ridley as Rey",
+      "Adam Driver as Kylo Ren"
+    ]
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "quotes": [
+      "You Won't Believe Your Eye."
+    ]
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "quotes": [
+      "John of Patmos, Revelation 18:4 KJV"
+    ]
+  },
+  {
+    "title": "Toy Story 2",
+    "year": 1999,
+    "quotes": [
+      "Am I really that fat?"
+    ]
+  },
+  {
+    "title": "Turning Red",
+    "year": 2022,
+    "quotes": [
+      "Don't look at me! Stay back!"
+    ]
+  },
+  {
+    "title": "Mandy",
+    "year": 2018,
+    "quotes": [
+      "I come for the Reaper."
+    ]
+  },
+  {
+    "title": "The Mummy Returns",
+    "year": 2001,
+    "quotes": [
+      "Adventure is reborn."
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "quotes": [
+      "Zed's dead, baby. Zed's dead."
+    ]
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "quotes": [
+      "One adventure will change two worlds.",
+      "America Ferrera - Astrid",
+      "Jay Baruchel - Hiccup"
+    ]
+  },
+  {
+    "title": "Jennifer's Body",
+    "year": 2009,
+    "quotes": [
+      "Megan Fox - Jennifer Check"
+    ]
+  },
+  {
+    "title": "Treasure Planet",
+    "year": 2002,
+    "quotes": [
+      "No, I checked them ALL!"
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "quotes": [
+      "We have our heading."
+    ]
+  },
+  {
+    "title": "Lightyear",
+    "year": 2022,
+    "quotes": [
+      "Let's get everyone home."
+    ]
+  },
+  {
+    "title": "The Nice Guys",
+    "year": 2016,
+    "quotes": [
+      "Jesus tap-dancing Christ!"
+    ]
+  },
+  {
+    "title": "Cars 3",
+    "year": 2017,
+    "quotes": [
+      "From this moment, everything will change."
+    ]
+  },
+  {
+    "title": "Hop",
+    "year": 2011,
+    "quotes": [
+      "From the creators of Despicable Me."
+    ]
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "quotes": [
+      "Leonardo DiCaprio - Jordan Belfort"
+    ]
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "quotes": [
+      "Tonight I'm Gonna Rock You Tonight"
+    ]
+  },
+  {
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "quotes": [
+      "I caught you a delicious bass.",
+      "Do the chickens have large talons?"
+    ]
+  },
+  {
+    "title": "Dredd",
+    "year": 2012,
+    "quotes": [
+      "Judge Dredd (film)"
+    ]
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "quotes": [
+      "Shut up, Sid."
+    ]
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "quotes": [
+      "You can't trick me anymore."
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "quotes": [
+      "I don' really know."
+    ]
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "quotes": [
+      "In the end it's all nice."
+    ]
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "quotes": [
+      "Michael Cera - Scott Pilgrim"
+    ]
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "quotes": [
+      "LT Bradley 'Rooster' Bradshaw"
+    ]
+  },
+  {
+    "title": "101 Dalmatians",
+    "year": 1961,
+    "quotes": [
+      "Glenn Close - Cruella de Vil"
+    ]
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016,
+    "quotes": [
+      "It's your word against yours."
+    ]
+  },
+  {
+    "title": "Rango",
+    "year": 2011,
+    "quotes": [
+      "Who am I? I'm nobody."
+    ]
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "quotes": [
+      "Evil runs in the family."
+    ]
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "quotes": [
+      "Ah, you never forget your first."
+    ]
+  },
+  {
+    "title": "The Lone Ranger",
+    "year": 2013,
+    "quotes": [
+      "Johnny Depp as Tonto"
+    ]
+  },
+  {
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "quotes": [
+      "You want forgiveness? Get religion."
+    ]
+  },
+  {
+    "title": "Transformers",
+    "year": 2007,
+    "quotes": [
+      "Their war. Our world."
+    ]
+  },
+  {
+    "title": "Transformers: Revenge of the Fallen",
+    "year": 2009,
+    "quotes": [
+      "Shia LaBeouf - Sam Witwicky"
+    ]
+  },
+  {
+    "title": "Drive",
+    "year": 2011,
+    "quotes": [
+      "Silencio. No hay banda."
+    ]
+  },
+  {
+    "title": "Birdman",
+    "year": 2014,
+    "quotes": [
+      "I'm nothing. I'm not even here."
+    ]
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "quotes": [
+      "In heroes we trust."
+    ]
+  },
+  {
+    "title": "Withnail and I",
+    "year": 1987,
+    "quotes": [
+      "We've gone on holiday by mistake."
+    ]
+  }
+]

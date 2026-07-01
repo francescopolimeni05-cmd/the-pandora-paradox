@@ -1,0 +1,351 @@
+title,year,star_power,director,runtime,original_language,release_month,release_season,is_adaptation,n_cast
+Avatar,2009,6.734366666666666,James Cameron,162.0,en,12.0,Winter,0,67
+Avengers: Endgame,2019,5.537866666666666,Joe Russo,181.0,en,4.0,Spring,1,105
+Avatar: The Way of Water,2022,6.734366666666666,James Cameron,192.0,en,12.0,Winter,0,64
+Titanic,1997,4.774566666666667,James Cameron,194.0,en,12.0,Winter,1,117
+Star Wars: The Force Awakens,2015,3.0287666666666664,J.J. Abrams,136.0,en,12.0,Winter,0,99
+Avengers: Infinity War,2018,6.019266666666667,Joe Russo,149.0,en,4.0,Spring,1,69
+Spider-Man: No Way Home,2021,7.2149,Jon Watts,148.0,en,12.0,Winter,1,63
+Inside Out 2,2024,1.7497333333333334,Kelsey Mann,97.0,en,6.0,Summer,0,32
+Jurassic World,2015,4.14,Colin Trevorrow,124.0,en,6.0,Summer,0,53
+The Lion King (2019),2019,2.3549666666666664,Jon Favreau,118.0,en,7.0,Summer,0,20
+The Avengers,2012,5.537866666666666,Joss Whedon,143.0,en,4.0,Spring,1,112
+Furious 7,2015,6.6537,James Wan,138.0,en,4.0,Spring,0,49
+Frozen II,2019,2.615466666666667,Jennifer Lee,103.0,en,11.0,Fall,0,64
+Top Gun: Maverick,2022,7.139033333333333,Joseph Kosinski,131.0,en,5.0,Spring,0,45
+Barbie,2023,6.3640333333333325,Greta Gerwig,114.0,en,7.0,Summer,0,166
+Avengers: Age of Ultron,2015,5.6186333333333325,Joss Whedon,141.0,en,4.0,Spring,1,75
+Black Panther,2018,3.5996333333333332,Ryan Coogler,135.0,en,2.0,Winter,1,67
+Harry Potter and the Deathly Hallows – Part 2,2011,4.502533333333333,David Yates,130.0,en,7.0,Summer,1,106
+Star Wars: The Last Jedi,2017,2.943466666666667,Rian Johnson,152.0,en,12.0,Winter,0,112
+Aquaman,2018,5.734733333333334,James Wan,143.0,en,12.0,Winter,1,53
+Incredibles 2,2018,1.7746000000000002,Brad Bird,118.0,en,6.0,Summer,0,84
+The Fate of the Furious,2017,10.081466666666666,F. Gary Gray,136.0,en,4.0,Spring,0,87
+Frozen,2013,2.372666666666667,Jennifer Lee,102.0,en,11.0,Fall,0,60
+Minions,2015,4.891866666666667,Kyle Balda,91.0,en,6.0,Summer,0,51
+Captain America: Civil War,2016,8.233333333333333,Joe Russo,147.0,en,4.0,Spring,1,104
+Beauty and the Beast (2017),2017,4.472,Bill Condon,129.0,en,3.0,Spring,1,139
+Rogue One: A Star Wars Story,2016,2.900766666666667,Gareth Edwards,133.0,en,12.0,Winter,0,172
+Finding Dory,2016,1.6583666666666668,Andrew Stanton,97.0,en,6.0,Summer,0,66
+Iron Man 3,2013,3.8794,Shane Black,130.0,en,4.0,Spring,1,109
+Toy Story 4,2019,6.5949333333333335,Josh Cooley,100.0,en,6.0,Summer,0,42
+Doctor Strange in the Multiverse of Madness,2022,5.3952333333333335,Sam Raimi,126.0,en,5.0,Spring,1,62
+Thor: Love and Thunder,2022,5.2096,Taika Waititi,119.0,en,7.0,Summer,1,124
+Ant-Man and the Wasp: Quantumania,2023,3.472766666666667,Peyton Reed,125.0,en,2.0,Winter,1,65
+Shrek Forever After,2010,4.574233333333333,Mike Mitchell,93.0,en,5.0,Spring,0,35
+Shrek the Third,2007,4.189066666666666,Chris Miller,93.0,en,5.0,Spring,0,42
+Shrek 2,2004,4.574233333333333,Conrad Vernon,92.0,en,5.0,Spring,0,25
+Shrek,2001,4.189066666666666,Andrew Adamson,90.0,en,5.0,Spring,1,24
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,3.8572666666666664,Espen Sandberg,129.0,en,5.0,Spring,0,77
+Pirates of the Caribbean: On Stranger Tides,2011,3.7855333333333334,Rob Marshall,136.0,en,5.0,Spring,0,84
+Pirates of the Caribbean: Dead Man's Chest,2006,4.319633333333333,Gore Verbinski,151.0,en,7.0,Summer,0,72
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,3.4722333333333335,Gore Verbinski,143.0,en,7.0,Summer,0,71
+Toy Story,1995,5.9013,John Lasseter,81.0,en,11.0,Fall,0,37
+Toy Story 2,1999,6.867966666666667,John Lasseter,92.0,en,10.0,Fall,0,44
+Toy Story 3,2010,6.867966666666667,Lee Unkrich,102.0,en,6.0,Summer,0,60
+Cars,2006,3.361,John Lasseter,117.0,en,6.0,Summer,0,86
+Cars 2,2011,3.3277666666666668,John Lasseter,106.0,en,6.0,Summer,0,45
+Cars 3,2017,2.2363333333333335,Brian Fee,102.0,en,6.0,Summer,0,80
+Monsters University,2013,3.0042666666666666,Dan Scanlon,104.0,en,6.0,Summer,0,108
+"Monsters, Inc.",2001,2.1472666666666664,Pete Docter,92.0,en,11.0,Fall,0,53
+Up,2009,2.3333666666666666,Pete Docter,96.0,en,5.0,Spring,0,31
+WALL-E,2008,0.0,Dominique Dubosc,34.0,xx,11.0,Fall,0,0
+Ratatouille,2007,2.2213333333333334,Brad Bird,111.0,en,6.0,Summer,0,26
+The Incredibles,2004,1.7102000000000002,Brad Bird,115.0,en,10.0,Fall,0,51
+A Bug's Life,1998,3.0696333333333334,John Lasseter,95.0,en,11.0,Fall,0,59
+Finding Nemo,2003,1.5129666666666666,Andrew Stanton,100.0,en,5.0,Spring,0,69
+Coco,2017,1.7112666666666667,Lee Unkrich,105.0,en,10.0,Fall,0,83
+Encanto,2021,2.540433333333333,Byron Howard,102.0,en,10.0,Fall,0,25
+Mulan,1998,3.9145333333333334,Tony Bancroft,88.0,en,6.0,Summer,0,53
+The Jungle Book,1967,0.6453666666666668,Wolfgang Reitherman,78.0,en,10.0,Fall,1,22
+101 Dalmatians,1961,0.8013333333333333,Hamilton Luske,79.0,en,1.0,Winter,0,32
+The Lion King (1994),1994,,,,,,,0,0
+The Little Mermaid,1989,0.9648666666666667,Ron Clements,83.0,en,11.0,Fall,0,42
+Beauty and the Beast (1991),1991,0.6078333333333333,Gary Trousdale,84.0,en,10.0,Fall,0,50
+Aladdin,1992,1.9413999999999998,Ron Clements,91.0,en,11.0,Fall,0,24
+Snow White and the Seven Dwarfs,1937,0.22776666666666667,David Hand,83.0,en,1.0,Winter,0,15
+Cinderella,1950,0.6074666666666667,Hamilton Luske,74.0,en,2.0,Winter,1,23
+Sleeping Beauty,1959,0.47256666666666663,Clyde Geronimi,75.0,en,2.0,Winter,0,12
+Tangled,2010,1.9503333333333333,Byron Howard,100.0,en,11.0,Fall,0,36
+Wreck-It Ralph,2012,2.2596000000000003,Rich Moore,101.0,en,11.0,Fall,1,66
+Big Hero 6,2014,1.68,Chris Williams,102.0,en,10.0,Fall,1,47
+Moana,2016,4.3783,John Musker,107.0,en,10.0,Fall,0,13
+Zootopia,2016,4.321433333333333,Byron Howard,109.0,en,2.0,Winter,0,50
+Raya and the Last Dragon,2021,2.3017,Don Hall,107.0,en,3.0,Spring,0,24
+Turning Red,2022,1.2222,Domee Shi,100.0,en,3.0,Spring,0,66
+Lightyear,2022,3.3026,Angus MacLane,105.0,en,6.0,Summer,0,33
+Elemental,2023,0.6977000000000001,Peter Sohn,102.0,en,6.0,Summer,0,18
+Wish,2023,2.6840999999999995,Fawn Veerasunthorn,95.0,en,11.0,Fall,0,22
+Madagascar 3,2012,3.3815333333333335,Eric Darnell,93.0,en,6.0,Summer,0,25
+Kung Fu Panda 3,2016,4.964200000000001,Jennifer Yuh Nelson,95.0,en,1.0,Winter,0,35
+Rise of the Guardians,2012,3.4069333333333334,Peter Ramsey,97.0,en,11.0,Fall,0,20
+The Croods,2013,6.845866666666666,Kirk DeMicco,99.0,en,3.0,Spring,0,8
+The Croods: A New Age,2020,6.845866666666666,Joel Crawford,95.0,en,11.0,Fall,0,18
+Megamind,2010,5.900166666666667,Tom McGrath,96.0,en,10.0,Fall,0,19
+Trolls,2016,2.669,Mike Mitchell,92.0,en,10.0,Fall,0,33
+Trolls World Tour,2020,2.2375333333333334,Walt Dohrn,91.0,en,3.0,Spring,0,41
+Kung Fu Panda,2008,5.5154,Mark Osborne,90.0,en,6.0,Summer,0,26
+Kung Fu Panda 2,2011,5.833233333333333,Jennifer Yuh Nelson,91.0,en,5.0,Spring,0,32
+How to Train Your Dragon,2010,3.0610999999999997,Dean DeBlois,98.0,en,3.0,Spring,1,14
+How to Train Your Dragon 2,2014,3.8600333333333334,Dean DeBlois,102.0,en,6.0,Summer,0,17
+How to Train Your Dragon 3,2019,3.8600333333333334,Dean DeBlois,102.0,en,6.0,Summer,0,17
+Madagascar,2005,3.3815333333333335,Eric Darnell,86.0,en,5.0,Spring,0,20
+Madagascar 2,2008,3.3815333333333335,Tom McGrath,89.0,en,10.0,Fall,0,41
+Despicable Me,2010,2.581166666666667,Pierre Coffin,95.0,en,7.0,Summer,0,32
+Despicable Me 2,2013,3.064333333333334,Pierre Coffin,98.0,en,6.0,Summer,0,39
+Despicable Me 3,2017,2.7907333333333333,Kyle Balda,90.0,en,6.0,Summer,0,40
+The Secret Life of Pets,2016,2.1528666666666667,Chris Renaud,86.0,en,6.0,Summer,0,32
+Sing,2016,4.582433333333333,Garth Jennings,108.0,en,11.0,Fall,0,61
+Sing 2,2021,6.989033333333334,Garth Jennings,110.0,en,12.0,Winter,0,62
+The Secret Life of Pets 2,2019,2.968033333333333,Chris Renaud,86.0,en,5.0,Spring,0,42
+Hop,2011,3.0996666666666663,Tim Hill,95.0,en,3.0,Spring,0,21
+Horton Hears a Who!,2008,3.5274666666666668,Jimmy Hayward,86.0,en,3.0,Spring,0,54
+Ice Age,2002,2.7313666666666667,Chris Wedge,82.0,en,3.0,Spring,0,20
+Ice Age: The Meltdown,2006,2.7313666666666667,Carlos Saldanha,91.0,en,3.0,Spring,0,70
+Ice Age: Dawn of the Dinosaurs,2009,2.7313666666666667,Carlos Saldanha,94.0,en,6.0,Summer,0,49
+Ice Age: Continental Drift,2012,2.7313666666666667,Steve Martino,88.0,en,6.0,Summer,0,60
+Ice Age: Collision Course,2016,2.7313666666666667,Michael Thurmeier,95.0,en,6.0,Summer,0,41
+Rio,2011,4.3505,Carlos Saldanha,96.0,en,4.0,Spring,0,70
+Rio 2,2014,4.0906666666666665,Carlos Saldanha,101.0,en,3.0,Spring,0,71
+Rango,2011,3.2711666666666663,Gore Verbinski,107.0,en,3.0,Spring,0,33
+The Book of Life,2014,4.651666666666666,Jorge R. Gutierrez,95.0,en,10.0,Fall,0,61
+Curious George,2006,3.4163,Matthew O'Callaghan,87.0,en,2.0,Winter,0,44
+Charlotte's Web,2006,4.275433333333333,Gary Winick,97.0,en,12.0,Winter,1,45
+Stuart Little,1999,2.8813,Rob Minkoff,84.0,en,12.0,Winter,1,31
+Bumblebee,2018,5.202066666666666,Travis Knight,114.0,en,11.0,Fall,0,56
+Transformers,2007,3.507233333333333,Michael Bay,144.0,en,6.0,Summer,0,93
+Transformers: Revenge of the Fallen,2009,3.5605666666666664,Michael Bay,150.0,en,6.0,Summer,0,83
+Transformers: Dark of the Moon,2011,2.439166666666667,Michael Bay,154.0,en,6.0,Summer,0,105
+Transformers: Age of Extinction,2014,3.5841666666666665,Michael Bay,165.0,en,6.0,Summer,0,71
+Transformers: The Last Knight,2017,3.133033333333333,Michael Bay,154.0,en,6.0,Summer,0,88
+Guardians of the Galaxy,2014,5.1744666666666665,James Gunn,121.0,en,7.0,Summer,1,74
+Guardians of the Galaxy Vol. 2,2017,5.2377666666666665,James Gunn,137.0,en,4.0,Spring,1,59
+Guardians of the Galaxy Vol. 3,2023,5.2377666666666665,James Gunn,150.0,en,5.0,Spring,1,89
+Thor,2011,5.392566666666667,Kenneth Branagh,115.0,en,4.0,Spring,1,56
+Thor: The Dark World,2013,5.392566666666667,Alan Taylor,112.0,en,10.0,Fall,1,49
+Thor: Ragnarok,2017,4.777633333333333,Taika Waititi,131.0,en,10.0,Fall,1,55
+Iron Man,2008,4.304533333333333,Jon Favreau,126.0,en,4.0,Spring,1,65
+Iron Man 2,2010,3.8794,Jon Favreau,124.0,en,4.0,Spring,1,86
+Captain America: The First Avenger,2011,4.466033333333333,Joe Johnston,124.0,en,7.0,Summer,1,98
+Captain America: The Winter Soldier,2014,7.700866666666666,Joe Russo,136.0,en,3.0,Spring,1,75
+Ant-Man,2015,3.525033333333333,Peyton Reed,117.0,en,7.0,Summer,1,70
+Ant-Man and the Wasp,2018,3.525033333333333,Peyton Reed,119.0,en,7.0,Summer,1,76
+Black Widow,2021,7.3680666666666665,Cate Shortland,134.0,en,7.0,Summer,1,81
+Captain Marvel,2019,3.7151333333333336,Ryan Fleck,124.0,en,3.0,Spring,1,52
+Spider-Man: Homecoming,2017,6.617233333333334,Jon Watts,133.0,en,7.0,Summer,1,82
+Spider-Man: Far From Home,2019,6.288666666666667,Jon Watts,129.0,en,6.0,Summer,1,140
+The Amazing Spider-Man,2012,4.693466666666667,Marc Webb,136.0,en,6.0,Summer,1,53
+The Amazing Spider-Man 2,2014,4.886666666666667,Marc Webb,141.0,en,4.0,Spring,1,75
+Spider-Man 3,2007,4.9334999999999996,Sam Raimi,139.0,en,5.0,Spring,1,120
+Spider-Man 2,2004,5.4515,Sam Raimi,127.0,en,6.0,Summer,1,115
+Spider-Man,2002,5.233333333333333,Sam Raimi,121.0,en,5.0,Spring,1,93
+Venom,2018,4.113133333333334,Ruben Fleischer,112.0,en,9.0,Fall,1,61
+Venom: Let There Be Carnage,2021,4.846866666666667,Andy Serkis,97.0,en,9.0,Fall,1,54
+X-Men Origins: Wolverine,2009,3.956,Gavin Hood,107.0,en,4.0,Spring,1,63
+The Wolverine,2013,3.9361333333333337,James Mangold,126.0,en,7.0,Summer,1,59
+Logan,2017,5.948566666666667,James Mangold,137.0,en,2.0,Winter,1,96
+X-Men: Days of Future Past,2014,4.9586,Bryan Singer,132.0,en,5.0,Spring,1,83
+X-Men: The Last Stand,2006,4.6749,Brett Ratner,104.0,en,5.0,Spring,1,61
+X-Men: Apocalypse,2016,4.439,Bryan Singer,144.0,en,5.0,Spring,1,94
+X-Men: Dark Phoenix,2019,3.831433333333333,Simon Kinberg,114.0,en,6.0,Summer,1,90
+Deadpool,2016,5.372233333333333,Tim Miller,108.0,en,2.0,Winter,1,52
+Deadpool 2,2018,6.324766666666666,David Leitch,120.0,en,5.0,Spring,1,71
+Wonder Woman,2017,4.160866666666666,Patty Jenkins,141.0,en,5.0,Spring,1,82
+Wonder Woman 1984,2020,3.764533333333333,Patty Jenkins,151.0,en,12.0,Winter,1,147
+Batman v Superman: Dawn of Justice,2016,6.2302,Zack Snyder,152.0,en,3.0,Spring,1,134
+Superman Returns,2006,2.4259,Bryan Singer,154.0,en,6.0,Summer,1,38
+Man of Steel,2013,6.697133333333333,Zack Snyder,143.0,en,6.0,Summer,1,86
+The Dark Knight,2008,3.4467666666666665,Christopher Nolan,152.0,en,7.0,Summer,1,138
+The Dark Knight Rises,2012,6.8841,Christopher Nolan,165.0,en,7.0,Summer,1,167
+Batman Begins,2005,4.8901666666666666,Christopher Nolan,140.0,en,6.0,Summer,1,111
+Justice League,2017,7.342300000000001,Zack Snyder,120.0,en,11.0,Fall,1,98
+Aquaman and the Lost Kingdom,2023,4.656466666666667,James Wan,124.0,en,12.0,Winter,0,41
+Shazam! Fury of the Gods,2023,1.7131333333333334,David F. Sandberg,130.0,en,3.0,Spring,0,51
+The Flash,2023,3.785133333333333,Andy Muschietti,144.0,en,6.0,Summer,1,60
+Eternals,2021,4.433066666666666,Chloé Zhao,156.0,en,11.0,Fall,1,89
+Shang-Chi and the Legend of the Ten Rings,2021,2.9768666666666665,Destin Daniel Cretton,132.0,en,9.0,Fall,1,48
+Black Panther: Wakanda Forever,2022,2.5599666666666665,Ryan Coogler,162.0,en,11.0,Fall,1,79
+The Mummy,1999,3.254266666666666,Stephen Sommers,124.0,en,4.0,Spring,0,25
+The Mummy Returns,2001,3.254266666666666,Stephen Sommers,130.0,en,5.0,Spring,0,24
+The Mummy: Tomb of the Dragon Emperor,2008,3.0950666666666664,Rob Cohen,112.0,en,7.0,Summer,0,50
+Jurassic Park,1993,3.9443333333333332,Steven Spielberg,127.0,en,6.0,Summer,0,22
+Jurassic Park III,2001,4.700966666666667,Joe Johnston,92.0,en,7.0,Summer,0,25
+The Lost World: Jurassic Park,1997,4.0141,Steven Spielberg,129.0,en,5.0,Spring,0,76
+Jurassic World: Fallen Kingdom,2018,3.771433333333333,J. A. Bayona,129.0,en,6.0,Summer,0,41
+Jurassic World Dominion,2022,4.275366666666667,Colin Trevorrow,147.0,en,6.0,Summer,0,48
+Godzilla,2014,5.0126,Gareth Edwards,123.0,en,5.0,Spring,0,95
+Godzilla: King of the Monsters,2019,5.163766666666667,Michael Dougherty,132.0,en,5.0,Spring,0,90
+Godzilla vs. Kong,2021,2.0755,Adam Wingard,114.0,en,3.0,Spring,0,48
+Godzilla x Kong: The New Empire,2024,2.670166666666667,Adam Wingard,115.0,en,3.0,Spring,0,24
+King Kong,2005,4.411066666666667,Peter Jackson,188.0,en,12.0,Winter,0,51
+Rampage,2018,4.871633333333333,Brad Peyton,107.0,en,4.0,Spring,1,68
+Dune,2021,5.7664,Denis Villeneuve,155.0,en,9.0,Fall,1,39
+Dune: Part Two,2024,7.118166666666667,Denis Villeneuve,167.0,en,2.0,Winter,1,98
+Inception,2010,4.762566666666666,Christopher Nolan,148.0,en,7.0,Summer,0,52
+Interstellar,2014,5.739133333333334,Christopher Nolan,169.0,en,11.0,Fall,0,35
+Seabiscuit,2003,3.366633333333333,Gary Ross,141.0,en,7.0,Summer,1,41
+Apollo 13,1995,6.7713,Ron Howard,140.0,en,6.0,Summer,1,89
+The Revenant,2015,4.861466666666666,Alejandro G. Iñárritu,157.0,en,12.0,Winter,1,69
+Oppenheimer,2023,7.3798666666666675,Christopher Nolan,181.0,en,7.0,Summer,1,80
+Killers of the Flower Moon,2023,4.649966666666667,Martin Scorsese,206.0,en,10.0,Fall,1,210
+The Wolf of Wall Street,2013,6.4784,Martin Scorsese,180.0,en,12.0,Winter,1,180
+Once Upon a Time in Hollywood,2019,8.643133333333333,Quentin Tarantino,162.0,en,7.0,Summer,1,103
+Pulp Fiction,1994,5.541766666666667,Quentin Tarantino,154.0,en,9.0,Fall,0,52
+Inglourious Basterds,2009,6.031366666666667,Quentin Tarantino,153.0,en,8.0,Summer,0,73
+The Hateful Eight,2015,5.3219666666666665,Quentin Tarantino,188.0,en,12.0,Winter,0,18
+The Big Lebowski,1998,4.041966666666666,Joel Coen,117.0,en,3.0,Spring,0,43
+Donnie Darko,2001,4.043433333333334,Richard Kelly,114.0,en,1.0,Winter,0,41
+Fight Club,1999,6.727333333333333,David Fincher,139.0,en,10.0,Fall,1,76
+Office Space,1999,2.5780333333333334,Mike Judge,90.0,en,2.0,Winter,0,37
+Blade Runner,1982,2.7808333333333333,Ridley Scott,118.0,en,6.0,Summer,1,32
+The Thing,1982,2.6169333333333333,John Carpenter,109.0,en,6.0,Summer,1,19
+The Shawshank Redemption,1994,3.9470333333333336,Frank Darabont,142.0,en,9.0,Fall,1,59
+Scott Pilgrim vs. the World,2010,2.9883666666666664,Edgar Wright,113.0,en,8.0,Summer,1,44
+Clerks,1994,0.5240999999999999,Kevin Smith,92.0,en,10.0,Fall,0,48
+Pi,1998,0.9559666666666665,Darren Aronofsky,84.0,en,7.0,Summer,0,29
+Memento,2000,2.7217,Christopher Nolan,113.0,en,10.0,Fall,1,13
+Primer,2004,0.34523333333333334,Shane Carruth,77.0,en,10.0,Fall,0,20
+Moon,2009,3.4325666666666663,Duncan Jones,97.0,en,6.0,Summer,0,10
+The Man from Earth,2007,1.4333666666666665,Richard Schenkman,87.0,en,6.0,Summer,0,11
+Coherence,2013,1.2586,James Ward Byrkit,89.0,en,4.0,Spring,0,12
+Napoleon Dynamite,2004,1.8386666666666667,Jared Hess,95.0,en,6.0,Summer,0,37
+Mean Girls,2004,3.2154000000000003,Mark Waters,97.0,en,4.0,Spring,1,68
+American Psycho,2000,3.0808,Mary Harron,102.0,en,4.0,Spring,1,47
+Heathers,1988,3.257633333333333,Michael Lehmann,103.0,en,3.0,Spring,0,40
+Wet Hot American Summer,2001,1.4896666666666667,David Wain,97.0,en,7.0,Summer,0,55
+Idiocracy,2006,1.7134,Mike Judge,85.0,en,9.0,Fall,0,77
+The Boondock Saints,1999,3.3586000000000005,Troy Duffy,108.0,en,1.0,Winter,0,52
+The Room,2003,0.9831333333333333,François Truffaut,95.0,fr,4.0,Spring,0,31
+The Princess Bride,1987,2.4516,Rob Reiner,99.0,en,9.0,Fall,1,21
+Labyrinth,1986,3.4744000000000006,Jim Henson,101.0,en,6.0,Summer,0,88
+The Dark Crystal,1982,1.2348,Frank Oz,93.0,en,12.0,Winter,0,27
+Tron,1982,2.5813,Steven Lisberger,96.0,en,7.0,Summer,1,27
+Fear and Loathing in Las Vegas,1998,4.963566666666667,Terry Gilliam,118.0,en,5.0,Spring,1,70
+Bring It On,2000,3.6786,Peyton Reed,99.0,en,8.0,Summer,0,56
+Jennifer's Body,2009,4.2825,Karyn Kusama,107.0,en,9.0,Fall,0,46
+Hocus Pocus,1993,2.2417333333333334,Kenny Ortega,96.0,en,7.0,Summer,0,32
+The Iron Giant,1999,4.541300000000001,Brad Bird,86.0,en,8.0,Summer,1,30
+Treasure Planet,2002,4.330266666666667,John Musker,96.0,en,11.0,Fall,1,31
+Children of Men,2006,2.6110666666666664,Alfonso Cuarón,109.0,en,9.0,Fall,1,79
+Snatch,2000,5.997599999999999,Guy Ritchie,103.0,en,9.0,Fall,0,71
+"Lock, Stock and Two Smoking Barrels",1998,1.8750333333333333,Guy Ritchie,105.0,en,8.0,Summer,0,44
+Trainspotting,1996,2.5361666666666665,Danny Boyle,94.0,en,2.0,Winter,1,26
+Requiem for a Dream,2000,4.671466666666666,Darren Aronofsky,102.0,en,10.0,Fall,0,74
+Dredd,2012,4.7044,Pete Travis,96.0,en,9.0,Fall,1,34
+Edge of Tomorrow,2014,6.848766666666666,Doug Liman,114.0,en,5.0,Spring,1,43
+Blade Runner 2049,2017,6.223733333333333,Denis Villeneuve,164.0,en,10.0,Fall,0,39
+The Nice Guys,2016,4.662433333333333,Shane Black,116.0,en,5.0,Spring,0,67
+Annihilation,2018,3.876,Alex Garland,115.0,en,2.0,Winter,1,19
+Sorry to Bother You,2018,2.1720333333333333,Boots Riley,112.0,en,7.0,Summer,0,93
+Swiss Army Man,2016,4.0393,Daniel Kwan,97.0,en,6.0,Summer,0,11
+The Lighthouse,2019,3.4307666666666665,Robert Eggers,109.0,en,10.0,Fall,1,10
+Mandy,2018,5.177533333333334,Panos Cosmatos,122.0,en,9.0,Fall,0,17
+Hackers,1995,4.355366666666666,Iain Softley,105.0,en,9.0,Fall,0,62
+Empire Records,1995,2.0180000000000002,Allan Moyle,90.0,en,9.0,Fall,0,28
+Dazed and Confused,1993,2.3728000000000002,Richard Linklater,102.0,en,9.0,Fall,0,66
+This Is Spinal Tap,1984,1.423,Rob Reiner,82.0,en,3.0,Spring,0,53
+Brazil,1985,3.4692000000000003,Terry Gilliam,143.0,en,2.0,Winter,0,43
+Repo Man,1984,1.96,Alex Cox,92.0,en,3.0,Spring,0,76
+Withnail and I,1987,1.5408,Bruce Robinson,108.0,en,6.0,Summer,0,14
+A Clockwork Orange,1971,1.4795333333333334,Stanley Kubrick,137.0,en,10.0,Fall,1,48
+Eraserhead,1977,0.7180666666666666,David Lynch,89.0,en,9.0,Fall,0,18
+Harold and Maude,1971,0.7315666666666667,Hal Ashby,92.0,en,12.0,Winter,0,21
+John Carter,2012,2.5732,Andrew Stanton,132.0,en,3.0,Spring,1,60
+The Lone Ranger,2013,3.9743666666666666,Gore Verbinski,149.0,en,7.0,Summer,0,80
+Cutthroat Island,1995,2.2073,Renny Harlin,124.0,en,12.0,Winter,0,36
+Heaven's Gate,1980,2.909966666666667,Michael Cimino,217.0,en,11.0,Fall,0,64
+Waterworld,1995,3.6186333333333334,Kevin Reynolds,135.0,en,7.0,Summer,0,38
+Ishtar,1987,2.8886,Elaine May,107.0,en,5.0,Spring,0,60
+Battlefield Earth,2000,3.7103333333333333,Roger Christian,119.0,en,5.0,Spring,1,19
+The Adventures of Pluto Nash,2002,3.5528666666666666,Ron Underwood,95.0,en,8.0,Summer,0,51
+Mars Needs Moms,2011,2.3396333333333335,Simon Wells,88.0,en,3.0,Spring,0,21
+Gigli,2003,3.9115333333333333,Martin Brest,122.0,en,8.0,Summer,0,25
+Catwoman,2004,3.3901333333333334,Pitof,104.0,en,7.0,Summer,1,59
+The 13th Warrior,1999,2.2047,John McTiernan,103.0,en,8.0,Summer,1,53
+Sahara,2005,3.9658333333333338,Breck Eisner,124.0,en,4.0,Spring,1,38
+Final Fantasy: The Spirits Within,2001,2.962566666666667,Hironobu Sakaguchi,106.0,en,7.0,Summer,1,33
+Speed Racer,2008,3.5137666666666667,Lana Wachowski,135.0,en,5.0,Spring,1,82
+Jupiter Ascending,2015,4.887166666666666,Lilly Wachowski,127.0,en,2.0,Winter,0,81
+Tomorrowland,2015,2.5170999999999997,Brad Bird,130.0,en,5.0,Spring,0,89
+The Golden Compass,2007,4.3114333333333335,Chris Weitz,113.0,en,12.0,Winter,0,59
+Pan,2015,3.498333333333333,Joe Wright,111.0,en,9.0,Fall,0,82
+King Arthur: Legend of the Sword,2017,3.5615666666666663,Guy Ritchie,126.0,en,5.0,Spring,0,66
+Valerian and the City of a Thousand Planets,2017,2.7407333333333335,Luc Besson,137.0,en,7.0,Summer,1,120
+Ben-Hur,2016,2.3391333333333333,Timur Bekmambetov,125.0,en,8.0,Summer,1,27
+Monster Trucks,2016,2.978666666666667,Chris Wedge,104.0,en,12.0,Winter,0,36
+A Wrinkle in Time,2018,2.5477333333333334,Ava DuVernay,109.0,en,3.0,Spring,1,38
+Cats,2019,3.092,Tom Hooper,110.0,en,12.0,Winter,1,79
+The Happening,2008,4.192066666666666,M. Night Shyamalan,90.0,en,6.0,Summer,0,70
+Green Lantern,2011,3.6123333333333334,Martin Campbell,114.0,en,6.0,Summer,1,28
+R.I.P.D.,2013,4.8566666666666665,Robert Schwentke,96.0,en,7.0,Summer,1,43
+47 Ronin,2013,4.827633333333334,Carl Rinsch,119.0,en,12.0,Winter,1,27
+Dark Phoenix,2019,3.831433333333333,Simon Kinberg,114.0,en,6.0,Summer,1,90
+Terminator: Dark Fate,2019,3.6584,Tim Miller,128.0,en,10.0,Fall,0,69
+Solo: A Star Wars Story,2018,2.3134333333333337,Ron Howard,135.0,en,5.0,Spring,0,103
+Babylon,2022,7.588533333333333,Damien Chazelle,189.0,en,12.0,Winter,0,243
+Amsterdam,2022,5.512166666666666,David O. Russell,134.0,en,9.0,Fall,1,71
+Strange World,2022,3.326033333333333,Don Hall,102.0,en,11.0,Fall,0,18
+The Marvels,2023,1.7280999999999997,Nia DaCosta,105.0,en,11.0,Fall,1,32
+Mortal Engines,2018,2.0935,Christian Rivers,128.0,en,11.0,Fall,1,56
+Robin Hood,2018,3.3447,Otto Bathurst,116.0,en,11.0,Fall,0,30
+The Nutcracker and the Four Realms,2018,1.1545333333333334,Lasse Hallström,99.0,en,10.0,Fall,1,36
+Cleopatra,1963,1.6039333333333332,Joseph L. Mankiewicz,251.0,en,6.0,Summer,0,42
+The Blair Witch Project,1999,0.6453333333333333,Daniel Myrick,81.0,en,7.0,Summer,0,10
+Paranormal Activity,2007,0.3547666666666667,Oren Peli,86.0,en,9.0,Fall,0,9
+Once,2007,0.27553333333333335,John Carney,85.0,en,3.0,Spring,0,35
+Little Miss Sunshine,2006,2.811733333333333,Jonathan Dayton,102.0,en,7.0,Summer,0,43
+Juno,2007,4.533333333333333,Jason Reitman,96.0,en,12.0,Winter,0,30
+Get Out,2017,2.3501,Jordan Peele,104.0,en,2.0,Winter,0,29
+Hereditary,2018,2.0318,Ari Aster,128.0,en,6.0,Summer,0,28
+The Witch,2015,3.385733333333333,Robert Eggers,92.0,en,2.0,Winter,0,33
+It Follows,2014,1.9517,David Robert Mitchell,101.0,en,2.0,Winter,0,30
+Whiplash,2014,4.252766666666667,Damien Chazelle,107.0,en,10.0,Fall,0,39
+Ex Machina,2014,3.5443999999999996,Alex Garland,108.0,en,1.0,Winter,0,12
+Lady Bird,2017,2.1368666666666667,Greta Gerwig,94.0,en,9.0,Fall,0,53
+Moonlight,2016,1.005,Barry Jenkins,111.0,en,10.0,Fall,0,26
+The Florida Project,2017,2.289433333333333,Sean Baker,112.0,en,10.0,Fall,0,45
+Tangerine,2015,0.3592333333333333,Sean Baker,87.0,en,7.0,Summer,0,72
+Eighth Grade,2018,1.3211,Bo Burnham,94.0,en,1.0,Winter,0,46
+Saw,2004,1.688,James Wan,103.0,en,10.0,Fall,0,18
+Open Water,2003,0.5039333333333333,Chris Kentis,80.0,en,8.0,Summer,0,6
+Chronicle,2012,3.360666666666667,Josh Trank,84.0,en,2.0,Winter,0,39
+District 9,2009,1.2349666666666665,Neill Blomkamp,112.0,en,8.0,Summer,0,96
+Looper,2012,6.1286,Rian Johnson,118.0,en,9.0,Fall,0,42
+Brick,2005,2.500833333333333,Rian Johnson,110.0,en,3.0,Spring,0,19
+The Babadook,2014,0.8521333333333333,Jennifer Kent,94.0,en,5.0,Spring,0,36
+A Ghost Story,2017,1.7787333333333333,David Lowery,93.0,en,4.0,Spring,0,73
+Frances Ha,2012,1.2678,Noah Baumbach,86.0,en,5.0,Spring,0,48
+500 Days of Summer,2009,3.1325333333333334,Marc Webb,95.0,en,7.0,Summer,0,64
+Lost in Translation,2003,5.8816,Sofia Coppola,102.0,en,9.0,Fall,0,51
+Garden State,2004,3.4138,Zach Braff,102.0,en,7.0,Summer,0,37
+Booksmart,2019,1.4101,Olivia Wilde,102.0,en,5.0,Spring,0,28
+Uncut Gems,2019,2.6774,Benny Safdie,136.0,en,8.0,Summer,0,84
+Good Time,2017,2.1822666666666666,Benny Safdie,102.0,en,8.0,Summer,0,87
+The Lobster,2015,4.426433333333333,Yorgos Lanthimos,119.0,en,10.0,Fall,0,41
+Amelie,2001,1.3312666666666668,Jean-Pierre Jeunet,122.0,fr,4.0,Spring,0,74
+Oldboy,2003,1.7066333333333334,Park Chan-wook,120.0,ko,11.0,Fall,0,53
+Pan's Labyrinth,2006,1.3285,Guillermo del Toro,118.0,es,10.0,Fall,0,31
+City of God,2002,0.7525666666666666,Fernando Meirelles,129.0,pt,8.0,Summer,1,150
+Akira,1988,2.0766,Katsuhiro Otomo,124.0,ja,6.0,Summer,0,21
+Princess Mononoke,1997,3.0279333333333334,Hayao Miyazaki,134.0,ja,7.0,Summer,0,24
+Drive,2011,5.441633333333333,Nicolas Winding Refn,100.0,en,9.0,Fall,0,37
+Burning,2018,1.9446,Lee Chang-dong,148.0,ko,5.0,Spring,1,22
+A Separation,2011,0.9656333333333333,Asghar Farhadi,123.0,fa,2.0,Winter,0,13
+Enter the Void,2009,0.47903333333333337,Gaspar Noé,161.0,en,5.0,Spring,0,17
+Spring Breakers,2012,3.201033333333333,Harmony Korine,94.0,en,3.0,Spring,0,35
+Nightcrawler,2014,3.5617,Dan Gilroy,118.0,en,10.0,Fall,0,43
+Birdman,2014,5.0546,Alejandro G. Iñárritu,120.0,en,10.0,Fall,0,54
+Her,2013,5.433733333333333,Spike Jonze,126.0,en,12.0,Winter,0,39
+The Grand Budapest Hotel,2014,3.0884666666666667,Wes Anderson,100.0,en,2.0,Winter,0,98
+Eternal Sunshine of the Spotless Mind,2004,5.644566666666667,Michel Gondry,108.0,en,3.0,Spring,0,19
+There Will Be Blood,2007,2.1069666666666667,Paul Thomas Anderson,158.0,en,12.0,Winter,1,54
+No Country for Old Men,2007,4.074033333333333,Joel Coen,122.0,en,11.0,Fall,1,52
+Donnie Brasco,1997,4.270333333333333,Mike Newell,127.0,en,2.0,Winter,1,66
+Gattaca,1997,3.9547000000000003,Andrew Niccol,107.0,en,7.0,Summer,0,39
+Event Horizon,1997,3.0858666666666665,Paul W. S. Anderson,96.0,en,8.0,Summer,0,15
+Dark City,1998,3.4682333333333335,Alex Proyas,101.0,en,2.0,Winter,0,39
+The Fountain,2006,4.879033333333333,Darren Aronofsky,96.0,en,11.0,Fall,0,41
+Sunshine,2007,5.613433333333333,Danny Boyle,108.0,en,4.0,Spring,0,14
+Grindhouse,2007,2.7688,Quentin Tarantino,191.0,en,4.0,Spring,0,118
+MacGruber,2010,2.4552333333333336,Jorma Taccone,90.0,en,5.0,Spring,0,56
+Kung Fury,2015,0.7345333333333333,David Sandberg,32.0,en,5.0,Spring,0,26

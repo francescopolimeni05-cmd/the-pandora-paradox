@@ -295,6 +295,46 @@ def collect_wikipedia_language_editions(
 # 3. REDDIT MENTIONS COLLECTOR
 # ============================================================
 
+# --- Reddit auth helpers -----------------------------------------------------
+# Reddit now returns 403 "Blocked" for the unauthenticated search.json endpoint.
+# If REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET are set we use app-only OAuth
+# (https://oauth.reddit.com), which is the reliable, supported path. Otherwise
+# we fall back to the public endpoint with a browser User-Agent + retries.
+_REDDIT_TOKEN = {"value": None, "expires": 0.0}
+_BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
+
+
+def _get_reddit_token() -> Optional[str]:
+    """Return a cached app-only OAuth bearer token, or None if no creds set."""
+    cid = os.environ.get("REDDIT_CLIENT_ID")
+    csec = os.environ.get("REDDIT_CLIENT_SECRET")
+    if not (cid and csec):
+        return None
+    if _REDDIT_TOKEN["value"] and time.time() < _REDDIT_TOKEN["expires"] - 30:
+        return _REDDIT_TOKEN["value"]
+    try:
+        ua = os.environ.get("REDDIT_USER_AGENT", "PandoraParadox/1.0 (capstone research)")
+        resp = requests.post(
+            "https://www.reddit.com/api/v1/access_token",
+            auth=(cid, csec),
+            data={"grant_type": "client_credentials"},
+            headers={"User-Agent": ua},
+            timeout=30,
+        )
+        resp.raise_for_status()
+        tok = resp.json()
+        _REDDIT_TOKEN["value"] = tok["access_token"]
+        _REDDIT_TOKEN["expires"] = time.time() + tok.get("expires_in", 3600)
+        logger.info("Reddit OAuth token acquired.")
+        return _REDDIT_TOKEN["value"]
+    except Exception as e:
+        logger.warning(f"Reddit OAuth token fetch failed ({e}); falling back to public endpoint.")
+        return None
+
+
 def collect_reddit_mentions(
     movie_title: str,
     movie_year: int,
@@ -302,7 +342,8 @@ def collect_reddit_mentions(
 ) -> Dict:
     """
     Collect Reddit mentions and discussion metrics for a film.
-    Note: Uses Reddit's public search API (no authentication required).
+    Uses app-only OAuth when REDDIT_CLIENT_ID/SECRET are set; otherwise falls
+    back to the public search endpoint with a browser UA + retry/backoff.
 
     Args:
         movie_title: Film title
@@ -316,7 +357,6 @@ def collect_reddit_mentions(
         # Format search query
         search_query = f"{movie_title} {movie_year} movie"
 
-        url = "https://www.reddit.com/search.json"
         params = {
             "q": search_query,
             "limit": limit,
@@ -324,18 +364,56 @@ def collect_reddit_mentions(
             "t": "all"
         }
 
+        token = _get_reddit_token()
+        ua = os.environ.get("REDDIT_USER_AGENT", _BROWSER_UA)
+        if token:
+            url = "https://oauth.reddit.com/search"
+            headers = {"User-Agent": ua, "Authorization": f"bearer {token}"}
+        else:
+            url = "https://www.reddit.com/search.json"
+            headers = {"User-Agent": ua}
+
         logger.info(f"Fetching Reddit mentions for {movie_title}...")
-        time.sleep(RATE_LIMITS["reddit"])
 
-        response = requests.get(
-            url,
-            headers=DEFAULT_HEADERS,
-            params=params,
-            timeout=30
-        )
-        response.raise_for_status()
+        # With OAuth, retry/backoff on transient blocks. Without credentials the
+        # public endpoint is reliably 403-blocked, so fail fast (1 attempt) to
+        # avoid wasting ~30s per film during a no-Reddit run.
+        max_attempts = 4 if token else 1
+        data = None
+        last_status = None
+        for attempt in range(max_attempts):
+            time.sleep(RATE_LIMITS["reddit"] * (attempt + 1))
+            response = requests.get(url, headers=headers, params=params, timeout=30)
+            last_status = response.status_code
+            if response.status_code in (403, 429, 503):
+                if max_attempts > 1:
+                    logger.warning(
+                        f"Reddit {response.status_code} for {movie_title} "
+                        f"(attempt {attempt + 1}/{max_attempts}); backing off..."
+                    )
+                    time.sleep(2 * (attempt + 1))
+                    if token:  # refresh token in case it expired/was rejected
+                        token = _get_reddit_token()
+                        if token:
+                            headers["Authorization"] = f"bearer {token}"
+                    continue
+                else:
+                    logger.warning(
+                        f"Reddit {response.status_code} for {movie_title} "
+                        f"(no REDDIT_CLIENT_ID/SECRET set — skipping Reddit)."
+                    )
+                    break
+            response.raise_for_status()
+            data = response.json()
+            break
 
-        data = response.json()
+        if data is None:
+            return {
+                "movie_title": movie_title,
+                "movie_year": movie_year,
+                "status": "error",
+                "error": f"reddit_blocked_status_{last_status}",
+            }
 
         # Extract posts
         posts = data.get("data", {}).get("children", [])
@@ -893,6 +971,13 @@ def main():
         help="Output file for collected data"
     )
     parser.add_argument(
+        "--movies",
+        type=str,
+        default=os.path.join(DATA_DIR, "top200_movies.csv"),
+        help="Input movie list CSV (must have title,year columns). "
+             "Use data/expansion_movies.csv for the expansion sample."
+    )
+    parser.add_argument(
         "--limit",
         type=int,
         default=None,
@@ -925,7 +1010,7 @@ def main():
     logger.info("=" * 70)
 
     # Load movies CSV
-    movies_csv = os.path.join(DATA_DIR, "top200_movies.csv")
+    movies_csv = args.movies
     if not os.path.exists(movies_csv):
         logger.error(f"Movies CSV not found: {movies_csv}")
         return

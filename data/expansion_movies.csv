@@ -1,0 +1,157 @@
+rank,title,year,worldwide_gross,domestic_gross,budget,genre,franchise,director,studio,is_sequel,is_animated,expansion_category,tmdb_id,tmdb_release_date
+201,The Big Lebowski,1998,47010480,,15000000,Comedy,,,PolyGram Filmed Entertainment,False,False,cult_classic,115,1998-03-06
+202,Donnie Darko,2001,7500000,,4500000,Fantasy,,,Flower Films,False,False,cult_classic,141,2001-01-19
+203,Fight Club,1999,100853753,,63000000,Drama,,,Fox 2000 Pictures,False,False,cult_classic,550,1999-10-15
+204,Office Space,1999,12800000,,10000000,Comedy,,,20th Century Fox,False,False,cult_classic,1542,1999-02-19
+205,Blade Runner,1982,41722424,,28000000,Science Fiction,,,Shaw Brothers,False,False,cult_classic,78,1982-06-25
+206,The Thing,1982,19629760,,15000000,Horror,,,Universal Pictures,False,False,cult_classic,1091,1982-06-25
+207,The Shawshank Redemption,1994,28341469,,25000000,Drama,,,Castle Rock Entertainment,False,False,cult_classic,278,1994-09-23
+208,Scott Pilgrim vs. the World,2010,51825248,,73000000,Action,,,Marc Platt Productions,False,False,cult_classic,22538,2010-08-12
+209,Clerks,1994,3158707,,27575,Comedy,,,View Askew Productions,False,False,low_budget_hit,2292,1994-10-19
+210,Pi,1998,3221152,,60000,Mystery,,,Harvest Filmworks,False,False,low_budget_hit,473,1998-07-10
+211,Memento,2000,40060108,,9000000,Mystery,,,Newmarket Films,False,False,low_budget_hit,77,2000-10-11
+212,Primer,2004,545436,,7000,Science Fiction,,,erbp,False,False,low_budget_hit,14337,2004-10-08
+213,Moon,2009,9760104,,5000000,Science Fiction,,,Lunar Industries,False,False,low_budget_hit,17431,2009-06-12
+214,The Man from Earth,2007,0,,200000,Science Fiction,,,Falling Sky Entertainment,False,False,low_budget_hit,13363,2007-06-10
+215,Coherence,2013,139745,,50000,Thriller,,,Bellanova Films,False,False,low_budget_hit,220289,2014-04-06
+216,Napoleon Dynamite,2004,46118097,,400000,Comedy,,,Napoleon Pictures,False,False,cult_classic,8193,2004-06-11
+217,Mean Girls,2004,130195052,,17000000,Drama,,,Broadway Video,False,False,cult_classic,10625,2004-04-30
+218,American Psycho,2000,34269748,,7000000,Thriller,,,Lionsgate,False,False,cult_classic,1359,2000-04-13
+219,Heathers,1988,1166207,,3000000,Comedy,,,New World Pictures,False,False,cult_classic,2640,1989-03-31
+220,Wet Hot American Summer,2001,295206,,5000000,Comedy,,,Eureka Pictures,False,False,cult_classic,2171,2001-07-27
+221,Idiocracy,2006,495303,,30000000,Comedy,,,20th Century Fox,False,False,cult_classic,7512,2006-09-01
+222,The Boondock Saints,1999,38256,,6000000,Action,,,Franchise Pictures,False,False,cult_classic,8374,1999-01-22
+223,The Room,2003,0,,0,Drama,,,Les Films du Carrosse,False,False,cult_classic,8070,1978-04-05
+224,The Princess Bride,1987,30900000,,16000000,Adventure,,,The Princess Bride,False,False,cult_classic,2493,1987-09-25
+225,Labyrinth,1986,12729917,,25000000,Adventure,,,Henson Associates,False,False,cult_classic,13597,1986-06-27
+226,The Dark Crystal,1982,44626631,,15000000,Adventure,,,ITC Entertainment,False,False,cult_classic,11639,1982-12-17
+227,Tron,1982,33002371,,17000000,Science Fiction,,,Lisberger/Kushner Productions,False,False,cult_classic,97,1982-07-09
+228,Fear and Loathing in Las Vegas,1998,10700000,,18500000,Adventure,,,Summit Entertainment,False,False,cult_classic,1878,1998-05-22
+229,Bring It On,2000,90449929,,28000000,Comedy,,,Universal Pictures,False,False,cult_classic,1588,2000-08-25
+230,Jennifer's Body,2009,31556061,,16000000,Horror,,,Fox Atomic,False,False,cult_classic,19994,2009-09-18
+231,Hocus Pocus,1993,51663767,,28000000,Fantasy,,,Walt Disney Pictures,False,False,cult_classic,10439,1993-07-16
+232,The Iron Giant,1999,23300000,,50000000,Animation,,,Warner Bros. Feature Animation,False,True,cult_classic,10386,1999-08-06
+233,Treasure Planet,2002,109578115,,140000000,Science Fiction,,,Walt Disney Pictures,False,True,commercial_flop,9016,2002-11-26
+234,Children of Men,2006,70595464,,76000000,Science Fiction,,,Universal Pictures,False,False,cult_classic,9693,2006-09-22
+235,Snatch,2000,83557872,,100000000,Crime,,,SKA Films,False,False,cult_classic,107,2000-09-01
+236,"Lock, Stock and Two Smoking Barrels",1998,28356188,,1350000,Comedy,,,The Steve Tisch Company,False,False,cult_classic,100,1998-08-28
+237,Trainspotting,1996,71981823,,4000000,Drama,,,Figment Films,False,False,cult_classic,627,1996-02-23
+238,Requiem for a Dream,2000,7390108,,4500000,Crime,,,Artisan Entertainment,False,False,cult_classic,641,2000-10-06
+239,Dredd,2012,41037742,,50000000,Action,,,Rena Film,False,False,cult_classic,49049,2012-09-07
+240,Edge of Tomorrow,2014,370541256,,178000000,Action,,,RatPac Entertainment,False,False,cult_classic,137113,2014-05-27
+241,Blade Runner 2049,2017,259239658,,150000000,Science Fiction,,,Alcon Entertainment,False,False,commercial_flop,335984,2017-10-04
+242,The Nice Guys,2016,71261763,,50000000,Comedy,,,Silver Pictures,False,False,cult_classic,290250,2016-05-15
+243,Annihilation,2018,43070915,,40000000,Science Fiction,,,Paramount Pictures,False,False,cult_classic,300668,2018-02-22
+244,Sorry to Bother You,2018,18200000,,3200000,Fantasy,,,Cinereach,False,False,cult_classic,424781,2018-07-06
+245,Swiss Army Man,2016,5800000,,3000000,Comedy,,,BlackBird,False,False,cult_classic,347031,2016-06-24
+246,The Lighthouse,2019,18262464,,11000000,Drama,,,RT Features,False,False,cult_classic,503919,2019-10-18
+247,Mandy,2018,1653784,,6000000,Fantasy,,,SpectreVision,False,False,cult_classic,460885,2018-09-13
+248,Hackers,1995,7563728,,20000000,Action,,,Suftley,False,False,cult_classic,10428,1995-09-14
+249,Empire Records,1995,303841,,10000000,Comedy,,,Regency Enterprises,False,False,cult_classic,13531,1995-09-22
+250,Dazed and Confused,1993,8259076,,6900000,Comedy,,,Gramercy Pictures,False,False,cult_classic,9571,1993-09-24
+251,This Is Spinal Tap,1984,6051884,,2500000,Comedy,,,Spinal Tap Prod.,False,False,cult_classic,11031,1984-03-02
+252,Brazil,1985,9953708,,15000000,Comedy,,,Embassy International Pictures,False,False,cult_classic,68,1985-02-20
+253,Repo Man,1984,2300000,,1500000,Comedy,,,Edge City Productions,False,False,cult_classic,13820,1984-03-02
+254,Withnail and I,1987,1544889,,0,Comedy,,,Handmade Films,False,False,cult_classic,13446,1987-06-19
+255,A Clockwork Orange,1971,27033812,,2200000,Science Fiction,,,Polaris Productions Limited,False,False,cult_classic,185,1971-10-28
+256,Eraserhead,1977,7000000,,100000,Horror,,,AFI,False,False,cult_classic,985,1977-09-28
+257,Harold and Maude,1971,0,,1200000,Comedy,,,Paramount Pictures,False,False,cult_classic,343,1971-12-20
+258,John Carter,2012,284100000,,263700000,Action,,,Walt Disney Pictures,False,False,commercial_flop,49529,2012-03-07
+259,The Lone Ranger,2013,260502115,,215000000,Action,,,Walt Disney Pictures,False,False,commercial_flop,57201,2013-07-03
+260,Cutthroat Island,1995,16000000,,102000000,Action,,,Carolco Pictures,False,False,commercial_flop,1408,1995-12-22
+261,Heaven's Gate,1980,3484331,,44000000,Drama,,,United Artists,False,False,commercial_flop,10935,1980-11-19
+262,Waterworld,1995,264218220,,175000000,Adventure,,,Gordon Company,False,False,commercial_flop,9804,1995-07-28
+263,Ishtar,1987,14375181,,51000000,Comedy,,,Columbia Pictures,False,False,commercial_flop,12704,1987-05-15
+264,Battlefield Earth,2000,29725663,,44000000,Science Fiction,,,Franchise Pictures,False,False,commercial_flop,5491,2000-05-12
+265,The Adventures of Pluto Nash,2002,7103973,,100000000,Action,,,Village Roadshow Pictures,False,False,commercial_flop,11692,2002-08-16
+266,Mars Needs Moms,2011,39000000,,150000000,Adventure,,,Walt Disney Pictures,False,True,commercial_flop,50321,2011-03-09
+267,Gigli,2003,7266209,,75600000,Comedy,,,Casey Silver Productions,False,False,commercial_flop,8046,2003-08-01
+268,Catwoman,2004,82102379,,100000000,Action,,,Village Roadshow Pictures,False,False,commercial_flop,314,2004-07-22
+269,The 13th Warrior,1999,61698899,,120000000,Adventure,,,Touchstone Pictures,False,False,commercial_flop,1911,1999-08-13
+270,Sahara,2005,119269486,,130000000,Action,,,Baldwin Entertainment Group,False,False,commercial_flop,7364,2005-04-06
+271,Final Fantasy: The Spirits Within,2001,85131830,,137000000,Action,,,Chris Lee Productions,False,True,commercial_flop,2114,2001-07-02
+272,Speed Racer,2008,93900000,,120000000,Family,,,Warner Bros. Pictures,False,False,commercial_flop,7459,2008-05-07
+273,Jupiter Ascending,2015,184000000,,176000000,Science Fiction,,,Warner Bros. Pictures,False,False,commercial_flop,76757,2015-02-04
+274,Tomorrowland,2015,209200000,,190000000,Adventure,,,Walt Disney Pictures,False,False,commercial_flop,158852,2015-05-19
+275,The Golden Compass,2007,372234864,,180000000,Adventure,,,Depth of Field,False,False,commercial_flop,2268,2007-12-04
+276,Pan,2015,128388320,,150000000,Fantasy,,,Moving Picture Company,False,False,commercial_flop,266647,2015-09-24
+277,King Arthur: Legend of the Sword,2017,149175066,,175000000,Action,,,Village Roadshow Pictures,False,False,commercial_flop,274857,2017-05-10
+278,Valerian and the City of a Thousand Planets,2017,225973340,,177200000,Adventure,,,Belga Films,False,False,commercial_flop,339964,2017-07-19
+279,Ben-Hur,2016,94061311,,100000000,Action,,,Metro-Goldwyn-Mayer,False,False,commercial_flop,271969,2016-08-17
+280,Monster Trucks,2016,64493915,,125000000,Action,,,Nickelodeon Movies,False,False,commercial_flop,262841,2016-12-21
+281,A Wrinkle in Time,2018,132675864,,103000000,Adventure,,,Whitaker Entertainment,False,False,commercial_flop,407451,2018-03-08
+282,Cats,2019,77276321,,95000000,Fantasy,,,Universal Pictures,False,False,commercial_flop,536869,2019-12-19
+283,The Happening,2008,163403799,,60000000,Thriller,,,20th Century Fox,False,False,commercial_flop,8645,2008-06-11
+284,Green Lantern,2011,219851172,,200000000,Adventure,,,De Line Pictures,False,False,commercial_flop,44912,2011-06-14
+285,R.I.P.D.,2013,61600000,,130000000,Fantasy,,,Universal Pictures,False,False,commercial_flop,49524,2013-07-18
+286,47 Ronin,2013,151783839,,175000000,Drama,,,Mid Atlantic Films,False,False,commercial_flop,64686,2013-12-06
+287,Dark Phoenix,2019,252442974,,200000000,Science Fiction,,,Genre Films,False,False,commercial_flop,320288,2019-06-05
+288,Terminator: Dark Fate,2019,261119292,,185000000,Science Fiction,,,20th Century Fox,False,False,commercial_flop,290859,2019-10-23
+289,Solo: A Star Wars Story,2018,392952373,,250000000,Science Fiction,,,Lucasfilm Ltd.,False,False,commercial_flop,348350,2018-05-15
+290,Babylon,2022,65267446,,78000000,Drama,,,Paramount Pictures,False,False,commercial_flop,615777,2022-12-22
+291,Amsterdam,2022,31245810,,80000000,Mystery,,,DreamCrew,False,False,commercial_flop,664469,2022-09-27
+292,Strange World,2022,73621640,,180000000,Animation,,,Walt Disney Animation Studios,False,True,commercial_flop,877269,2022-11-23
+293,The Marvels,2023,206136825,,274800000,Science Fiction,,,Marvel Studios,False,False,commercial_flop,609681,2023-11-08
+294,Mortal Engines,2018,83869818,,100000000,Adventure,,,Scholastic Productions,False,False,commercial_flop,428078,2018-11-27
+295,Robin Hood,2018,86493046,,100000000,Adventure,,,Appian Way,False,False,commercial_flop,375588,2018-11-03
+296,The Nutcracker and the Four Realms,2018,173961069,,120000000,Family,,,Walt Disney Pictures,False,False,commercial_flop,426543,2018-10-26
+297,Cleopatra,1963,57779280,,44000000,Drama,,,MCL Films S.A.,False,False,commercial_flop,8095,1963-06-12
+298,The Blair Witch Project,1999,248639099,,60000,Horror,,,Haxan Films,False,False,low_budget_hit,2667,1999-07-14
+299,Paranormal Activity,2007,193355800,,15000,Horror,,,Blumhouse Productions,False,False,low_budget_hit,23827,2007-09-14
+300,Once,2007,20710513,,160000,Drama,,,Samson Films,False,False,low_budget_hit,5723,2007-03-23
+301,Little Miss Sunshine,2006,100523351,,8000000,Comedy,,,Big Beach,False,False,low_budget_hit,773,2006-07-26
+302,Juno,2007,232372681,,7500000,Comedy,,,Mandate Pictures,False,False,low_budget_hit,7326,2007-12-05
+303,Get Out,2017,255407969,,4500000,Mystery,,,Monkeypaw Productions,False,False,low_budget_hit,419430,2017-02-24
+304,Hereditary,2018,87796204,,10000000,Horror,,,PalmStar Media,False,False,low_budget_hit,493922,2018-06-07
+305,The Witch,2015,40423945,,4000000,Horror,,,Very Special Projects,False,False,low_budget_hit,310131,2016-02-19
+306,It Follows,2014,23374076,,2300000,Horror,,,Two Flints,False,False,low_budget_hit,270303,2015-02-04
+307,Whiplash,2014,50307484,,3300000,Drama,,,Bold Films,False,False,low_budget_hit,244786,2014-10-10
+308,Ex Machina,2014,36869414,,15000000,Drama,,,DNA Films,False,False,low_budget_hit,264660,2015-01-21
+309,Lady Bird,2017,79000000,,10000000,Drama,,,IAC Films,False,False,low_budget_hit,391713,2017-09-01
+310,Moonlight,2016,65046687,,4000000,Drama,,,A24,False,False,low_budget_hit,376867,2016-10-21
+311,The Florida Project,2017,11303040,,2000000,Drama,,,Cre Film,False,False,low_budget_hit,394117,2017-10-06
+312,Tangerine,2015,925000,,100000,Comedy,,,Through Films,False,False,low_budget_hit,308084,2015-07-10
+313,Eighth Grade,2018,13539709,,2000000,Comedy,,,A24,False,False,low_budget_hit,489925,2018-01-19
+314,Saw,2004,104045735,,1200000,Horror,,,Twisted Pictures,False,False,low_budget_hit,176,2004-10-01
+315,Open Water,2003,54683487,,120000,Horror,,,Plunge Pictures LLC,False,False,low_budget_hit,83,2004-08-06
+316,Chronicle,2012,145000000,,15000000,Science Fiction,,,Dune Entertainment,False,False,low_budget_hit,76726,2012-02-01
+317,District 9,2009,210888950,,30000000,Science Fiction,,,TriStar Pictures,False,False,low_budget_hit,17654,2009-08-05
+318,Looper,2012,47042000,,30000000,Action,,,Endgame Entertainment,False,False,low_budget_hit,59967,2012-09-26
+319,Brick,2005,3900000,,475000,Drama,,,Bergman Lustig Productions,False,False,low_budget_hit,9270,2006-03-31
+320,The Babadook,2014,10300000,,2000000,Drama,,,Screen Australia,False,False,low_budget_hit,242224,2014-05-22
+321,A Ghost Story,2017,1929659,,100000,Drama,,,Sailor Bear,False,False,low_budget_hit,428449,2017-04-24
+322,Frances Ha,2012,8986144,,0,Comedy,,,Scott Rudin Productions,False,False,low_budget_hit,121986,2013-05-17
+323,500 Days of Summer,2009,60781545,,7500000,Comedy,,,Fox Searchlight Pictures,False,False,low_budget_hit,19913,2009-07-17
+324,Lost in Translation,2003,119723856,,4000000,Drama,,,American Zoetrope,False,False,low_budget_hit,153,2003-09-18
+325,Garden State,2004,26781723,,2500000,Comedy,,,Camelot Pictures,False,False,cult_classic,401,2004-07-28
+326,Booksmart,2019,24849029,,6000000,Comedy,,,Annapurna Pictures,False,False,low_budget_hit,505600,2019-05-24
+327,Uncut Gems,2019,50023780,,19000000,Drama,,,A24,False,False,low_budget_hit,473033,2019-08-30
+328,Good Time,2017,3283369,,2000000,Crime,,,Elara Pictures,False,False,low_budget_hit,429200,2017-08-11
+329,The Lobster,2015,15700000,,4000000,Comedy,,,Scarlet Films,False,False,niche_arthouse,254320,2015-10-15
+330,Amelie,2001,173921954,,10000000,Comedy,,,Victoires Productions,False,False,niche_arthouse,194,2001-04-25
+331,Oldboy,2003,17500000,,3000000,Thriller,,,Show East,False,False,niche_arthouse,670,2003-11-21
+332,Pan's Labyrinth,2006,83258226,,19000000,Fantasy,,,Estudios Picasso,False,False,niche_arthouse,1417,2006-10-11
+333,City of God,2002,30641770,,3300000,Drama,,,O2 Filmes,False,False,niche_arthouse,598,2002-08-30
+334,Akira,1988,49000000,,5700000,Animation,,,MBS,False,True,niche_arthouse,149,1988-06-10
+335,Princess Mononoke,1997,176506186,,23500000,Adventure,,,Studio Ghibli,False,True,niche_arthouse,128,1997-07-12
+336,Drive,2011,79713640,,15000000,Drama,,,FilmDistrict,False,False,cult_classic,64690,2011-09-15
+337,Burning,2018,6591038,,7280000,Mystery,,,Pinehouse Film,False,False,niche_arthouse,491584,2018-05-17
+338,A Separation,2011,24426169,,5000000,Drama,,,Asghar Farhadi Productions,False,False,niche_arthouse,60243,2011-02-15
+339,Enter the Void,2009,754249,,13000000,Fantasy,,,Fidélité Films,False,False,niche_arthouse,34647,2010-05-05
+340,Spring Breakers,2012,32016127,,5000000,Drama,,,Iconoclast,False,False,cult_classic,122081,2013-03-06
+341,Nightcrawler,2014,47425835,,8500000,Crime,,,Sierra/Affinity,False,False,low_budget_hit,242582,2014-10-23
+342,Birdman,2014,103215094,,18000000,Drama,,,TSG Entertainment,False,False,low_budget_hit,194662,2014-10-17
+343,Her,2013,47351251,,23000000,Romance,,,Annapurna Pictures,False,False,low_budget_hit,152601,2013-12-18
+344,The Grand Budapest Hotel,2014,174600318,,30000000,Comedy,,,Fox Searchlight Pictures,False,False,low_budget_hit,120467,2014-02-26
+345,Eternal Sunshine of the Spotless Mind,2004,72258126,,20000000,Science Fiction,,,Focus Features,False,False,low_budget_hit,38,2004-03-19
+346,There Will Be Blood,2007,77208711,,25000000,Drama,,,Paramount Vantage,False,False,low_budget_hit,7345,2007-12-26
+347,No Country for Old Men,2007,171627166,,25000000,Crime,,,Miramax,False,False,low_budget_hit,6977,2007-11-09
+348,Donnie Brasco,1997,124909762,,35000000,Crime,,,Mark Johnson Productions,False,False,low_budget_hit,9366,1997-02-27
+349,Gattaca,1997,12532777,,36000000,Science Fiction,,,Jersey Films,False,False,cult_classic,782,1997-07-09
+350,Event Horizon,1997,26700000,,60000000,Horror,,,Impact Pictures,False,False,cult_classic,8413,1997-08-15
+351,Dark City,1998,27200000,,27000000,Mystery,,,New Line Cinema,False,False,cult_classic,2666,1998-02-27
+352,The Fountain,2006,15304890,,35000000,Drama,,,Regency Enterprises,False,False,cult_classic,1381,2006-11-22
+353,Sunshine,2007,34800000,,50000000,Science Fiction,,,Ingenious Media,False,False,cult_classic,1272,2007-04-05
+354,Grindhouse,2007,25422088,,60000000,Thriller,,,Yer Dead,False,False,commercial_flop,285923,2007-04-06
+355,MacGruber,2010,9322895,,10000000,Action,,,Universal Studios,False,False,cult_classic,37931,2010-05-21
+356,Kung Fury,2015,0,,630019,Action,,,Laser Unicorns,False,False,cult_classic,251516,2015-05-22

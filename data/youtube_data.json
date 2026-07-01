@@ -6297,5 +6297,3844 @@
       "total_comments": 0
     },
     "status": "success"
+  },
+  {
+    "movie_title": "Sleeping Beauty",
+    "movie_year": 1959,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Big Lebowski",
+    "movie_year": 1998,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Donnie Darko",
+    "movie_year": 2001,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Fight Club",
+    "movie_year": 1999,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Office Space",
+    "movie_year": 1999,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Blade Runner",
+    "movie_year": 1982,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Thing",
+    "movie_year": 1982,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Shawshank Redemption",
+    "movie_year": 1994,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Scott Pilgrim vs. the World",
+    "movie_year": 2010,
+    "release_date": "2010-08-12",
+    "trailer_pick": {
+      "video_id": "7wd5KEaOtm4",
+      "video_title": "Scott Pilgrim Vs. The World - Official Trailer",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2010-05-28T18:39:33Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "7wd5KEaOtm4",
+      "title": "Scott Pilgrim Vs. The World - Official Trailer",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2010-05-28T18:39:33Z",
+      "description": "Meet charming and jobless Scott Pilgrim (Michael Cera).  A bass guitarist for garage band Sex Bob-omb, the 22-year-old has just met the girl of his dreams...literally.  The only catch to winning Ramona Flowers (Mary Elizabeth Winstead)?  Her seven evil exes are coming to kill him.  Genre-smashing filmmaker Edgar Wright (Hot Fuzz, Shaun of the Dead) tells the amazing story of one romantic slacker's quest to power up with love in Scott Pilgrim vs. the World.\n\nScott Pilgrim has never had a problem ",
+      "duration_iso": "PT2M33S",
+      "view_count": 6204484,
+      "like_count": 71942,
+      "comment_count": 3812
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 75
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 197,
+      "yt_comments_day_30": 256,
+      "yt_comments_velocity": 0.76953125,
+      "yt_comments_scanned_total": 2802,
+      "total_comments": 3812
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Clerks",
+    "movie_year": 1994,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Pi",
+    "movie_year": 1998,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Memento",
+    "movie_year": 2000,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Primer",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Man from Earth",
+    "movie_year": 2007,
+    "release_date": "2007-06-10",
+    "trailer_pick": {
+      "video_id": "PJ_2hJ55_1c",
+      "video_title": "The Man From Earth Trailer Español Latino AMAZON",
+      "channel_title": "EL SANTUARIO DUBBING STUDIOS",
+      "channel_id": "UCttYcbyWFHZS9k21DMktb5Q",
+      "published_at": "2023-08-22T06:52:11Z",
+      "score": 12,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "PJ_2hJ55_1c",
+      "title": "The Man From Earth Trailer Español Latino AMAZON",
+      "channel_title": "EL SANTUARIO DUBBING STUDIOS",
+      "channel_id": "UCttYcbyWFHZS9k21DMktb5Q",
+      "published_at": "2023-08-22T06:52:11Z",
+      "description": "The Man From Earth (El hombre de la tierra) trailer en español latino, pelicula doblada al español, EL SANTUARIO DUBBING STUDIOS",
+      "duration_iso": "PT1M44S",
+      "view_count": 37228,
+      "like_count": 215,
+      "comment_count": 59
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": -5918
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 11,
+      "total_comments": 59
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Coherence",
+    "movie_year": 2013,
+    "release_date": "2014-04-06",
+    "trailer_pick": {
+      "video_id": "mon1mn7KHjo",
+      "video_title": "Coherence Official Trailer",
+      "channel_title": "Pinnacle Films",
+      "channel_id": "UCy_Nh0LY-LPzD_VbdjSybuA",
+      "published_at": "2015-02-18T04:49:57Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "mon1mn7KHjo",
+      "title": "Coherence Official Trailer",
+      "channel_title": "Pinnacle Films",
+      "channel_id": "UCy_Nh0LY-LPzD_VbdjSybuA",
+      "published_at": "2015-02-18T04:49:57Z",
+      "description": "Four couples gather for dinner the night a mysterious and powerful\ncomet passes overhead. As unexplained events begin to bend reality in frightening ways, the couples realise that visitors from a strange house down the road may be trying to prevent them from surviving the night.\n\nAs the night unfolds, people experience terrifying revelations\nabout themselves, forcing each one to question their own reality.\nRelationships strain under the pressure and, for at least one woman, the prospect of conti",
+      "duration_iso": "PT2M1S",
+      "view_count": 113771,
+      "like_count": 434,
+      "comment_count": 20
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": -319
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 14,
+      "total_comments": 20
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Napoleon Dynamite",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Mean Girls",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "American Psycho",
+    "movie_year": 2000,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Heathers",
+    "movie_year": 1988,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Wet Hot American Summer",
+    "movie_year": 2001,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Idiocracy",
+    "movie_year": 2006,
+    "release_date": "2006-09-01",
+    "trailer_pick": {
+      "video_id": "6lai9QhBibk",
+      "video_title": "Idiocracy (2006) Trailer | Luke Wilson | Dax Shepard",
+      "channel_title": "Film Trailer Channel",
+      "channel_id": "UC2-FWL7Qtc-bvrS5AhiIeBw",
+      "published_at": "2017-06-29T23:04:39Z",
+      "score": 10,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "6lai9QhBibk",
+      "title": "Idiocracy (2006) Trailer | Luke Wilson | Dax Shepard",
+      "channel_title": "Film Trailer Channel",
+      "channel_id": "UC2-FWL7Qtc-bvrS5AhiIeBw",
+      "published_at": "2017-06-29T23:04:39Z",
+      "description": "Idiocracy (2006) \n\nPrivate Joe Bauers, the definition of \"average American\", is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes five centuries in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.\n\nDirector: Mike Judge\nWriters: Mike Judge (story), Mike Judge (screenplay)\nStars: Luke Wilson, Maya Rudolph, Dax Shepard",
+      "duration_iso": "PT1M40S",
+      "view_count": 2328778,
+      "like_count": 11063,
+      "comment_count": 1070
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": -3955
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 745,
+      "total_comments": 1070
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Boondock Saints",
+    "movie_year": 1999,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Room",
+    "movie_year": 2003,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Princess Bride",
+    "movie_year": 1987,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Labyrinth",
+    "movie_year": 1986,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Dark Crystal",
+    "movie_year": 1982,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Tron",
+    "movie_year": 1982,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Fear and Loathing in Las Vegas",
+    "movie_year": 1998,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Bring It On",
+    "movie_year": 2000,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Jennifer's Body",
+    "movie_year": 2009,
+    "release_date": "2009-09-18",
+    "trailer_pick": {
+      "video_id": "C8azftM5puI",
+      "video_title": "Jennifer&#39;s Body | Official Trailer | 20th Century FOX",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2009-09-11T21:09:50Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "C8azftM5puI",
+      "title": "Jennifer's Body | Official Trailer | 20th Century FOX",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2009-09-11T21:09:50Z",
+      "description": "When small town high school student Jennifer (Megan Fox) is possessed by a hungry demon, she transitions from being high school evil  gorgeous (and doesnt she know it), stuck up and ultra-attitudinal  to the real deal: evil/evil.  The glittering beauty becomes a pale and sickly creature jonesing for a meaty snack, and guys who never stood a chance with the heartless babe, take on new luster in the light of her insatiable appetite.  Meanwhile, Jennifers best friend, Needy (Amanda Seyfried), long ",
+      "duration_iso": "PT1M48S",
+      "view_count": 5868424,
+      "like_count": 32203,
+      "comment_count": 1380
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": 6
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 57,
+      "yt_comments_day_30": 103,
+      "yt_comments_velocity": 0.5533980582524272,
+      "yt_comments_scanned_total": 831,
+      "total_comments": 1380
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Hocus Pocus",
+    "movie_year": 1993,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Iron Giant",
+    "movie_year": 1999,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Treasure Planet",
+    "movie_year": 2002,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Children of Men",
+    "movie_year": 2006,
+    "release_date": "2006-09-22",
+    "trailer_pick": {
+      "video_id": "2VT2apoX90o",
+      "video_title": "Children of Men Official Trailer #1 - Julianne Moore, Clive Owen Movie (2006) HD",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2012-01-10T07:03:52Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "2VT2apoX90o",
+      "title": "Children of Men Official Trailer #1 - Julianne Moore, Clive Owen Movie (2006) HD",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2012-01-10T07:03:52Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nChildren of Men Official Trailer #1 - Julianne Moore, Clive Owen Movie (2006) HD\n\n\nChildren of Men Trailer - Directed by Alfonso CuarÓn and starring Clive Owen, Juan Gabriel Yacuzzi, Michael Caine, Mishal Husain, Rob Curling. In 2027, in a chaotic world in which humans c",
+      "duration_iso": "PT2M27S",
+      "view_count": 6726633,
+      "like_count": 32409,
+      "comment_count": 3232
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -1937
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 1750,
+      "total_comments": 3232
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Snatch",
+    "movie_year": 2000,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Lock, Stock and Two Smoking Barrels",
+    "movie_year": 1998,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Trainspotting",
+    "movie_year": 1996,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Requiem for a Dream",
+    "movie_year": 2000,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Dredd",
+    "movie_year": 2012,
+    "release_date": "2012-09-07",
+    "trailer_pick": {
+      "video_id": "G-eI5oLlIeY",
+      "video_title": "Dredd 3D Official Trailer #1 (2012) - Karl Urban Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2012-06-22T17:35:15Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "G-eI5oLlIeY",
+      "title": "Dredd 3D Official Trailer #1 (2012) - Karl Urban Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2012-06-22T17:35:15Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nDredd 3D Official Trailer #1 (2012) - Karl Urban Movie HD\n\nIn a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.",
+      "duration_iso": "PT2M31S",
+      "view_count": 4222727,
+      "like_count": 19993,
+      "comment_count": 3499
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 76
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 329,
+      "yt_comments_day_30": 475,
+      "yt_comments_velocity": 0.6926315789473684,
+      "yt_comments_scanned_total": 3030,
+      "total_comments": 3499
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Swiss Army Man",
+    "movie_year": 2016,
+    "release_date": "2016-06-24",
+    "trailer_pick": {
+      "video_id": "yrK1f4TsQfM",
+      "video_title": "Swiss Army Man | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2016-04-04T13:00:03Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "yrK1f4TsQfM",
+      "title": "Swiss Army Man | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2016-04-04T13:00:03Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nThere are 7 billion people on the planet. You might be lucky enough to bump into the one person you want to spend the rest of your life with. SWISS ARMY MAN -- In Theaters June 24, 2016.\n\nRELEASE DATE: June 24, 2016\nWRITER/DIRECTOR: Daniels\nCAST: Daniel Radcliffe, Paul Dano and Mary Elizabeth Winstead\n\nVisit Swiss Army Man WEBSITE: swissarmyman.com\nLike Swiss Army Man on FACEBOOK: fb.com/SwissArmyManFilm\nFollow Swiss Army Man on TWITTER: twitter.com/SwissAr",
+      "duration_iso": "PT1M55S",
+      "view_count": 20414071,
+      "like_count": 94401,
+      "comment_count": 10189
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 80
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 10189
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Lighthouse",
+    "movie_year": 2019,
+    "release_date": "2019-10-18",
+    "trailer_pick": {
+      "video_id": "Hyag7lR8CPA",
+      "video_title": "The Lighthouse | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2019-07-30T13:00:07Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "Hyag7lR8CPA",
+      "title": "The Lighthouse | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2019-07-30T13:00:07Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nThere is enchantment in the light. From Robert Eggers, acclaimed director of 'The Witch,' and starring Willem Dafoe and Robert Pattinson. THE LIGHTHOUSE — Now Playing.\n\nRELEASE DATE: October 18, 2019\nDIRECTOR: Robert Eggers \nCAST: Willem Dafoe and Robert Pattinson\n\nLike THE LIGHTHOUSE on Facebook: http://bit.ly/TheLighthouse_Facebook\nFollow THE LIGHTHOUSE on Twitter: http://bit.ly/TheLighthouse_Twitter\nFollow THE LIGHTHOUSE on Instagram: http://bit.ly/TheLi",
+      "duration_iso": "PT1M46S",
+      "view_count": 14637637,
+      "like_count": 179732,
+      "comment_count": 10634
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 79
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 10634
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Hackers",
+    "movie_year": 1995,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Empire Records",
+    "movie_year": 1995,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Dazed and Confused",
+    "movie_year": 1993,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "This Is Spinal Tap",
+    "movie_year": 1984,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Brazil",
+    "movie_year": 1985,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Repo Man",
+    "movie_year": 1984,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Withnail and I",
+    "movie_year": 1987,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "A Clockwork Orange",
+    "movie_year": 1971,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Eraserhead",
+    "movie_year": 1977,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Harold and Maude",
+    "movie_year": 1971,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Cutthroat Island",
+    "movie_year": 1995,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Heaven's Gate",
+    "movie_year": 1980,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Waterworld",
+    "movie_year": 1995,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Ishtar",
+    "movie_year": 1987,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Battlefield Earth",
+    "movie_year": 2000,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Adventures of Pluto Nash",
+    "movie_year": 2002,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Mars Needs Moms",
+    "movie_year": 2011,
+    "release_date": "2011-03-09",
+    "trailer_pick": {
+      "video_id": "JWYVQzG0rYk",
+      "video_title": "Mars Needs Moms - Official Trailer",
+      "channel_title": "Disney UK",
+      "channel_id": "UCQphRgAhj5UxktrQNP3WF5g",
+      "published_at": "2010-11-23T16:24:41Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "JWYVQzG0rYk",
+      "title": "Mars Needs Moms - Official Trailer",
+      "channel_title": "Disney UK",
+      "channel_id": "UCQphRgAhj5UxktrQNP3WF5g",
+      "published_at": "2010-11-23T16:24:41Z",
+      "description": "Take out the trash, eat your broccoli—who needs moms, anyway?  Nine-year-old Milo (Seth Green) finds out just how much he needs his mom (Joan Cusack) when she's nabbed by Martians who plan to steal her mom-ness for their own young. Produced by the team behind \"Disney's A Christmas Carol\" and \"The Polar Express,\" \"Mars Needs Moms\" showcases Milo's quest to save his mom—a wild adventure in Disney Digital 3D™ and IMAX® 3D that involves stowing away on a spaceship, navigating an elaborate, multi-lev",
+      "duration_iso": "PT2M25S",
+      "view_count": 400358,
+      "like_count": 1668,
+      "comment_count": 88
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 105
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 33,
+      "yt_comments_day_30": 50,
+      "yt_comments_velocity": 0.66,
+      "yt_comments_scanned_total": 88,
+      "total_comments": 88
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Gigli",
+    "movie_year": 2003,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Catwoman",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The 13th Warrior",
+    "movie_year": 1999,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Final Fantasy: The Spirits Within",
+    "movie_year": 2001,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Speed Racer",
+    "movie_year": 2008,
+    "release_date": "2008-05-07",
+    "trailer_pick": {
+      "video_id": "YMcGjlj6MB8",
+      "video_title": "Speed Racer - Official Trailer [HD]",
+      "channel_title": "BASS movies",
+      "channel_id": "UClGcIO8cFTfihhPQF3ZvYhg",
+      "published_at": "2013-08-29T07:49:19Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "YMcGjlj6MB8",
+      "title": "Speed Racer - Official Trailer [HD]",
+      "channel_title": "BASS movies",
+      "channel_id": "UClGcIO8cFTfihhPQF3ZvYhg",
+      "published_at": "2013-08-29T07:49:19Z",
+      "description": "http://www.bassmovies.com/movies/143/speed-racer\n\nhttp://www.bassmovies.com\n\n\nSpeed Racer",
+      "duration_iso": "PT1M27S",
+      "view_count": 4092,
+      "like_count": 24,
+      "comment_count": 2
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -1941
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 1,
+      "total_comments": 2
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Jupiter Ascending",
+    "movie_year": 2015,
+    "release_date": "2015-02-04",
+    "trailer_pick": {
+      "video_id": "t4ZzMkDLjWI",
+      "video_title": "Jupiter Ascending Official Trailer #3 (2015) - Channing Tatum, MIla Kunis Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-09-25T17:37:53Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "t4ZzMkDLjWI",
+      "title": "Jupiter Ascending Official Trailer #3 (2015) - Channing Tatum, MIla Kunis Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-09-25T17:37:53Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nJupiter Ascending Official Trailer #3 (2015) - Channing Tatum, MIla Kunis Movie HD\n\nIn a universe where humans are near the bottom of the evolutionary ladder, a young destitute human woman is targeted for assassination by the Queen of the Universe because her very existence threatens to end the Queen's reign.\n\nThe Moviecli",
+      "duration_iso": "PT2M33S",
+      "view_count": 7373424,
+      "like_count": 20855,
+      "comment_count": 2175
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 131
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 191,
+      "yt_comments_day_30": 227,
+      "yt_comments_velocity": 0.8414096916299559,
+      "yt_comments_scanned_total": 1570,
+      "total_comments": 2175
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Tomorrowland",
+    "movie_year": 2015,
+    "release_date": "2015-05-19",
+    "trailer_pick": {
+      "video_id": "lWZ7O-RrATY",
+      "video_title": "Tomorrowland Official Trailer #1 (2015) - George Clooney, Britt Robertson Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2015-03-09T18:29:56Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "lWZ7O-RrATY",
+      "title": "Tomorrowland Official Trailer #1 (2015) - George Clooney, Britt Robertson Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2015-03-09T18:29:56Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nTomorrowland Official Trailer #1 (2015) - George Clooney, Britt Robertson Movie HD\n\nFrom Disney comes two-time Oscar® winner Brad Bird’s “Tomorrowland,” a riveting mystery adventure starring Academy Award® winner George Clooney. Bound by a shared destiny, former boy-genius Frank (Clooney), jaded by disillusionment, and Cas",
+      "duration_iso": "PT2M24S",
+      "view_count": 11333042,
+      "like_count": 51055,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 70
+    },
+    "early_engagement": {
+      "status": "comments_disabled",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Golden Compass",
+    "movie_year": 2007,
+    "release_date": "2007-12-04",
+    "trailer_pick": {
+      "video_id": "LHYoOGfBObU",
+      "video_title": "The Golden Compass (2007) Official Trailer - Daniel Craig Movie",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2016-09-28T15:41:46Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "LHYoOGfBObU",
+      "title": "The Golden Compass (2007) Official Trailer - Daniel Craig Movie",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2016-09-28T15:41:46Z",
+      "description": "Starring: Nicole Kidman, Daniel Craig and Eva Green\nThe Golden Compass (2007) Official Trailer - Daniel Craig Movie\n\nIn a parallel universe, young Lyra Belacqua journeys to the far North to save her best friend and other kidnapped children from terrible experiments by a mysterious organization.\n\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nWe're on SNAPCHAT: http://bit.ly/2cOzfcy\nLike us on FACEBOO",
+      "duration_iso": "PT2M27S",
+      "view_count": 976185,
+      "like_count": 6277,
+      "comment_count": 363
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -3222
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 2,
+      "yt_comments_day_30": 2,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 168,
+      "total_comments": 363
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Monster Trucks",
+    "movie_year": 2016,
+    "release_date": "2016-12-21",
+    "trailer_pick": {
+      "video_id": "wQGawWqJdfs",
+      "video_title": "Monster Trucks Official Trailer #1 (2017) - Lucas Till, Jane Levy Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-06-01T16:21:22Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "wQGawWqJdfs",
+      "title": "Monster Trucks Official Trailer #1 (2017) - Lucas Till, Jane Levy Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-06-01T16:21:22Z",
+      "description": "Monster Trucks Official Trailer #1 (2017) - Lucas Till, Jane Levy Movie HD\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nLooking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange a",
+      "duration_iso": "PT2M13S",
+      "view_count": 4685557,
+      "like_count": 22857,
+      "comment_count": 2569
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 202
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 811,
+      "yt_comments_day_30": 1034,
+      "yt_comments_velocity": 0.7843326885880078,
+      "yt_comments_scanned_total": 1938,
+      "total_comments": 2569
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "A Wrinkle in Time",
+    "movie_year": 2018,
+    "release_date": "2018-03-08",
+    "trailer_pick": {
+      "video_id": "mTY6syC5ZBg",
+      "video_title": "A Wrinkle in Time International Trailer #1 (2018) | Movieclips Trailers",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2018-01-22T15:09:13Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "mTY6syC5ZBg",
+      "title": "A Wrinkle in Time International Trailer #1 (2018) | Movieclips Trailers",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2018-01-22T15:09:13Z",
+      "description": "Check out the official A Wrinkle in Time International Trailer starring Reese Witherspoon! Let us know what you think in the comments below.\n► Buy Tickets to A Wrinkle in Time: https://www.fandango.com/a-wrinkle-in-time-203789/movie-overview?cmp=MCYT_YouTube_Desc\n\nUS Release Date: March 9, 2018\nStarring: Reese Witherspoon, Chris Pine, Gugu Mbatha-Raw \nDirected By: Ava DuVernay\nSynopsis: After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend t",
+      "duration_iso": "PT2M24S",
+      "view_count": 919797,
+      "like_count": 9012,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 44
+    },
+    "early_engagement": {
+      "status": "comments_disabled",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Cats",
+    "movie_year": 2019,
+    "release_date": "2019-12-19",
+    "trailer_pick": {
+      "video_id": "FtSd844cI7U",
+      "video_title": "CATS  - Official Trailer [HD]",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2019-07-18T21:07:49Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "FtSd844cI7U",
+      "title": "CATS  - Official Trailer [HD]",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2019-07-18T21:07:49Z",
+      "description": "This Christmas, you will believe. #CatsMovie\n\nFacebook: http://unvrs.al/catsFB\nTwitter: http://unvrs.al/catsTW\nInstagram: http://unvrs.al/catsIG\nSite:  http://www.catsmovie.com",
+      "duration_iso": "PT2M25S",
+      "view_count": 18429109,
+      "like_count": 140552,
+      "comment_count": 96236
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 153
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 96236
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "47 Ronin",
+    "movie_year": 2013,
+    "release_date": "2013-12-06",
+    "trailer_pick": {
+      "video_id": "j8cKdDkkIYY",
+      "video_title": "47 Ronin Official Trailer #1 (2013) - Keanu Reeves, Rinko Kikuchi Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2013-07-24T16:52:06Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "j8cKdDkkIYY",
+      "title": "47 Ronin Official Trailer #1 (2013) - Keanu Reeves, Rinko Kikuchi Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2013-07-24T16:52:06Z",
+      "description": "Watch the TRAILER REVIEW: http://goo.gl/8sH9nW\n\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\n47 Ronin Official Trailer #1 (2013) - Keanu Reeves, Rinko Kikuchi Movie HD\n\nAn 18th century set story centered on a band of samurai who set out to avenge the death of their master.\n\nThe Movieclips Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest studio rele",
+      "duration_iso": "PT2M31S",
+      "view_count": 19851819,
+      "like_count": 61003,
+      "comment_count": 8949
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 134
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 8949
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Babylon",
+    "movie_year": 2022,
+    "release_date": "2022-12-22",
+    "trailer_pick": {
+      "video_id": "5muQK7CuFtY",
+      "video_title": "BABYLON | Official Trailer (2022 Movie) – Brad Pitt, Margot Robbie, Diego Calva, Tobey Maguire",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2022-11-28T14:05:11Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "5muQK7CuFtY",
+      "title": "BABYLON | Official Trailer (2022 Movie) – Brad Pitt, Margot Robbie, Diego Calva, Tobey Maguire",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2022-11-28T14:05:11Z",
+      "description": "The bigger the dream, the greater the fight. Watch the new trailer for Damien Chazelle’s BABYLON starring Brad Pitt, Margot Robbie, and Diego Calva. In theatres everywhere December 23. #BabylonMovie\n\nFrom Damien Chazelle, Babylon is an original epic set in 1920s Los Angeles led by Brad Pitt, Margot Robbie and Diego Calva, with an ensemble cast including Jovan Adepo, Li Jun Li and Jean Smart. A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters dur",
+      "duration_iso": "PT2M25S",
+      "view_count": 9290526,
+      "like_count": 60951,
+      "comment_count": 3852
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 23
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1077,
+      "yt_comments_day_30": 1665,
+      "yt_comments_velocity": 0.6468468468468469,
+      "yt_comments_scanned_total": 2769,
+      "total_comments": 3852
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Amsterdam",
+    "movie_year": 2022,
+    "release_date": "2022-09-27",
+    "trailer_pick": {
+      "video_id": "GLs2xxM0e78",
+      "video_title": "Amsterdam | Official Trailer | 20th Century Studios",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2022-07-06T15:00:07Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "GLs2xxM0e78",
+      "title": "Amsterdam | Official Trailer | 20th Century Studios",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2022-07-06T15:00:07Z",
+      "description": "A lot of this actually happened. \n\nAmsterdam, a new film from David O. Russell, arrives in theaters November 2022.",
+      "duration_iso": "PT2M39S",
+      "view_count": 9846388,
+      "like_count": 111135,
+      "comment_count": 6344
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": 82
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 6344
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Nutcracker and the Four Realms",
+    "movie_year": 2018,
+    "release_date": "2018-10-26",
+    "trailer_pick": {
+      "video_id": "7dsFI3Tfgdk",
+      "video_title": "The Nutcracker and the Four Realms Trailer #1 (2018) | Movieclips Trailers",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2018-08-08T14:00:45Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "7dsFI3Tfgdk",
+      "title": "The Nutcracker and the Four Realms Trailer #1 (2018) | Movieclips Trailers",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2018-08-08T14:00:45Z",
+      "description": "Check out the official The Nutcracker and the Four Realms Trailer starring Keira Knightley! Let us know what you think in the comments below.\n► Buy or Rent The Nutcracker and the Four Realms: https://www.fandangonow.com/details/movie/the-nutcracker-and-the-four-realms-2018/MMV1FA29A9DD2D166E757DD5628DB5A9D930?cmp=MCYT_YouTube_Desc\n\nUS Release Date: November 2, 2018\nStarring: Keira Knightley, Mackenzie Foy, Matthew Macfadyen\nDirected By: Lasse Hallström\nSynopsis: A young girl is transported into ",
+      "duration_iso": "PT1M41S",
+      "view_count": 359249,
+      "like_count": 4209,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 78
+    },
+    "early_engagement": {
+      "status": "comments_disabled",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Cleopatra",
+    "movie_year": 1963,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "The Blair Witch Project",
+    "movie_year": 1999,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Get Out",
+    "movie_year": 2017,
+    "release_date": "2017-02-24",
+    "trailer_pick": {
+      "video_id": "DzfpyUB60YY",
+      "video_title": "Get Out Official Trailer 1 (2017) - Daniel Kaluuya Movie",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-10-04T22:25:50Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "DzfpyUB60YY",
+      "title": "Get Out Official Trailer 1 (2017) - Daniel Kaluuya Movie",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-10-04T22:25:50Z",
+      "description": "Starring: Bradley Whitford, Allison Williams, Betty Gabriel \nGet Out Official Trailer 1 (2017) - Daniel Kaluuya Movie\n\nA young African American man visits his Caucasian girlfriend's cursed family estate.\n\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nWe're on SNAPCHAT: http://bit.ly/2cOzfcy\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nThe Fandango MOVIECLIPS Trailers channel is your destination for the hottes",
+      "duration_iso": "PT2M33S",
+      "view_count": 25542047,
+      "like_count": 142967,
+      "comment_count": 12804
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": 142
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 12804
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Witch",
+    "movie_year": 2015,
+    "release_date": "2016-02-19",
+    "trailer_pick": {
+      "video_id": "iQXmlf3Sefg",
+      "video_title": "The Witch | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2015-08-19T13:00:01Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "iQXmlf3Sefg",
+      "title": "The Witch | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2015-08-19T13:00:01Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nOn February 19th, evil takes many forms. From writer/director Robert Eggers and starring Anya Taylor-Joy, Kate Dickie, Ralph Ineson. THE WITCH -- Now available on iTunes, Amazon, and DVD/Blu-Ray! (Links below)\n\nRELEASE DATE: February 19\nWRITER/DIRECTOR: Robert Eggers \nCAST:  Anya Taylor-Joy, Ralph Ineson, Kate Dickie\n\nVisit The Witch WEBSITE: http://bit.ly/TheWitch\nLike The Witch on FACEBOOK: http://bit.ly/WitchFB\nFollow The Witch on TWITTER: http://bit.ly/",
+      "duration_iso": "PT2M31S",
+      "view_count": 27964099,
+      "like_count": 115920,
+      "comment_count": 8200
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 183
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 8200
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Whiplash",
+    "movie_year": 2014,
+    "release_date": "2014-10-10",
+    "trailer_pick": {
+      "video_id": "Q7kZy3T6vRM",
+      "video_title": "WHIPLASH | 10th Anniversary Rerelease Official Trailer (2024)",
+      "channel_title": "Sony Pictures Classics",
+      "channel_id": "UCruD_lL-5fmllpKMSL-yCyQ",
+      "published_at": "2024-08-27T18:30:27Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "Q7kZy3T6vRM",
+      "title": "WHIPLASH | 10th Anniversary Rerelease Official Trailer (2024)",
+      "channel_title": "Sony Pictures Classics",
+      "channel_id": "UCruD_lL-5fmllpKMSL-yCyQ",
+      "published_at": "2024-08-27T18:30:27Z",
+      "description": "A masterpiece returns to theaters for its 10th Anniversary. In theaters nationwide September 20, 2024.\n\nWritten & Directed By: Damien Chazelle\n\nStarring: Miles Teller, J.K Simmons\n\nAndrew Neiman is an ambitious young jazz drummer, single-minded in his pursuit to rise to the top of his elite east coast music conservatory. Plagued by the failed writing career of his father, Andrew hungers day and night to become one of the greats. Terence Fletcher, an instructor equally known for his teaching tale",
+      "duration_iso": "PT1M36S",
+      "view_count": 937507,
+      "like_count": 5275,
+      "comment_count": 119
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -3610
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 15,
+      "yt_comments_day_30": 24,
+      "yt_comments_velocity": 0.625,
+      "yt_comments_scanned_total": 86,
+      "total_comments": 119
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Florida Project",
+    "movie_year": 2017,
+    "release_date": "2017-10-06",
+    "trailer_pick": {
+      "video_id": "WwQ-NH1rRT4",
+      "video_title": "The Florida Project | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-08-14T13:00:03Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "WwQ-NH1rRT4",
+      "title": "The Florida Project | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-08-14T13:00:03Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Sean Baker and starring Willem Dafoe, Brooklynn Prince, Valeria Cotto and Bria Vinaite. THE FLORIDA PROJECT – Now Playing.\n\nRELEASE DATE: October 6, 2017\nDIRECTOR: Sean Baker\nCAST:  Willem Dafoe, Brooklynn Prince, Valeria Cotto and Bria Vinaite\n\nVisit The Florida Project WEBSITE: \nhttp://bit.ly/TheFloridaProjectFilm\nLike The Florida Project on FACEBOOK: http://bit.ly/TheFloridaProjectFB\nFollow The Florida Project on TWITTER: http://bit.",
+      "duration_iso": "PT2M15S",
+      "view_count": 7865352,
+      "like_count": 65473,
+      "comment_count": 2540
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": 52
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 231,
+      "yt_comments_day_30": 266,
+      "yt_comments_velocity": 0.868421052631579,
+      "yt_comments_scanned_total": 1522,
+      "total_comments": 2540
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Tangerine",
+    "movie_year": 2015,
+    "release_date": "2015-07-10",
+    "trailer_pick": {
+      "video_id": "RL-HRBKBmgw",
+      "video_title": "Tangerine Official Trailer 1 (2015) - Comedy HD",
+      "channel_title": "Rotten Tomatoes Indie",
+      "channel_id": "UCLyYEq4ODlw3OD9qhGqwimw",
+      "published_at": "2015-05-01T21:08:46Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "RL-HRBKBmgw",
+      "title": "Tangerine Official Trailer 1 (2015) - Comedy HD",
+      "channel_title": "Rotten Tomatoes Indie",
+      "channel_id": "UCLyYEq4ODlw3OD9qhGqwimw",
+      "published_at": "2015-05-01T21:08:46Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nSubscribe to INDIE TRAILERS: http://bit.ly/1F9OK9b\nLike us on FACEBOOK:  http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nTangerine Official Trailer 1 (2015) - Comedy HD\n\nIt's Christmas Eve in Tinseltown and Sin-Dee (newcomer Kitana Kiki Rodriguez) is back on the block. Upon hearing that her pimp boyfriend (James Ransone, STARLET, \"Generation Kill\") hasn't been faithful during the 28 days sh",
+      "duration_iso": "PT2M7S",
+      "view_count": 30865,
+      "like_count": 182,
+      "comment_count": 11
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 69
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1,
+      "yt_comments_day_30": 1,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 10,
+      "total_comments": 11
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Saw",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Open Water",
+    "movie_year": 2003,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Chronicle",
+    "movie_year": 2012,
+    "release_date": "2012-02-01",
+    "trailer_pick": {
+      "video_id": "WD2DVNZufa4",
+      "video_title": "Chronicle | Official Trailer HD | 2012",
+      "channel_title": "20th Century Studios UK",
+      "channel_id": "UCzBay5naMlbKZicNqYmAQdQ",
+      "published_at": "2011-10-27T17:22:14Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "WD2DVNZufa4",
+      "title": "Chronicle | Official Trailer HD | 2012",
+      "channel_title": "20th Century Studios UK",
+      "channel_id": "UCzBay5naMlbKZicNqYmAQdQ",
+      "published_at": "2011-10-27T17:22:14Z",
+      "description": "Subscribe now for more : http://bit.ly/20thCenturyUK\nThree high school students make an incredible discovery, leading to their developing uncanny powers beyond their understanding. As they learn to control their abilities and use them to their advantage, their lives start to spin out of control, and their darker sides begin to take over.\n\nWelcome to the official 20th Century Fox UK channel - the home of previous award winning films Star Wars, Ice Age, X-Men, Avatar,  and many more. This channel ",
+      "duration_iso": "PT2M22S",
+      "view_count": 46852,
+      "like_count": 218,
+      "comment_count": 16
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 96
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1,
+      "yt_comments_day_30": 1,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 5,
+      "total_comments": 16
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Babadook",
+    "movie_year": 2014,
+    "release_date": "2014-05-22",
+    "trailer_pick": {
+      "video_id": "k5WQZzDRVtw",
+      "video_title": "The Babadook Official Trailer #1 (2014) - Essie Davis Horror Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-01-22T15:59:14Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "k5WQZzDRVtw",
+      "title": "The Babadook Official Trailer #1 (2014) - Essie Davis Horror Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-01-22T15:59:14Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nThe Babadook Official Trailer #1 (2014) - Essie Davis Horror Movie HD\n\nAmelia (Essie Davis) is a widow who lost her husband in a heart-breaking stroke of shit luck: he was killed in a car accident while driving to the delivery of their first son. Now six years old, young Sam (Noah Wiseman) has begun to develop behavioral problems and incestuous tendencies, and their",
+      "duration_iso": "PT2M24S",
+      "view_count": 18759482,
+      "like_count": 78657,
+      "comment_count": 6695
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 119
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 6695
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "500 Days of Summer",
+    "movie_year": 2009,
+    "release_date": "2009-07-17",
+    "trailer_pick": {
+      "video_id": "PsD0NpFSADM",
+      "video_title": "500 DAYS OF SUMMER | Official Trailer | FOX Searchlight",
+      "channel_title": "SearchlightPictures",
+      "channel_id": "UCor9rW6PgxSQ9vUPWQdnaYQ",
+      "published_at": "2009-03-05T22:13:02Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "PsD0NpFSADM",
+      "title": "500 DAYS OF SUMMER | Official Trailer | FOX Searchlight",
+      "channel_title": "SearchlightPictures",
+      "channel_id": "UCor9rW6PgxSQ9vUPWQdnaYQ",
+      "published_at": "2009-03-05T22:13:02Z",
+      "description": "The official trailer for 500 Days of Summer, starring Joseph Gordon-Levitt and Zooey Deschanel.  \n\nConnect with Fox Searchlight Online\nVisit the Fox Searchlight WEBSITE: http://foxsearchlight.com/\nLike Fox Searchlight on FACEBOOK: https://www.facebook.com/foxsearchlight\nFollow Fox Searchlight on TWITTER: https://twitter.com/foxsearchlight\n\nhttps://www.youtube.com/user/FoxSearchlight",
+      "duration_iso": "PT2M27S",
+      "view_count": 26320681,
+      "like_count": 131844,
+      "comment_count": 10490
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": 133
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 10490
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Lost in Translation",
+    "movie_year": 2003,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Garden State",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Booksmart",
+    "movie_year": 2019,
+    "release_date": "2019-05-24",
+    "trailer_pick": {
+      "video_id": "6khuykfuW7A",
+      "video_title": "Booksmart (2019) Official Trailer | Comedy",
+      "channel_title": "KinoFilm Pictures",
+      "channel_id": "UCF185yeOl6a_4qWsP5AoiTw",
+      "published_at": "2019-10-08T01:41:53Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "6khuykfuW7A",
+      "title": "Booksmart (2019) Official Trailer | Comedy",
+      "channel_title": "KinoFilm Pictures",
+      "channel_id": "UCF185yeOl6a_4qWsP5AoiTw",
+      "published_at": "2019-10-08T01:41:53Z",
+      "description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.\n\n▶ Director: Olivia Wilde\n\n▶ Writers: Emily Halpern, Sarah Haskins \n\n▶ Stars: Kaitlyn Dever, Beanie Feldstein, Jessica Williams",
+      "duration_iso": "PT2M55S",
+      "view_count": 34,
+      "like_count": 0,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -138
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Amelie",
+    "movie_year": 2001,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Oldboy",
+    "movie_year": 2003,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "City of God",
+    "movie_year": 2002,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Akira",
+    "movie_year": 1988,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Princess Mononoke",
+    "movie_year": 1997,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Burning",
+    "movie_year": 2018,
+    "release_date": "2018-05-17",
+    "trailer_pick": {
+      "video_id": "oihHs2Errwk",
+      "video_title": "BURNING Official Trailer | Certified Fresh | Korean Mystery Drama Thriller | Starring Steven Yeun",
+      "channel_title": "Well Go USA Entertainment",
+      "channel_id": "UCvE8nyjdQG0_rgx9u3oqadw",
+      "published_at": "2018-09-26T21:35:41Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "oihHs2Errwk",
+      "title": "BURNING Official Trailer | Certified Fresh | Korean Mystery Drama Thriller | Starring Steven Yeun",
+      "channel_title": "Well Go USA Entertainment",
+      "channel_id": "UCvE8nyjdQG0_rgx9u3oqadw",
+      "published_at": "2018-09-26T21:35:41Z",
+      "description": "BURNING: Watch Now On Digital, Blu-ray, and DVD | \nBurning is the searing examination of an alienated young man, Jongsu (Ah-in Yoo), a frustrated introvert whose already difficult life is complicated by the appearance of two people in his orbit: first, Haemi (newcomer Jong-seo Jun), a spirited woman who offers the romantic possibility, and then, Ben (Steven Yeun, THE WALKING DEAD, SORRY TO BOTHER YOU), a wealthy and sophisticated young man she returns from a trip with. However, when Jongsu learn",
+      "duration_iso": "PT1M46S",
+      "view_count": 2734228,
+      "like_count": 21372,
+      "comment_count": 1114
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -133
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 9,
+      "yt_comments_day_30": 78,
+      "yt_comments_velocity": 0.11538461538461539,
+      "yt_comments_scanned_total": 576,
+      "total_comments": 1114
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Nightcrawler",
+    "movie_year": 2014,
+    "release_date": "2014-10-23",
+    "trailer_pick": {
+      "video_id": "X8kYDQan8bw",
+      "video_title": "Nightcrawler Official Trailer #1 (2014) - Jake Gyllenhaal Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-08-22T17:53:21Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "X8kYDQan8bw",
+      "title": "Nightcrawler Official Trailer #1 (2014) - Jake Gyllenhaal Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-08-22T17:53:21Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nNightcrawler Official Trailer #1 (2014) - Jake Gyllenhaal Movie HD\n\nNIGHTCRAWLER is a pulse-pounding thriller set in the nocturnal underbelly of contemporary Los Angeles. Jake Gyllenhaal stars as Lou Bloom, a driven young man desperate for work who discovers the high-speed world of L.A. crime journalism. Finding a group of",
+      "duration_iso": "PT2M29S",
+      "view_count": 8971963,
+      "like_count": 25726,
+      "comment_count": 2476
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 61
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 168,
+      "yt_comments_day_30": 259,
+      "yt_comments_velocity": 0.6486486486486487,
+      "yt_comments_scanned_total": 1586,
+      "total_comments": 2476
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Birdman",
+    "movie_year": 2014,
+    "release_date": "2014-10-17",
+    "trailer_pick": {
+      "video_id": "8jAfBd3g6bA",
+      "video_title": "Birdman Official US Release Trailer (2014) - Michael Keaton, Emma Stone Fantasy HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-08-09T15:30:00Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "8jAfBd3g6bA",
+      "title": "Birdman Official US Release Trailer (2014) - Michael Keaton, Emma Stone Fantasy HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-08-09T15:30:00Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nBirdman Official US Release Trailer (2014) - Michael Keaton, Emma Stone Fantasy HD\n\n\nA washed-up actor who once played an iconic superhero must overcome his ego and family trouble as he mounts a Broadway play in a bid to reclaim his past glory.\n\nThe Movieclips Trailers channel is your destination for the hottest new traile",
+      "duration_iso": "PT2M41S",
+      "view_count": 1373248,
+      "like_count": 2559,
+      "comment_count": 422
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 68
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 87,
+      "yt_comments_day_30": 96,
+      "yt_comments_velocity": 0.90625,
+      "yt_comments_scanned_total": 257,
+      "total_comments": 422
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Grand Budapest Hotel",
+    "movie_year": 2014,
+    "release_date": "2014-02-26",
+    "trailer_pick": {
+      "video_id": "mXRztrOK47I",
+      "video_title": "The Grand Budapest Hotel Official Trailer #2 (2014) - Wes Anderson Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2013-12-19T18:05:12Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "mXRztrOK47I",
+      "title": "The Grand Budapest Hotel Official Trailer #2 (2014) - Wes Anderson Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2013-12-19T18:05:12Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nThe Grand Budapest Hotel Official Trailer #2 (2014) - Wes Anderson Movie HD\n\nThe Grand Budapest Hotel recounts the adventures of Gustave H, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battl",
+      "duration_iso": "PT1M36S",
+      "view_count": 244252,
+      "like_count": 1202,
+      "comment_count": 61
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 68
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 37,
+      "yt_comments_day_30": 41,
+      "yt_comments_velocity": 0.9024390243902439,
+      "yt_comments_scanned_total": 53,
+      "total_comments": 61
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Eternal Sunshine of the Spotless Mind",
+    "movie_year": 2004,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Donnie Brasco",
+    "movie_year": 1997,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Gattaca",
+    "movie_year": 1997,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Event Horizon",
+    "movie_year": 1997,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Dark City",
+    "movie_year": 1998,
+    "status": "skipped_pre_youtube_era"
+  },
+  {
+    "movie_title": "Grindhouse",
+    "movie_year": 2007,
+    "release_date": "2007-04-06",
+    "trailer_pick": {
+      "video_id": "QABR2sE0jXc",
+      "video_title": "Grindhouse - Death Proof (Quentin Tarantino) Official Trailer HD",
+      "channel_title": "ClipHD",
+      "channel_id": "UCsZFfZd3RdqggQ2MlEbK6jA",
+      "published_at": "2014-02-25T13:26:49Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "QABR2sE0jXc",
+      "title": "Grindhouse - Death Proof (Quentin Tarantino) Official Trailer HD",
+      "channel_title": "ClipHD",
+      "channel_id": "UCsZFfZd3RdqggQ2MlEbK6jA",
+      "published_at": "2014-02-25T13:26:49Z",
+      "description": "Grindhouse - Death Proof (Quentin Tarantino) Official Trailer HD\n\nTwo separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his \"death proof\" cars to execute his murderous plans. \n\nmovieclips \"movie clips\" movieclipstrailers \"new trailers\" \"trailers HD\" hd trailers movieclipsDOTcom trailer 2013 official HD zefr QT zedison tarantino Quentin \"quentin tarantino\" \"grind house\" grindhouse \" cheerleader \"kurt russell\" \"pul fiction\" \"jackie brown\" \"planet terro",
+      "duration_iso": "PT51S",
+      "view_count": 37067,
+      "like_count": 181,
+      "comment_count": 6
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -2518
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 4,
+      "total_comments": 6
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Edge of Tomorrow",
+    "movie_year": 2014,
+    "release_date": "2014-05-27",
+    "trailer_pick": {
+      "video_id": "vw61gCe2oqI",
+      "video_title": "Edge of Tomorrow - Official Trailer 1 [HD]",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2013-12-11T18:00:37Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "vw61gCe2oqI",
+      "title": "Edge of Tomorrow - Official Trailer 1 [HD]",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2013-12-11T18:00:37Z",
+      "description": "http://www.edgeoftomorrowmovie.com/\nhttps://www.facebook.com/EdgeofTomorrowMovie\nIn theaters June 6th.\n\nOscar® nominee Tom Cruise (the \"Mission: Impossible\" films, \"Collateral,\" \"Jerry Maguire\") and Emily Blunt (\"The Devil Wears Prada,\" \"The Adjustment Bureau\") star in Warner Bros. Pictures' and Village Roadshow Pictures' sci-fi thriller \"Edge of Tomorrow,\" under the direction of Doug Liman (\"The Bourne Identity,\" \"Mr. & Mrs. Smith\").\n\nThe epic action of \"Edge of Tomorrow\" unfolds in a near futu",
+      "duration_iso": "PT2M34S",
+      "view_count": 19324934,
+      "like_count": 75234,
+      "comment_count": 9856
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 166
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 9856
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Nice Guys",
+    "movie_year": 2016,
+    "release_date": "2016-05-15",
+    "trailer_pick": {
+      "video_id": "TGic0zh8LA4",
+      "video_title": "The Nice Guys Official Trailer #1 (2016) - Ryan Gosling, Russell Crowe Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2015-12-07T16:21:10Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "TGic0zh8LA4",
+      "title": "The Nice Guys Official Trailer #1 (2016) - Ryan Gosling, Russell Crowe Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2015-12-07T16:21:10Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h \nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nThe Nice Guys Official Trailer #1 (2016) - Ryan Gosling, Russell Crowe Movie HD\n\nA private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.\n\nThe Fandango MOVIECLIPS Trailers channel is your destination for the hottest new trailers the second they drop. Whether i",
+      "duration_iso": "PT2M32S",
+      "view_count": 955080,
+      "like_count": 5188,
+      "comment_count": 258
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 159
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 88,
+      "yt_comments_day_30": 105,
+      "yt_comments_velocity": 0.8380952380952381,
+      "yt_comments_scanned_total": 168,
+      "total_comments": 258
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Sorry to Bother You",
+    "movie_year": 2018,
+    "release_date": "2018-07-06",
+    "trailer_pick": {
+      "video_id": "8UAYfgd3F0Q",
+      "video_title": "Sorry To Bother You - Official Trailer (Universal Pictures)",
+      "channel_title": "Universal Pictures Ireland",
+      "channel_id": "UCNIAPnoEbYZD0oET6SqcRjQ",
+      "published_at": "2018-11-27T10:06:17Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "8UAYfgd3F0Q",
+      "title": "Sorry To Bother You - Official Trailer (Universal Pictures)",
+      "channel_title": "Universal Pictures Ireland",
+      "channel_id": "UCNIAPnoEbYZD0oET6SqcRjQ",
+      "published_at": "2018-11-27T10:06:17Z",
+      "description": "In cinemas December 7.\n\nFollow us on www.facebook.com/UniversalPicturesIreland/ \n\nIn an alternate reality of present-day Oakland, Calif., telemarketer Cassius Green finds himself in a macabre universe after he discovers a magical key that leads to material glory. As Green's career begins to take off, his friends and co-workers organize a protest against corporate oppression. Cassius soon falls under the spell of Steve Lift, a cocaine-snorting CEO who offers him a salary beyond his wildest dreams",
+      "duration_iso": "PT2M22S",
+      "view_count": 197310,
+      "like_count": 1976,
+      "comment_count": 56
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -145
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 3,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 33,
+      "total_comments": 56
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Mandy",
+    "movie_year": 2018,
+    "release_date": "2018-09-13",
+    "trailer_pick": {
+      "video_id": "rI054ow6KJk",
+      "video_title": "MANDY - Official Trailer",
+      "channel_title": "RLJE Films",
+      "channel_id": "UC7QRIwDb8shSnZE8XB0lx4A",
+      "published_at": "2018-06-27T15:59:13Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "rI054ow6KJk",
+      "title": "MANDY - Official Trailer",
+      "channel_title": "RLJE Films",
+      "channel_id": "UC7QRIwDb8shSnZE8XB0lx4A",
+      "published_at": "2018-06-27T15:59:13Z",
+      "description": "In Theaters September 14th\n\nStarring Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy, Olwen Fouéré with Richard Brake and Bill Duke\nDirected by Panos Cosmatos\nWritten by Panos Cosmatos and Aaron Stewart-Ahn\nMusic by Jóhann Jóhannsson\n\nPacific Northwest. 1983 AD. Outsiders Red Miller and Mandy Bloom lead a loving and peaceful existence. When their pine-scented haven is savagely destroyed by a cult led by the sadistic Jeremiah Sand, Red is catapulted into a phantasmagoric journey fille",
+      "duration_iso": "PT2M31S",
+      "view_count": 5733067,
+      "like_count": 32031,
+      "comment_count": 3027
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 77
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 675,
+      "yt_comments_day_30": 760,
+      "yt_comments_velocity": 0.8881578947368421,
+      "yt_comments_scanned_total": 2135,
+      "total_comments": 3027
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Lone Ranger",
+    "movie_year": 2013,
+    "release_date": "2013-07-03",
+    "trailer_pick": {
+      "video_id": "1DU-qZP014I",
+      "video_title": "The Lone Ranger Official Trailer #1 (2013) - Johnny Depp Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2012-10-03T15:44:57Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "1DU-qZP014I",
+      "title": "The Lone Ranger Official Trailer #1 (2013) - Johnny Depp Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2012-10-03T15:44:57Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nThe Lone Ranger Official Trailer #1 (2012) - Johnny Depp Movie HD\n\nNative American spirit warrior Tonto recounts the untold tales that transformed John Reid, a man of the law, into a legend of justice.",
+      "duration_iso": "PT1M38S",
+      "view_count": 523548,
+      "like_count": 1567,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 272
+    },
+    "early_engagement": {
+      "status": "comments_disabled",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Horton Hears a Who!",
+    "movie_year": 2008,
+    "release_date": "2008-03-03",
+    "trailer_pick": {
+      "video_id": "xW_q1YxisUc",
+      "video_title": "Horton Hears a Who! - Official Trailer 2008 [HD]",
+      "channel_title": "Animation Trailers",
+      "channel_id": "UCA96_E_SLXN9aE9ZHg7tyeQ",
+      "published_at": "2012-11-27T14:22:26Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "xW_q1YxisUc",
+      "title": "Horton Hears a Who! - Official Trailer 2008 [HD]",
+      "channel_title": "Animation Trailers",
+      "channel_id": "UCA96_E_SLXN9aE9ZHg7tyeQ",
+      "published_at": "2012-11-27T14:22:26Z",
+      "description": "http://www.imdb.com/title/tt0451079 ---- IMDb LINK!\n\nOne day, Horton the elephant hears a cry from help coming from a speck of dust. Even though he can't see anyone on the speck, he decides to help it. As it turns out, the speck of dust is home to the Whos, who live in their city of Whoville. Horton agrees to help protect the Whos and their home, but this gives him nothing but torment from his neighbors, who refuse to believe that anything could survive on the speck. Still, Horton stands by the ",
+      "duration_iso": "PT2M53S",
+      "view_count": 105772,
+      "like_count": 353,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": -1731
+    },
+    "early_engagement": {
+      "status": "comments_disabled",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Moon",
+    "movie_year": 2009,
+    "release_date": "2009-06-12",
+    "trailer_pick": {
+      "video_id": "WWoDBcSW4_c",
+      "video_title": "Moon | Official Trailer (2009)",
+      "channel_title": "Sony Pictures Classics",
+      "channel_id": "UCruD_lL-5fmllpKMSL-yCyQ",
+      "published_at": "2009-04-13T16:51:33Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "WWoDBcSW4_c",
+      "title": "Moon | Official Trailer (2009)",
+      "channel_title": "Sony Pictures Classics",
+      "channel_id": "UCruD_lL-5fmllpKMSL-yCyQ",
+      "published_at": "2009-04-13T16:51:33Z",
+      "description": "Astronaut Sam Bell's (Sam Rockwell) three-year shift at a lunar mine is finally coming to an end, and he's looking forward to his reunion with his wife (Dominique McElligott) and young daughter. Suddenly, Sam's health takes a drastic turn for the worse. He suffers painful headaches and hallucinations, and almost has a fatal accident. He meets what appears to be a younger version of himself, possibly a clone. With time running out, Sam must solve the mystery before the company crew arrives.\n\nhttp",
+      "duration_iso": "PT2M10S",
+      "view_count": 1930654,
+      "like_count": 7219,
+      "comment_count": 690
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": 59
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 3,
+      "yt_comments_day_30": 3,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 401,
+      "total_comments": 690
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Blade Runner 2049",
+    "movie_year": 2017,
+    "release_date": "2017-10-04",
+    "trailer_pick": {
+      "video_id": "gCcx85zbxz4",
+      "video_title": "BLADE RUNNER 2049 - Official Trailer",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2017-05-08T16:35:21Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "gCcx85zbxz4",
+      "title": "BLADE RUNNER 2049 - Official Trailer",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2017-05-08T16:35:21Z",
+      "description": "There are still pages left in this story. Watch the NEW trailer for #BladeRunner2049, in theaters October 6.\n --\nThirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what’s left of society into chaos. K’s discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former LAPD blade runner who has been missing for 30 years.\n \nFrom executive producer Ridley Scott and director De",
+      "duration_iso": "PT2M22S",
+      "view_count": 39847768,
+      "like_count": 282264,
+      "comment_count": 19436
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 148
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 19436
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Annihilation",
+    "movie_year": 2018,
+    "release_date": "2018-02-22",
+    "trailer_pick": {
+      "video_id": "89OP78l9oF0",
+      "video_title": "Annihilation (2018) - Official Trailer - Paramount Pictures",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2017-12-13T14:00:03Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "89OP78l9oF0",
+      "title": "Annihilation (2018) - Official Trailer - Paramount Pictures",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2017-12-13T14:00:03Z",
+      "description": "Watch the official trailer for #Annihilation starring Natalie Portman, Jennifer Jason Leigh, Gina Rodriguez, Tessa Thompson, Tuva Novotny, and Oscar Isaac. In theatres 2.23.18. #WhatsInside\n\n#Annihilation #AnnihilationMovie \n \n \nFacebook: https://facebook.com/annihilationmovie\nInstagram: https://www.instagram.com/annihilationmovie\nTwitter: https://twitter.com/annihilationmov\nURL: http://www.annihilationmovie.com\nHashtag: #Annihilation\n\nBased on Jeff VanderMeer’s best-selling Southern Reach Trilo",
+      "duration_iso": "PT2M25S",
+      "view_count": 24560153,
+      "like_count": 110119,
+      "comment_count": 12701
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 70
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 12701
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "John Carter",
+    "movie_year": 2012,
+    "release_date": "2012-03-07",
+    "trailer_pick": {
+      "video_id": "d7kiDhU6FLU",
+      "video_title": "JOHN CARTER (2012) - Official Trailer #2 - HD",
+      "channel_title": "OffficialTrailers",
+      "channel_id": "UCXJAk6LiBevPk6JL0MUvoZg",
+      "published_at": "2012-07-03T02:19:23Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "d7kiDhU6FLU",
+      "title": "JOHN CARTER (2012) - Official Trailer #2 - HD",
+      "channel_title": "OffficialTrailers",
+      "channel_id": "UCXJAk6LiBevPk6JL0MUvoZg",
+      "published_at": "2012-07-03T02:19:23Z",
+      "description": "John Carter - Official Trailer #2 - HD\n\nJoin The Facebook Page: http://goo.gl/CLCMs\nCopyright ©  Walt Disney Pictures\nIn theaters: March 9th, 2012\nGenre: Action and Adventure, Science Fiction\nOfficial Site: http://JohnCarterArrives.com\nDirector: Andrew Stanton\nCast:Taylor Kitsch, Lynn Collins, Samantha Morton, Mark Strong, Ciaran Hinds, Dominic West, James Purefoy, Daryl Sabara, Polly Walker, Bryan Cranston, Thomas Hayden Church, Willem Dafoe\nWriters: Andrew Stanton, Mark Andrews, Michael Chabon",
+      "duration_iso": "PT1M39S",
+      "view_count": 134,
+      "like_count": 1,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -119
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Sahara",
+    "movie_year": 2005,
+    "release_date": "2005-04-06",
+    "trailer_pick": {
+      "video_id": "VvA4Tbjk8tk",
+      "video_title": "Sahara (2005) - Trailer",
+      "channel_title": "Paramount Movies",
+      "channel_id": "UC9YHyj7QSkkSg2pjQ7M8Khg",
+      "published_at": "2012-05-11T21:34:24Z",
+      "score": 12,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "VvA4Tbjk8tk",
+      "title": "Sahara (2005) - Trailer",
+      "channel_title": "Paramount Movies",
+      "channel_id": "UC9YHyj7QSkkSg2pjQ7M8Khg",
+      "published_at": "2012-05-11T21:34:24Z",
+      "description": "Master explorer Dirk Pitt (Matthew McConaughey) takes on the adventure of his life when he embarks on a treasure hunt through some of the most dangerous regions of North Africa.  Searching for whal locals call \"The Ship of Death\", a long lost Civil War battleship filled with coins, Pitt and his wisecracking sidekick (Steve Zahn) use their wits and clever heroics to help Doctor Eva Rojas (Penelope Cruz) who believes the ship may be linked to mysterious deaths in the very same area.",
+      "duration_iso": "PT2M28S",
+      "view_count": 2022206,
+      "like_count": null,
+      "comment_count": null
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": -2593
+    },
+    "early_engagement": {
+      "status": "comment_count_unknown"
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Pan",
+    "movie_year": 2015,
+    "release_date": "2015-09-24",
+    "trailer_pick": {
+      "video_id": "UHl8F60t-ss",
+      "video_title": "Pan Official Trailer #1 (2015) - Hugh Jackman, Amanda Seyfried Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-11-25T17:09:24Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "UHl8F60t-ss",
+      "title": "Pan Official Trailer #1 (2015) - Hugh Jackman, Amanda Seyfried Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2014-11-25T17:09:24Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nPan Official Trailer #1 (2015) - Hugh Jackman, Amanda Seyfried Movie HD\n\nThe story of an orphan who is spirited away to the magical Neverland. There, he finds both fun and dangers, and ultimately discovers his destiny -- to become the hero who will be forever known as Peter Pan.\n\nThe Movieclips Trailers channel is your des",
+      "duration_iso": "PT2M26S",
+      "view_count": 8993130,
+      "like_count": 34620,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 302
+    },
+    "early_engagement": {
+      "status": "comments_disabled",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "King Arthur: Legend of the Sword",
+    "movie_year": 2017,
+    "release_date": "2017-05-10",
+    "trailer_pick": {
+      "video_id": "jIM4-HLtUM0",
+      "video_title": "King Arthur: Legend of the Sword - Official Trailer [HD]",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2017-02-20T18:00:03Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "jIM4-HLtUM0",
+      "title": "King Arthur: Legend of the Sword - Official Trailer [HD]",
+      "channel_title": "Warner Bros.",
+      "channel_id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "published_at": "2017-02-20T18:00:03Z",
+      "description": "Charlie Hunnam stars in KING ARTHUR: LEGEND OF THE SWORD, directed by Guy Ritchie - in theaters May 12, 2017.\n---\nAcclaimed filmmaker Guy Ritchie brings his dynamic style to the epic fantasy action adventure “King Arthur: Legend of the Sword.” Starring Charlie Hunnam in the title role, the film is an iconoclastic take on the classic Excalibur myth, tracing Arthur’s journey from the streets to the throne.\n\nWhen the child Arthur’s father is murdered, Vortigern (Jude Law), Arthur’s uncle, seizes th",
+      "duration_iso": "PT2M17S",
+      "view_count": 11811142,
+      "like_count": 48267,
+      "comment_count": 3700
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 78
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1296,
+      "yt_comments_day_30": 1410,
+      "yt_comments_velocity": 0.9191489361702128,
+      "yt_comments_scanned_total": 2762,
+      "total_comments": 3700
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Valerian and the City of a Thousand Planets",
+    "movie_year": 2017,
+    "release_date": "2017-07-19",
+    "trailer_pick": {
+      "video_id": "NNrK7xVG3PM",
+      "video_title": "Valerian and the City of a Thousand Planets Official Trailer - Teaser (2017) - Movie",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-11-10T15:17:09Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "NNrK7xVG3PM",
+      "title": "Valerian and the City of a Thousand Planets Official Trailer - Teaser (2017) - Movie",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-11-10T15:17:09Z",
+      "description": "Get Tickets - http://www.fandango.com/valerianandthecityofathousandplanets_188366/movieoverview?cmp=MCYT_YouTube_Desc\nStarring: Cara Delevingne, Ethan Hawke, and John Goodman\nValerian and the City of a Thousand Planets Official Trailer - Teaser (2017) - Movie\n\nTime-traveling agent Valerian is sent to investigate a galactic empire, along with his partner Laureline.\n\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nWe're on SNAPCHAT: http://bit.ly/2cOzfcy\n",
+      "duration_iso": "PT1M37S",
+      "view_count": 11250639,
+      "like_count": 66884,
+      "comment_count": 6220
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 250
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 6220
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Ben-Hur",
+    "movie_year": 2016,
+    "release_date": "2016-08-17",
+    "trailer_pick": {
+      "video_id": "df2VrzS1HCs",
+      "video_title": "Ben-Hur Official Trailer #2 (2016) - Morgan Freeman, Jack Huston Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-06-14T15:16:43Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "df2VrzS1HCs",
+      "title": "Ben-Hur Official Trailer #2 (2016) - Morgan Freeman, Jack Huston Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2016-06-14T15:16:43Z",
+      "description": "Ben-Hur Official Trailer #2 (2016) - Morgan Freeman, Jack Huston Movie HD\n\nSubscribe to TRAILERS: http://bit.ly/sxaw6h \nSubscribe to COMING SOON: http://bit.ly/H2vZUn \nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA falsely accused nobleman survives years of slavery to take vengeance on his best friend who betrayed him.\n\nThe Fandango MOVIECLIPS Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest",
+      "duration_iso": "PT2M41S",
+      "view_count": 3262726,
+      "like_count": 10775,
+      "comment_count": 1879
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 63
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 558,
+      "yt_comments_day_30": 724,
+      "yt_comments_velocity": 0.7707182320441989,
+      "yt_comments_scanned_total": 1198,
+      "total_comments": 1879
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Happening",
+    "movie_year": 2008,
+    "release_date": "2008-06-11",
+    "trailer_pick": {
+      "video_id": "1I9ZQVK8gV8",
+      "video_title": "The Happening | Theatrical Trailer | 20th Century FOX",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2008-04-03T00:35:44Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "1I9ZQVK8gV8",
+      "title": "The Happening | Theatrical Trailer | 20th Century FOX",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2008-04-03T00:35:44Z",
+      "description": "A couple goes on the run from an apocalyptic crisis that presents a large-scale threat to humanity.\n\nSUBSCRIBE: http://bit.ly/FOXSubscribe\n\nConnect with The Happening Online:\nLike The Happening on FACEBOOK: http://bit.ly/TheHappeningFB\n\nAbout 20th Century FOX:\nOfficial YouTube Channel for 20th Century Fox Movies. Home of Avatar, Aliens, X-Men, Die Hard, Deadpool, Ice Age, Alvin and the Chipmunks, Rio, Peanuts, Maze Runner, Planet of the Apes, Wolverine and many more.\n\nConnect with 20th Century F",
+      "duration_iso": "PT2M24S",
+      "view_count": 2576007,
+      "like_count": 8461,
+      "comment_count": 717
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 68
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 2,
+      "yt_comments_day_30": 2,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 419,
+      "total_comments": 717
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Green Lantern",
+    "movie_year": 2011,
+    "release_date": "2011-06-14",
+    "trailer_pick": {
+      "video_id": "NPgEZxjtt-I",
+      "video_title": "Green Lantern Official Trailer #1 - (2011) HD",
+      "channel_title": "Movieclips",
+      "channel_id": "UC3gNmTGu-TTbFPpfSs5kNkg",
+      "published_at": "2011-06-27T20:25:31Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "NPgEZxjtt-I",
+      "title": "Green Lantern Official Trailer #1 - (2011) HD",
+      "channel_title": "Movieclips",
+      "channel_id": "UC3gNmTGu-TTbFPpfSs5kNkg",
+      "published_at": "2011-06-27T20:25:31Z",
+      "description": "Green Lantern movie clips: http://j.mp/1uwmFGV\nBUY THE MOVIE: http://amzn.to/sJYseF\nDon't miss the HOTTEST NEW TRAILERS: http://bit.ly/1u2y6pr\n\nCLIP DESCRIPTION:\nA cocky pilot (Ryan Reynolds) joins an intergalactic legion of superpower-wielding peace keepers.\n\nFILM DESCRIPTION:\nIn a universe as vast as it is mysterious, a small but powerful force has existed for centuries. Protectors of peace and justice, they are called the Green Lantern Corps. A brotherhood of warriors sworn to keep intergalac",
+      "duration_iso": "PT3M",
+      "view_count": 97472,
+      "like_count": 256,
+      "comment_count": 10
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -14
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 10,
+      "total_comments": 10
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "R.I.P.D.",
+    "movie_year": 2013,
+    "release_date": "2013-07-18",
+    "trailer_pick": {
+      "video_id": "nt59JjtWFSU",
+      "video_title": "R.I.P.D. - Trailer",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2013-04-19T16:10:12Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "nt59JjtWFSU",
+      "title": "R.I.P.D. - Trailer",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2013-04-19T16:10:12Z",
+      "description": "Jeff Bridges and Ryan Reynolds headline this supernatural 3D action-adventure as two cops dispatched by the Rest In Peace Department (R.I.P.D.) to protect and serve the living from increasingly destructive spirits hiding among the unsuspecting on Earth. When they uncover a plot that could end life as we know it, the new partners have to turn grudging respect into top-notch teamwork to restore the cosmic balance...or watch the tunnel to the afterlife begin sending angry souls the very wrong way.\n",
+      "duration_iso": "PT3M1S",
+      "view_count": 2070320,
+      "like_count": 10466,
+      "comment_count": 804
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 89
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 83,
+      "yt_comments_day_30": 124,
+      "yt_comments_velocity": 0.6693548387096774,
+      "yt_comments_scanned_total": 674,
+      "total_comments": 804
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Dark Phoenix",
+    "movie_year": 2019,
+    "release_date": "2019-06-05",
+    "trailer_pick": {
+      "video_id": "1-q8C_c-nlM",
+      "video_title": "Dark Phoenix | Official Trailer [HD] | 20th Century FOX",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2019-02-28T05:30:16Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "1-q8C_c-nlM",
+      "title": "Dark Phoenix | Official Trailer [HD] | 20th Century FOX",
+      "channel_title": "20th Century Studios",
+      "channel_id": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+      "published_at": "2019-02-28T05:30:16Z",
+      "description": "In DARK PHOENIX, the X-MEN face their most formidable and powerful foe: one of their own, Jean Grey. During a rescue mission in space, Jean is nearly killed when she is hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. Wrestling with this entity inside her, Jean unleashes her powers in ways she can neither comprehend nor contain. With Jean spiraling out of control, and hurting the ones she loves most, she begin",
+      "duration_iso": "PT2M33S",
+      "view_count": 14929008,
+      "like_count": 130419,
+      "comment_count": 14164
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 96
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 14164
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Terminator: Dark Fate",
+    "movie_year": 2019,
+    "release_date": "2019-10-23",
+    "trailer_pick": {
+      "video_id": "oxy8udgWRmo",
+      "video_title": "Terminator: Dark Fate - Official Trailer (2019) - Paramount Pictures",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2019-08-30T04:01:31Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 7
+    },
+    "trailer_metadata": {
+      "video_id": "oxy8udgWRmo",
+      "title": "Terminator: Dark Fate - Official Trailer (2019) - Paramount Pictures",
+      "channel_title": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "published_at": "2019-08-30T04:01:31Z",
+      "description": "Watch the official trailer for #TerminatorDarkFate, available now: https://paramnt.us/WatchTerminatorDF-YT \n \nLinda Hamilton (“Sarah Connor”) and Arnold Schwarzenegger (“T-800”) return in their iconic roles in Terminator: Dark Fate, directed by Tim Miller (Deadpool) and produced by visionary filmmaker James Cameron and David Ellison. Following the events of Terminator 2: Judgment Day, Terminator: Dark Fate also stars Mackenzie Davis, Natalia Reyes, Gabriel Luna, and Diego Boneta.\n\nConnect with #",
+      "duration_iso": "PT2M34S",
+      "view_count": 20861167,
+      "like_count": 147589,
+      "comment_count": 24207
+    },
+    "studio_features": {
+      "yt_trailer_count": 7,
+      "yt_upload_lead_days": 53
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 24207
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Solo: A Star Wars Story",
+    "movie_year": 2018,
+    "release_date": "2018-05-15",
+    "trailer_pick": {
+      "video_id": "MYV3CzllHRs",
+      "video_title": "Solo: A Star Wars Story Trailer #1 | Movieclips Trailers",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2018-04-09T00:58:24Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "MYV3CzllHRs",
+      "title": "Solo: A Star Wars Story Trailer #1 | Movieclips Trailers",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2018-04-09T00:58:24Z",
+      "description": "Check out the official Solo: A Star Wars Story trailer starring Alden Ehrenreich! Let us know what you think in the comments below.\n► Watch Solo: A Star Wars Story on FandangoNOW: https://www.fandangonow.com/details/movie/solo-a-star-wars-story-2018/MMV7BC0834BA316A2841821A86E51764A87D?cmp=MCYT_YouTube_Desc\n\nUS Release Date: May 25, 2018\nStarring: Emilia Clarke, Alden Ehrenreich, Woody Harrelson\nDirected By: Ron Howard \nSynopsis: During an adventure into a dark criminal underworld, Han Solo meet",
+      "duration_iso": "PT2M23S",
+      "view_count": 649472,
+      "like_count": 10069,
+      "comment_count": 1270
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 35
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 972,
+      "yt_comments_day_30": 981,
+      "yt_comments_velocity": 0.9908256880733946,
+      "yt_comments_scanned_total": 994,
+      "total_comments": 1270
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Strange World",
+    "movie_year": 2022,
+    "release_date": "2022-11-23",
+    "trailer_pick": {
+      "video_id": "bKh2G73gCCs",
+      "video_title": "Strange World | Official Trailer",
+      "channel_title": "Walt Disney Animation Studios",
+      "channel_id": "UC_976xMxPgzIa290Hqtk-9g",
+      "published_at": "2022-09-21T12:47:16Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "bKh2G73gCCs",
+      "title": "Strange World | Official Trailer",
+      "channel_title": "Walt Disney Animation Studios",
+      "channel_id": "UC_976xMxPgzIa290Hqtk-9g",
+      "published_at": "2022-09-21T12:47:16Z",
+      "description": "Explore the adventures beyond our world in the NEW TRAILER for Disney's #StrangeWorld, in theaters November 23! 🦠\n\nThe feature film introduces a legendary family of explorers, the Clades, as they attempt to navigate an uncharted, treacherous land alongside a motley crew that includes a mischievous blob, a three-legged dog and a slew of ravenous creatures. “Inspired by classic adventure stories,\" said director Don Hall, “‘Strange World’ is an original animated adventure/comedy about three generat",
+      "duration_iso": "PT2M22S",
+      "view_count": 18336259,
+      "like_count": 60467,
+      "comment_count": 11624
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 62
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 11624
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Marvels",
+    "movie_year": 2023,
+    "release_date": "2023-11-08",
+    "trailer_pick": {
+      "video_id": "wS_qbDztgVY",
+      "video_title": "Marvel Studios&#39; The Marvels | Official Trailer",
+      "channel_title": "Marvel Entertainment",
+      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
+      "published_at": "2023-07-21T04:00:38Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "wS_qbDztgVY",
+      "title": "Marvel Studios' The Marvels | Official Trailer",
+      "channel_title": "Marvel Entertainment",
+      "channel_id": "UCvC4D8onUfXzvjTOM-dBfEA",
+      "published_at": "2023-07-21T04:00:38Z",
+      "description": "This fall, The Marvels take flight.\n\nCarol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan, Kamala Khan aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica",
+      "duration_iso": "PT2M20S",
+      "view_count": 26397726,
+      "like_count": 293110,
+      "comment_count": 33443
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 109
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 33443
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Mortal Engines",
+    "movie_year": 2018,
+    "release_date": "2018-11-27",
+    "trailer_pick": {
+      "video_id": "IRsFc2gguEg",
+      "video_title": "Mortal Engines - Official Trailer (HD)",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2018-06-05T15:00:23Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "IRsFc2gguEg",
+      "title": "Mortal Engines - Official Trailer (HD)",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2018-06-05T15:00:23Z",
+      "description": "Thousands of years after civilization was destroyed by a cataclysmic event, humankind has adapted and a new way of living has evolved.  Gigantic moving cities now roam the Earth, ruthlessly preying upon smaller traction towns.  Tom Natsworthy (Robert Sheehan)—who hails from a Lower Tier of the great traction city of London—finds himself fighting for his own survival after he encounters the dangerous fugitive Hester Shaw (Hera Hilmar).  Two opposites, whose paths should never have crossed, forge ",
+      "duration_iso": "PT2M37S",
+      "view_count": 29645781,
+      "like_count": 149059,
+      "comment_count": 12045
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 174
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 12045
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Robin Hood",
+    "movie_year": 2018,
+    "release_date": "2018-11-03",
+    "trailer_pick": {
+      "video_id": "zwPn9ZnbCo0",
+      "video_title": "Robin Hood (2018 Movie) Official Trailer – Taron Egerton, Jamie Foxx, Jamie Dornan",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2018-07-17T15:45:37Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "zwPn9ZnbCo0",
+      "title": "Robin Hood (2018 Movie) Official Trailer – Taron Egerton, Jamie Foxx, Jamie Dornan",
+      "channel_title": "Lionsgate Movies",
+      "channel_id": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+      "published_at": "2018-07-17T15:45:37Z",
+      "description": "Robin Hood – In theaters November 21, 2018. Starring Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson, Tim Minchin, and Jamie Dornan.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\n#RobinHoodMovie\nhttp://www.RobinHood.movie\nhttps://www.facebook.com/RobinHoodTheMovie\nhttps://twitter.com/RobinHoodMovie\nhttps://www.instagram.com/RobinHoodMovie/\n\nRobin of Loxley (Taron Egerton) a war-hardened Crusader and his Moorish commander",
+      "duration_iso": "PT2M39S",
+      "view_count": 17550917,
+      "like_count": 70207,
+      "comment_count": 5151
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 108
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 5151
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Paranormal Activity",
+    "movie_year": 2007,
+    "release_date": "2007-09-14",
+    "trailer_pick": {
+      "video_id": "d2Rb662pPEE",
+      "video_title": "Official Trailer: Paranormal Activity (2007)",
+      "channel_title": "nickbtube",
+      "channel_id": "UCeU4fAhT0md6BTqXpiSWSmA",
+      "published_at": "2014-07-20T23:18:52Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "d2Rb662pPEE",
+      "title": "Official Trailer: Paranormal Activity (2007)",
+      "channel_title": "nickbtube",
+      "channel_id": "UCeU4fAhT0md6BTqXpiSWSmA",
+      "published_at": "2014-07-20T23:18:52Z",
+      "description": "(The \"best trailer\" version). After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence. It is the first in the Paranormal Activity film series.\n\nGenre: Supernatural Horror | Found footage | Mystery\n\nDirected by,  \nOren Peli\n\nProduced by,  \nOren Peli\nJason Blum\n\nWritten by,  \nOren Peli\n\nStarring,  \nKatie Featherston\nMicah Sloat\n\nCinematography,  \nOren Peli\n\nEdited by,  \nOren Peli\n\nProduction company,  \nBlumhouse Productions\nSolana Films\n\nDistributed",
+      "duration_iso": "PT2M27S",
+      "view_count": 156139,
+      "like_count": 703,
+      "comment_count": 33
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -2502
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 19,
+      "total_comments": 33
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Once",
+    "movie_year": 2007,
+    "release_date": "2007-03-23",
+    "trailer_pick": {
+      "video_id": "tlLEyNJPde4",
+      "video_title": "Once The Musical Official Trailer",
+      "channel_title": "MalvernTheatres",
+      "channel_id": "UCp4geEbKGqpFWzUSbU16scw",
+      "published_at": "2019-11-18T10:26:11Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "tlLEyNJPde4",
+      "title": "Once The Musical Official Trailer",
+      "channel_title": "MalvernTheatres",
+      "channel_id": "UCp4geEbKGqpFWzUSbU16scw",
+      "published_at": "2019-11-18T10:26:11Z",
+      "description": "A Broadway and West End hit musical that’s a ravishing love story with a bittersweet difference, Once casts a spell over the audience just as its two lead characters cast a spell over each other.\n\nBook tickets to see Once the Musical at Malvern Theatres 23-28 March 2020.",
+      "duration_iso": "PT1M48S",
+      "view_count": 646,
+      "like_count": 0,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -4624
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Little Miss Sunshine",
+    "movie_year": 2006,
+    "release_date": "2006-07-26",
+    "trailer_pick": {
+      "video_id": "wvwVkllXT80",
+      "video_title": "Little Miss Sunshine - Official Trailer [HD]",
+      "channel_title": "BigBeachFilms",
+      "channel_id": "UCZnG_fwfSfn6utcmn5TUlEA",
+      "published_at": "2010-11-04T20:12:18Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "wvwVkllXT80",
+      "title": "Little Miss Sunshine - Official Trailer [HD]",
+      "channel_title": "BigBeachFilms",
+      "channel_id": "UCZnG_fwfSfn6utcmn5TUlEA",
+      "published_at": "2010-11-04T20:12:18Z",
+      "description": " ",
+      "duration_iso": "PT2M29S",
+      "view_count": 2745651,
+      "like_count": 17895,
+      "comment_count": 540
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -1563
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 348,
+      "total_comments": 540
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Juno",
+    "movie_year": 2007,
+    "release_date": "2007-12-05",
+    "trailer_pick": {
+      "video_id": "5UsLypixn9o",
+      "video_title": "Juno Official Trailer",
+      "channel_title": "MethMonkeys",
+      "channel_id": "UCHyKBVhWHOXaHgBMR_ZowFQ",
+      "published_at": "2014-01-16T04:43:36Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "5UsLypixn9o",
+      "title": "Juno Official Trailer",
+      "channel_title": "MethMonkeys",
+      "channel_id": "UCHyKBVhWHOXaHgBMR_ZowFQ",
+      "published_at": "2014-01-16T04:43:36Z",
+      "description": "",
+      "duration_iso": "PT2M6S",
+      "view_count": 471,
+      "like_count": 1,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -2235
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Hereditary",
+    "movie_year": 2018,
+    "release_date": "2018-06-07",
+    "trailer_pick": {
+      "video_id": "V6wWKNij_1M",
+      "video_title": "Hereditary | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2018-01-30T13:59:54Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "V6wWKNij_1M",
+      "title": "Hereditary | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2018-01-30T13:59:54Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom Ari Aster and starring Toni Collette, Gabriel Byrne, Alex Wolff, and Milly Shapiro – Now available for rent or purchase (links below).\n\nRELEASE DATE: June 8, 2018\nDIRECTOR: Ari Aster\nCAST: Toni Collette, Gabriel Byrne, Alex Wolff, and Milly Shapiro\n\nVisit Hereditary WEBSITE: http://bit.ly/HereditaryMovie\nLike Hereditary on FACEBOOK: http://bit.ly/HereditaryFB\nFollow Hereditary on TWITTER: http://bit.ly/HereditaryTW\nFollow Hereditary on INSTAGRAM: http:",
+      "duration_iso": "PT2M7S",
+      "view_count": 35597903,
+      "like_count": 192922,
+      "comment_count": 13091
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 127
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 13091
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "It Follows",
+    "movie_year": 2014,
+    "release_date": "2015-02-04",
+    "trailer_pick": {
+      "video_id": "lzEdB5iJGfQ",
+      "video_title": "It Follows | Official Trailer",
+      "channel_title": "EclipsePicturesIE",
+      "channel_id": "UCj8sUDtqIyafAYHOXSgpHkA",
+      "published_at": "2015-01-21T16:37:18Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "lzEdB5iJGfQ",
+      "title": "It Follows | Official Trailer",
+      "channel_title": "EclipsePicturesIE",
+      "channel_id": "UCj8sUDtqIyafAYHOXSgpHkA",
+      "published_at": "2015-01-21T16:37:18Z",
+      "description": "In IrIsh Cinemas February 13th\n\nAfter a date and seemingly innocent sexual encounter, 19-year-old Jay is left with an inescapable sense that someone, or something is following her. Jay and her friends team up to try and find ways escape the traumatising horrors that are always right behind them.\n\nIt Follows is a suspenseful, beautifully shot, horror film that takes old, tired horror clichés and puts a smart, culturally relevant spin on them whilst maintaining a timeless class that the horror gen",
+      "duration_iso": "PT1M46S",
+      "view_count": 3657,
+      "like_count": 16,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 13
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Ex Machina",
+    "movie_year": 2014,
+    "release_date": "2015-01-21",
+    "trailer_pick": {
+      "video_id": "zYjDApK6_oE",
+      "video_title": "Ex Machina Official Trailer #2 (2015) - Oscar Isaac Sci-Fi Thriller HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2015-03-18T16:48:46Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "zYjDApK6_oE",
+      "title": "Ex Machina Official Trailer #2 (2015) - Oscar Isaac Sci-Fi Thriller HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2015-03-18T16:48:46Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nEx Machina Official Trailer #2 (2015) - Oscar Isaac Sci-Fi Thriller HD\n\nTo erase the line between man and machine is to obscure the line between men and gods. -- In theaters April 10, 2015\n\nThe Movieclips Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest studio ",
+      "duration_iso": "PT2M33S",
+      "view_count": 329933,
+      "like_count": 1964,
+      "comment_count": 128
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -57
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 48,
+      "yt_comments_day_30": 57,
+      "yt_comments_velocity": 0.8421052631578947,
+      "yt_comments_scanned_total": 78,
+      "total_comments": 128
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Lady Bird",
+    "movie_year": 2017,
+    "release_date": "2017-09-01",
+    "trailer_pick": {
+      "video_id": "cNi_HC839Wo",
+      "video_title": "Lady Bird | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-09-05T13:00:06Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "cNi_HC839Wo",
+      "title": "Lady Bird | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-09-05T13:00:06Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Greta Gerwig and starring Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges, Timothée Chalamet, Beanie Feldstein, Stephen McKinley Henderson, and Lois Smith. LADY BIRD – Now playing in select theaters.\n\nRELEASE DATE: November 3, 2017\nDIRECTOR: Greta Gerwig\nCAST: Saoirse Ronan, Laurie Metcalf, and Tracy Letts\n\nVisit Lady Bird WEBSITE: http://bit.ly/LadyBirdMovie\nLike Lady Bird on FACEBOOK: http://bit.ly/LadyBirdFB\nFollow Lady Bird",
+      "duration_iso": "PT2M34S",
+      "view_count": 22191805,
+      "like_count": 168486,
+      "comment_count": 4111
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -5
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 520,
+      "yt_comments_day_30": 558,
+      "yt_comments_velocity": 0.931899641577061,
+      "yt_comments_scanned_total": 2642,
+      "total_comments": 4111
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Moonlight",
+    "movie_year": 2016,
+    "release_date": "2016-10-21",
+    "trailer_pick": {
+      "video_id": "9NJj12tJzqc",
+      "video_title": "Moonlight | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2016-08-11T15:00:01Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "9NJj12tJzqc",
+      "title": "Moonlight | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2016-08-11T15:00:01Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nWinner of 3 Academy Awards® including Best Picture, from director Barry Jenkins and starring Naomie Harris, André Holland, Mahershala Ali, Janelle Monáe and Trevante Rhodes. MOONLIGHT – Now Available Everywhere!\n\nRELEASE DATE: October 21, 2016\nWRITER/DIRECTOR: Barry Jenkins\nCAST: Trevante Rhodes, Naomie Harris, Andre Holland, and Mahershala Ali\n\nVisit the Moonlight WEBSITE: http://bit.ly/MoonlightFilm\nLike Moonlight on FACEBOOK: http://bit.ly/MoonlightFB\nFo",
+      "duration_iso": "PT1M56S",
+      "view_count": 20456817,
+      "like_count": 88816,
+      "comment_count": 6818
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 70
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 6818
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Eighth Grade",
+    "movie_year": 2018,
+    "release_date": "2018-01-19",
+    "trailer_pick": {
+      "video_id": "y8lFgF_IjPw",
+      "video_title": "Eighth Grade | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2018-03-14T13:00:05Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "y8lFgF_IjPw",
+      "title": "Eighth Grade | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2018-03-14T13:00:05Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Bo Burnham and starring Elsie Fisher. EIGHTH GRADE – Now available for rent or purchase (links below).\n\nRELEASE DATE: July 13, 2018\nDIRECTOR: Bo Burnham\nCAST: Elsie Fisher and Josh Hamilton\n\nVisit Eighth Grade WEBSITE: http://bit.ly/EighthGradeMov\nLike Eighth Grade on FACEBOOK: http://bit.ly/EighthGradeFB\nFollow Eighth Grade on TWITTER: http://bit.ly/EighthGradeTW\nFollow Eighth Grade on INSTAGRAM: http://bit.ly/EighthGradeIG\n\n------\n\nNO",
+      "duration_iso": "PT2M22S",
+      "view_count": 8566881,
+      "like_count": 88538,
+      "comment_count": 8465
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -55
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 8465
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "District 9",
+    "movie_year": 2009,
+    "release_date": "2009-08-05",
+    "trailer_pick": {
+      "video_id": "DyLUwOcR5pk",
+      "video_title": "District 9 - Official Trailer (HD)",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2009-06-08T21:56:26Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "DyLUwOcR5pk",
+      "title": "District 9 - Official Trailer (HD)",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2009-06-08T21:56:26Z",
+      "description": "In theaters August 14th!\n\n\nFor more DISTRICT 9 information, visit http://D-9.com",
+      "duration_iso": "PT1M49S",
+      "view_count": 8381928,
+      "like_count": 39202,
+      "comment_count": 3767
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": 57
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 65,
+      "yt_comments_day_30": 129,
+      "yt_comments_velocity": 0.5038759689922481,
+      "yt_comments_scanned_total": 2491,
+      "total_comments": 3767
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Looper",
+    "movie_year": 2012,
+    "release_date": "2012-09-26",
+    "trailer_pick": {
+      "video_id": "2iQuhsmtfHw",
+      "video_title": "LOOPER - Official Trailer (HD)",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2012-06-28T23:00:16Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "2iQuhsmtfHw",
+      "title": "LOOPER - Official Trailer (HD)",
+      "channel_title": "Sony Pictures Entertainment",
+      "channel_id": "UCz97F7dMxBNOfGYu3rx8aCw",
+      "published_at": "2012-06-28T23:00:16Z",
+      "description": "In the futuristic action thriller Looper, time travel will be invented – but it will be illegal and only available on the black market. When the mob wants to get rid of someone, they will send their target 30 years into the past where a “looper” – a hired gun, like Joe (Joseph Gordon-Levitt) – is waiting to mop up. Joe is getting rich and life is good…until the day the mob decides to “close the loop,” sending back Joe’s future self (Bruce Willis) for assassination. The film is written and direct",
+      "duration_iso": "PT2M30S",
+      "view_count": 11045200,
+      "like_count": 31212,
+      "comment_count": 5122
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 89
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 5122
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Brick",
+    "movie_year": 2005,
+    "release_date": "2006-03-31",
+    "trailer_pick": {
+      "video_id": "fmi4Qc-cvis",
+      "video_title": "Brick | Official Trailer | Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2025-06-12T14:30:00Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "fmi4Qc-cvis",
+      "title": "Brick | Official Trailer | Netflix",
+      "channel_title": "Netflix",
+      "channel_id": "UCWOA1ZGywLbqmigxE4Qlvuw",
+      "published_at": "2025-06-12T14:30:00Z",
+      "description": "They want to leave – but their apartment won’t let them. A mysterious thriller about a home that becomes a trap. BRICK – the mystery thriller starring Matthias Schweighöfer and Ruby O. Fee. July 10. Only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81731553\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Memb",
+      "duration_iso": "PT2M",
+      "view_count": 3219296,
+      "like_count": 28732,
+      "comment_count": 1700
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": -7014
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 769,
+      "yt_comments_day_30": 1019,
+      "yt_comments_velocity": 0.7546614327772326,
+      "yt_comments_scanned_total": 1272,
+      "total_comments": 1700
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "A Ghost Story",
+    "movie_year": 2017,
+    "release_date": "2017-04-24",
+    "trailer_pick": {
+      "video_id": "c_3NMtxeyfk",
+      "video_title": "A Ghost Story | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-03-28T13:00:24Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "c_3NMtxeyfk",
+      "title": "A Ghost Story | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-03-28T13:00:24Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nIt's all about time. Watch the official trailer for A GHOST STORY, from writer/director David Lowery, starring Rooney Mara and Casey Affleck. Now available for rent or purchase (links below).\n\nRELEASE DATE: July 7th, 2017\nWRITER/DIRECTOR: David Lowery\nCAST: Rooney Mara and Casey Affleck\n\nVisit A Ghost Story WEBSITE: http://bit.ly/AGhostStoryFilm\nLike A Ghost Story on FACEBOOK: http://bit.ly/AGhostStoryFB\nFollow A Ghost Story on TWITTER: http://bit.ly/AGhost",
+      "duration_iso": "PT2M14S",
+      "view_count": 6317732,
+      "like_count": 44225,
+      "comment_count": 2117
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": 26
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 301,
+      "yt_comments_day_30": 320,
+      "yt_comments_velocity": 0.940625,
+      "yt_comments_scanned_total": 1365,
+      "total_comments": 2117
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Frances Ha",
+    "movie_year": 2012,
+    "release_date": "2013-05-17",
+    "trailer_pick": {
+      "video_id": "YdxCnCvCngk",
+      "video_title": "Frances Ha - Official Trailer I HD I IFC Films",
+      "channel_title": "Independent Film Company",
+      "channel_id": "UCOn923UnbV8H9zo_lO6ZCRw",
+      "published_at": "2013-03-06T14:54:38Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "YdxCnCvCngk",
+      "title": "Frances Ha - Official Trailer I HD I IFC Films",
+      "channel_title": "Independent Film Company",
+      "channel_id": "UCOn923UnbV8H9zo_lO6ZCRw",
+      "published_at": "2013-03-06T14:54:38Z",
+      "description": "Directed by: Noah Baumbach\nStarring: Greta Gerwig, Mickey Summer, Michael Esper, & Adam Driver\n\nFrances (Greta Gerwig) lives in New York, but she doesn't really have an apartment. Frances is an apprentice for a dance company, but she's not really a dancer. Frances has a best friend named Sophie, but they aren't really speaking anymore. Frances throws herself headlong into her dreams, even as their possible reality dwindles. Frances wants so much more than she has but lives her life with unaccoun",
+      "duration_iso": "PT1M57S",
+      "view_count": 658641,
+      "like_count": 5013,
+      "comment_count": 118
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 71
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1,
+      "yt_comments_day_30": 1,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 63,
+      "total_comments": 118
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Uncut Gems",
+    "movie_year": 2019,
+    "release_date": "2019-08-30",
+    "trailer_pick": {
+      "video_id": "vTfJp2Ts9X8",
+      "video_title": "Uncut Gems | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2019-09-24T13:01:15Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "vTfJp2Ts9X8",
+      "title": "Uncut Gems | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2019-09-24T13:01:15Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nA Safdie Brothers film starring Adam Sandler, Kevin Garnett, Idina Menzel, Lakeith Stanfield, Julia Fox, and Eric Bogosian. UNCUT GEMS – Now Playing.\n\nRELEASE DATE: December 2019\nDIRECTOR: Safdie Brothers \nCAST: Adam Sandler, Kevin Garnett, Idina Menzel, Lakeith Stanfield, Julia Fox, and Eric Bogosian\n\nLike Uncut Gems on Facebook: http://bit.ly/uncutgems_facebook\nFollow Uncut Gems on Twitter: http://bit.ly/uncutgems_twitter\nFollow Uncut Gems on Instagram: h",
+      "duration_iso": "PT2M32S",
+      "view_count": 14884010,
+      "like_count": 130218,
+      "comment_count": 11678
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -26
+    },
+    "early_engagement": {
+      "status": "too_many_comments_to_reach_window",
+      "total_comments": 11678
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Good Time",
+    "movie_year": 2017,
+    "release_date": "2017-08-11",
+    "trailer_pick": {
+      "video_id": "AVyGCxHZ_Ko",
+      "video_title": "Good Time | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-05-16T13:00:00Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "AVyGCxHZ_Ko",
+      "title": "Good Time | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2017-05-16T13:00:00Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom directors Josh and Benny Safdie and starring Robert Pattinson. GOOD TIME – Now Playing.\n\nRELEASE DATE: August 11, 2017\nDIRECTOR: Ben Safdie, Joshua Safdie\nCAST: Robert Pattinson, Jennifer Jason Leigh, Barkhad Abdi\nORIGINAL SCORE: Oneohtrix Point Never\nMUSIC: \"Hospital Escape\" by Oneohtrix Point Never, \"The Pure And The Damned\" by Oneohtrix Point Never ft. Iggy Pop. http://pointnever.com\n\nVisit GOOD TIME WEBSITE: http://bit.ly/GoodTimeMovie\nLike GOOD TI",
+      "duration_iso": "PT1M52S",
+      "view_count": 3860077,
+      "like_count": 30639,
+      "comment_count": 1356
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 86
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 90,
+      "yt_comments_day_30": 117,
+      "yt_comments_velocity": 0.7692307692307693,
+      "yt_comments_scanned_total": 800,
+      "total_comments": 1356
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Lobster",
+    "movie_year": 2015,
+    "release_date": "2015-10-15",
+    "trailer_pick": {
+      "video_id": "LTNZmOJxuAc",
+      "video_title": "The Lobster | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2016-03-16T12:00:00Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 9
+    },
+    "trailer_metadata": {
+      "video_id": "LTNZmOJxuAc",
+      "title": "The Lobster | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2016-03-16T12:00:00Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nWatch the official trailer for THE LOBSTER, directed by Yorgos Lanthimos and starring Colin Farrell and Rachel Weisz – Now available on iTunes, Amazon, and DVD/Blu-Ray! (Links below)\n\nRELEASE DATE: May 13, 2016\nWRITER/DIRECTOR: Yorgos Lanthimos\nCAST: Colin Farrell, Rachel Weisz, John C. Reilly, Ben Whishaw, Lea Seydoux, and Olivia Colman.\n\nLike The Lobster on FACEBOOK: http://bit.ly/TheLobsterFB\nFollow The Lobster on TWITTER: http://bit.ly/TheLobsterTW\n\nNOW",
+      "duration_iso": "PT2M19S",
+      "view_count": 9788104,
+      "like_count": 15980,
+      "comment_count": 481
+    },
+    "studio_features": {
+      "yt_trailer_count": 9,
+      "yt_upload_lead_days": -154
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 4,
+      "yt_comments_day_30": 44,
+      "yt_comments_velocity": 0.09090909090909091,
+      "yt_comments_scanned_total": 286,
+      "total_comments": 481
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Pan's Labyrinth",
+    "movie_year": 2006,
+    "release_date": "2006-10-11",
+    "trailer_pick": {
+      "video_id": "jVZRnnVSQ8k",
+      "video_title": "PAN&#39;S LABYRINTH - Official Trailer - Directed by Guillermo del Toro",
+      "channel_title": "StudiocanalUK",
+      "channel_id": "UCFSILgKCKo35QYGz8Kob51g",
+      "published_at": "2020-03-27T10:43:40Z",
+      "score": 10,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "jVZRnnVSQ8k",
+      "title": "PAN'S LABYRINTH - Official Trailer - Directed by Guillermo del Toro",
+      "channel_title": "StudiocanalUK",
+      "channel_id": "UCFSILgKCKo35QYGz8Kob51g",
+      "published_at": "2020-03-27T10:43:40Z",
+      "description": "In 1944 Falangist Spain, a girl, fascinated with fairy-tales, is sent along with her pregnant mother to live with her new stepfather, a ruthless captain of the Spanish army. During the night, she meets a fairy who takes her to an old faun in the center of the labyrinth. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks. If she fails, she will never prove herself to be the true princess and will never see her real father, the king, again.",
+      "duration_iso": "PT2M28S",
+      "view_count": 1678275,
+      "like_count": 12360,
+      "comment_count": 401
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": -4917
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 4,
+      "yt_comments_day_30": 4,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 246,
+      "total_comments": 401
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Drive",
+    "movie_year": 2011,
+    "release_date": "2011-09-15",
+    "trailer_pick": {
+      "video_id": "KBiOF3y1W0Y",
+      "video_title": "Drive - Movie Trailer (2011) HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2011-08-10T00:40:45Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "KBiOF3y1W0Y",
+      "title": "Drive - Movie Trailer (2011) HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2011-08-10T00:40:45Z",
+      "description": "Driver is a Los Angeles wheelman for hire, stunt driving for movie productions by day and steering getaway vehicles for armed heists by night. Though a loner by nature, Driver can't help falling in love with his beautiful neighbor Irene, a vulnerable young mother dragged into a dangerous underworld by the return of her ex-convict husband Standard. After a heist intended to pay off Standard's protection money spins unpredictably out of control, Driver finds himself driving defense for the girl he",
+      "duration_iso": "PT2M31S",
+      "view_count": 10170654,
+      "like_count": 49917,
+      "comment_count": 2809
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 35
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 10,
+      "yt_comments_day_30": 22,
+      "yt_comments_velocity": 0.45454545454545453,
+      "yt_comments_scanned_total": 2078,
+      "total_comments": 2809
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "A Separation",
+    "movie_year": 2011,
+    "release_date": "2011-02-15",
+    "trailer_pick": {
+      "video_id": "LlMaGZuSlDY",
+      "video_title": "A Separation - Official Trailer (2011) HD Movie - NYFF",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2011-08-22T20:32:33Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "LlMaGZuSlDY",
+      "title": "A Separation - Official Trailer (2011) HD Movie - NYFF",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2011-08-22T20:32:33Z",
+      "description": "Now showing at the New York Film Festival - NYFF\nhttp://www.filmlinc.com/films/on-sale/a-separation\n\nA couple has to make a decision to leave Iran to better the life of their child or to stay and take care of a parent suffering from Alzheimers; however, the couple's marriage may end in divorce.\n\nAn unhappily married couple break up in this complex, painful, fascinating Iranian drama by writer-director Asghar Farhadi, with explosive results that expose a network of personal and social faultlines.",
+      "duration_iso": "PT1M50S",
+      "view_count": 122293,
+      "like_count": 383,
+      "comment_count": 26
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -189
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 3,
+      "yt_comments_day_30": 3,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 18,
+      "total_comments": 26
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Enter the Void",
+    "movie_year": 2009,
+    "release_date": "2010-05-05",
+    "trailer_pick": {
+      "video_id": "_tG_b5zaT9Y",
+      "video_title": "Enter The Void - Official Trailer 2010 [HD]",
+      "channel_title": "Nello Guida",
+      "channel_id": "UCc5ig1d0cnyG_k4eRnfOGGA",
+      "published_at": "2010-08-10T10:05:57Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "_tG_b5zaT9Y",
+      "title": "Enter The Void - Official Trailer 2010 [HD]",
+      "channel_title": "Nello Guida",
+      "channel_id": "UCc5ig1d0cnyG_k4eRnfOGGA",
+      "published_at": "2010-08-10T10:05:57Z",
+      "description": "THE ROMANTICS - Official Trailer [HD]  The long-awaited follow up to his controversial IRREVERSIBLE, ENTER THE VOID is an immersive and mind-bending experience. Nathaniel Brown and Paz de la Huerta star in a visceral journey set against the thumping, neon club scene of Tokyo, which hurls the viewer into an astonishing trip through life, death, and the universally wonderful and horrible moments between.",
+      "duration_iso": "PT2M8S",
+      "view_count": 1803741,
+      "like_count": 15884,
+      "comment_count": 769
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -98
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 3,
+      "yt_comments_day_30": 4,
+      "yt_comments_velocity": 0.75,
+      "yt_comments_scanned_total": 401,
+      "total_comments": 769
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Spring Breakers",
+    "movie_year": 2012,
+    "release_date": "2013-03-06",
+    "trailer_pick": {
+      "video_id": "imDML4om8z8",
+      "video_title": "Spring Breakers | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2013-01-18T14:47:34Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "imDML4om8z8",
+      "title": "Spring Breakers | Official Trailer HD | A24",
+      "channel_title": "A24",
+      "channel_id": "UCuPivVjnfNo4mb3Oog_frZg",
+      "published_at": "2013-01-18T14:47:34Z",
+      "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nA little sun can bring out your dark side. -- Now available on iTunes, Amazon, and DVD/Blu-Ray! (Links below)\n\nRELEASE DATE: March 15, 2013\nWRITER/DIRECTOR: Harmony Korine\nCAST: James Franco, Selena Gomez, Vanessa Hudgens, Ashley Benson, Rachel Korine, and Gucci Mane\n\nVisit Spring Breakers WEBSITE: http://bit.ly/SBmovie\nLike Spring Breakers FACEBOOK: http://bit.ly/SBMovieFB\nFollow Spring Breakers on TWITTER: http://bit.ly/SBMovieTwitter\n\nNOW AVAILABLE FOR R",
+      "duration_iso": "PT2M13S",
+      "view_count": 2752800,
+      "like_count": 14891,
+      "comment_count": 1172
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 46
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 2,
+      "yt_comments_day_30": 3,
+      "yt_comments_velocity": 0.6666666666666666,
+      "yt_comments_scanned_total": 623,
+      "total_comments": 1172
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Her",
+    "movie_year": 2013,
+    "release_date": "2013-12-18",
+    "trailer_pick": {
+      "video_id": "dJTU48_yghs",
+      "video_title": "Her Official Trailer #1 (2013) - Joaquin Phoenix, Scarlett Johansson Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2013-08-07T16:31:58Z",
+      "score": 21,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "dJTU48_yghs",
+      "title": "Her Official Trailer #1 (2013) - Joaquin Phoenix, Scarlett Johansson Movie HD",
+      "channel_title": "Rotten Tomatoes Trailers",
+      "channel_id": "UCi8e0iOVk1fEOogdfu4YgfA",
+      "published_at": "2013-08-07T16:31:58Z",
+      "description": "Subscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://goo.gl/dHs73\nHer Official Trailer #1 (2013) - Joaquin Phoenix, Scarlett Johansson Movie HD\n\nA lonely writer develops an unlikely relationship with his newly-purchased operating system that's designed to meet his every need.\n\nThe Movieclips Trailers channel is your destination for the hottest new trailers the second they drop. Whether it's the latest studio release, an indie horr",
+      "duration_iso": "PT2M32S",
+      "view_count": 4205226,
+      "like_count": 38402,
+      "comment_count": 3087
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 132
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 323,
+      "yt_comments_day_30": 399,
+      "yt_comments_velocity": 0.8095238095238095,
+      "yt_comments_scanned_total": 1982,
+      "total_comments": 3087
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "There Will Be Blood",
+    "movie_year": 2007,
+    "release_date": "2007-12-26",
+    "trailer_pick": {
+      "video_id": "FeSLPELpMeM",
+      "video_title": "There Will Be Blood (2007) Official Trailer - Daniel Day-Lewis, Paul Dano Movie HD",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2014-05-10T03:57:37Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "FeSLPELpMeM",
+      "title": "There Will Be Blood (2007) Official Trailer - Daniel Day-Lewis, Paul Dano Movie HD",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2014-05-10T03:57:37Z",
+      "description": "Subscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\nThere Will Be Blood (2007) Official Trailer - Daniel Day-Lewis, Paul Dano Movie HD\n\nA story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault C",
+      "duration_iso": "PT2M13S",
+      "view_count": 4051789,
+      "like_count": 25411,
+      "comment_count": 1573
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -2328
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 749,
+      "total_comments": 1573
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "No Country for Old Men",
+    "movie_year": 2007,
+    "release_date": "2007-11-09",
+    "trailer_pick": {
+      "video_id": "dedeDosu5fw",
+      "video_title": "No Country For Old Men (2007) Official Trailer",
+      "channel_title": "MovieStation",
+      "channel_id": "UCYMtJJiZPypLc4sdAeRP9GA",
+      "published_at": "2014-03-03T19:58:03Z",
+      "score": 17,
+      "candidates_considered": 10,
+      "total_trailers_seen": 8
+    },
+    "trailer_metadata": {
+      "video_id": "dedeDosu5fw",
+      "title": "No Country For Old Men (2007) Official Trailer",
+      "channel_title": "MovieStation",
+      "channel_id": "UCYMtJJiZPypLc4sdAeRP9GA",
+      "published_at": "2014-03-03T19:58:03Z",
+      "description": "",
+      "duration_iso": "PT2M28S",
+      "view_count": 353,
+      "like_count": 3,
+      "comment_count": 0
+    },
+    "studio_features": {
+      "yt_trailer_count": 8,
+      "yt_upload_lead_days": -2307
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 0,
+      "total_comments": 0
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "The Fountain",
+    "movie_year": 2006,
+    "release_date": "2006-11-22",
+    "trailer_pick": {
+      "video_id": "m8IlyFCbNZg",
+      "video_title": "The Fountain (2006) Official Trailer - Hugh Jackman Movie",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2016-07-05T15:38:33Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "m8IlyFCbNZg",
+      "title": "The Fountain (2006) Official Trailer - Hugh Jackman Movie",
+      "channel_title": "Rotten Tomatoes Classic Trailers",
+      "channel_id": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+      "published_at": "2016-07-05T15:38:33Z",
+      "description": "Starring: Hugh Jackman, Rachel Weisz and Ellen Burstyn\nThe Fountain (2006) Official Trailer - Hugh Jackman Movie\n\nAs a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.\n\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: htt",
+      "duration_iso": "PT2M29S",
+      "view_count": 1389651,
+      "like_count": 10289,
+      "comment_count": 695
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -3514
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1,
+      "yt_comments_day_30": 1,
+      "yt_comments_velocity": 1.0,
+      "yt_comments_scanned_total": 291,
+      "total_comments": 695
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Sunshine",
+    "movie_year": 2007,
+    "release_date": "2007-04-05",
+    "trailer_pick": {
+      "video_id": "CFqTKK_PRU0",
+      "video_title": "Sunshine Official Trailer [2007]",
+      "channel_title": "Subversive Rabbit",
+      "channel_id": "UCnoHQjEhQ1PmcOvm9kY_cZg",
+      "published_at": "2019-12-17T17:43:58Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "CFqTKK_PRU0",
+      "title": "Sunshine Official Trailer [2007]",
+      "channel_title": "Subversive Rabbit",
+      "channel_id": "UCnoHQjEhQ1PmcOvm9kY_cZg",
+      "published_at": "2019-12-17T17:43:58Z",
+      "description": "As one of the best science fiction movies of the decade, Sunshine is a very accurate and thrilling story about a dying sun and humanity's efforts to save it. Subversive Rabbit recommends this movie, check out our site for more movie recommendations, reviews, news, and more.",
+      "duration_iso": "PT2M7S",
+      "view_count": 1832,
+      "like_count": 11,
+      "comment_count": 1
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": -4640
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 0,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 1,
+      "total_comments": 1
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "MacGruber",
+    "movie_year": 2010,
+    "release_date": "2010-05-21",
+    "trailer_pick": {
+      "video_id": "sth-9uupBJU",
+      "video_title": "MacGruber - Restricted Trailer",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2010-04-02T19:21:34Z",
+      "score": 16,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "sth-9uupBJU",
+      "title": "MacGruber - Restricted Trailer",
+      "channel_title": "Universal Pictures",
+      "channel_id": "UCq0OueAsdxH6b8nyAspwViw",
+      "published_at": "2010-04-02T19:21:34Z",
+      "description": "http://iamgrogue.com/macgruber\r\nOnly one American hero has earned the rank of Green Beret, Navy SEAL and Army Ranger.  Just one operative has been awarded 16 purple hearts, 3 Congressional Medals of Honor and 7 presidential medals of bravery.  And only one guy is man enough to still sport a mullet.  In 2010, Will Forte brings Saturday Night Lives clueless soldier of fortune to the big screen in the action comedy MacGruber.\r\n\r\nIn the 10 years since his fiancée was killed, special op MacGruber has",
+      "duration_iso": "PT2M43S",
+      "view_count": 89049,
+      "like_count": 381,
+      "comment_count": 83
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 48
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 0,
+      "yt_comments_day_30": 8,
+      "yt_comments_velocity": 0.0,
+      "yt_comments_scanned_total": 75,
+      "total_comments": 83
+    },
+    "status": "success"
+  },
+  {
+    "movie_title": "Kung Fury",
+    "movie_year": 2015,
+    "release_date": "2015-05-22",
+    "trailer_pick": {
+      "video_id": "nO_DIwuGBnA",
+      "video_title": "KUNG FURY Official Trailer HD",
+      "channel_title": "Korvin",
+      "channel_id": "UC19BaYYDSPCKFd9vEroBYPA",
+      "published_at": "2015-01-30T15:51:05Z",
+      "score": 15,
+      "candidates_considered": 10,
+      "total_trailers_seen": 10
+    },
+    "trailer_metadata": {
+      "video_id": "nO_DIwuGBnA",
+      "title": "KUNG FURY Official Trailer HD",
+      "channel_title": "Korvin",
+      "channel_id": "UC19BaYYDSPCKFd9vEroBYPA",
+      "published_at": "2015-01-30T15:51:05Z",
+      "description": "vk.com/kiberpankanet",
+      "duration_iso": "PT2M7S",
+      "view_count": 2175887,
+      "like_count": 17043,
+      "comment_count": 707
+    },
+    "studio_features": {
+      "yt_trailer_count": 10,
+      "yt_upload_lead_days": 111
+    },
+    "early_engagement": {
+      "status": "success",
+      "yt_comments_day_7": 1,
+      "yt_comments_day_30": 89,
+      "yt_comments_velocity": 0.011235955056179775,
+      "yt_comments_scanned_total": 374,
+      "total_comments": 707
+    },
+    "status": "success"
   }
 ]

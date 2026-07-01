@@ -94,3 +94,7 @@ data/model_results_real.json
 data/*.backup.json
 docs/
 data/figures/08_feature_importance.png
+
+# Local-only (not for the public repo)
+.Rhistory
+email_to_hiroaki.md

@@ -1,0 +1,42 @@
+[
+  {
+    "movie_title": "The Big Lebowski",
+    "movie_year": 1998,
+    "reddit_serp_results": 147000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Donnie Darko",
+    "movie_year": 2001,
+    "reddit_serp_results": 174000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Fight Club",
+    "movie_year": 1999,
+    "reddit_serp_results": 377000,
+    "reddit_serp_organic_on_page": 9,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Office Space",
+    "movie_year": 1999,
+    "reddit_serp_results": 138000,
+    "reddit_serp_organic_on_page": 8,
+    "status": "success",
+    "source": "serpapi_google"
+  },
+  {
+    "movie_title": "Blade Runner",
+    "movie_year": 1982,
+    "reddit_serp_results": 648000,
+    "reddit_serp_organic_on_page": 10,
+    "status": "success",
+    "source": "serpapi_google"
+  }
+]

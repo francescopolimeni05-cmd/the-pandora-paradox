@@ -1,0 +1,351 @@
+title,year,in_franchise,collection_name,sequel_number,n_in_collection,is_animated_tmdb,primary_genre
+Avatar,2009,1,Avatar Collection,0,5,0,Science Fiction
+Avengers: Endgame,2019,1,The Avengers Collection,3,6,0,Adventure
+Avatar: The Way of Water,2022,1,Avatar Collection,1,5,0,Action
+Titanic,1997,0,,0,0,0,Drama
+Star Wars: The Force Awakens,2015,1,Star Wars Collection,6,9,0,Adventure
+Avengers: Infinity War,2018,1,The Avengers Collection,2,6,0,Adventure
+Spider-Man: No Way Home,2021,1,Spider-Man (MCU) Collection,2,4,0,Action
+Inside Out 2,2024,1,Inside Out Collection,1,2,1,Animation
+Jurassic World,2015,1,Jurassic Park Collection,3,7,0,Adventure
+The Lion King (2019),2019,1,The Lion King (Reboot) Collection,0,2,1,Adventure
+The Avengers,2012,1,The Avengers Collection,0,6,0,Science Fiction
+Furious 7,2015,1,The Fast and the Furious Collection,6,12,0,Action
+Frozen II,2019,1,Frozen Collection,1,3,1,Family
+Top Gun: Maverick,2022,1,Top Gun Collection,1,2,0,Action
+Barbie,2023,0,,0,0,0,Comedy
+Avengers: Age of Ultron,2015,1,The Avengers Collection,1,6,0,Action
+Black Panther,2018,1,Black Panther Collection,0,2,0,Action
+Harry Potter and the Deathly Hallows – Part 2,2011,1,Harry Potter Collection,7,8,0,Adventure
+Star Wars: The Last Jedi,2017,1,Star Wars Collection,7,9,0,Adventure
+Aquaman,2018,1,Aquaman Collection,0,2,0,Action
+Incredibles 2,2018,1,The Incredibles Collection,1,3,1,Action
+The Fate of the Furious,2017,1,The Fast and the Furious Collection,7,12,0,Action
+Frozen,2013,1,Frozen Collection,0,3,1,Animation
+Minions,2015,1,Minions Collection,0,3,1,Family
+Captain America: Civil War,2016,1,Captain America Collection,2,4,0,Adventure
+Beauty and the Beast (2017),2017,0,,0,0,0,Family
+Rogue One: A Star Wars Story,2016,0,,0,0,0,Action
+Finding Dory,2016,1,Finding Nemo Collection,1,2,1,Adventure
+Iron Man 3,2013,1,Iron Man Collection,2,3,0,Action
+Toy Story 4,2019,1,Toy Story Collection,3,5,1,Family
+Doctor Strange in the Multiverse of Madness,2022,1,Doctor Strange Collection,1,2,0,Fantasy
+Thor: Love and Thunder,2022,1,Thor Collection,3,4,0,Fantasy
+Ant-Man and the Wasp: Quantumania,2023,1,Ant-Man Collection,2,3,0,Action
+Shrek Forever After,2010,1,Shrek Collection,3,5,1,Comedy
+Shrek the Third,2007,1,Shrek Collection,2,5,1,Fantasy
+Shrek 2,2004,1,Shrek Collection,1,5,1,Animation
+Shrek,2001,1,Shrek Collection,0,5,1,Animation
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,1,Pirates of the Caribbean Collection,4,5,0,Adventure
+Pirates of the Caribbean: On Stranger Tides,2011,1,Pirates of the Caribbean Collection,3,5,0,Adventure
+Pirates of the Caribbean: Dead Man's Chest,2006,1,Pirates of the Caribbean Collection,1,5,0,Adventure
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,1,Pirates of the Caribbean Collection,0,5,0,Adventure
+Toy Story,1995,1,Toy Story Collection,0,5,1,Family
+Toy Story 2,1999,1,Toy Story Collection,1,5,1,Animation
+Toy Story 3,2010,1,Toy Story Collection,2,5,1,Animation
+Cars,2006,1,Cars Collection,0,3,1,Animation
+Cars 2,2011,1,Cars Collection,1,3,1,Animation
+Cars 3,2017,1,Cars Collection,2,3,1,Animation
+Monsters University,2013,1,"Monsters, Inc. Collection",1,2,1,Animation
+"Monsters, Inc.",2001,1,"Monsters, Inc. Collection",0,2,1,Animation
+Up,2009,0,,0,0,1,Animation
+WALL-E,2008,0,,0,0,0,
+Ratatouille,2007,0,,0,0,1,Animation
+The Incredibles,2004,1,The Incredibles Collection,0,3,1,Action
+A Bug's Life,1998,0,,0,0,1,Adventure
+Finding Nemo,2003,1,Finding Nemo Collection,0,2,1,Animation
+Coco,2017,1,Coco Collection,0,2,1,Family
+Encanto,2021,1,Encanto Collection,0,1,1,Animation
+Mulan,1998,1,Mulan Collection,0,2,1,Animation
+The Jungle Book,1967,1,The Jungle Book Collection,0,2,1,Family
+101 Dalmatians,1961,1,101 Dalmatians (Animated) Collection,0,2,1,Adventure
+The Lion King (1994),1994,0,,0,0,0,
+The Little Mermaid,1989,1,The Little Mermaid Collection,0,3,1,Animation
+Beauty and the Beast (1991),1991,1,Beauty and the Beast Collection,0,3,1,Romance
+Aladdin,1992,1,Aladdin Collection,0,3,1,Animation
+Snow White and the Seven Dwarfs,1937,0,,0,0,1,Fantasy
+Cinderella,1950,1,Cinderella Collection,0,3,1,Family
+Sleeping Beauty,1959,0,,0,0,1,Fantasy
+Tangled,2010,1,Tangled Collection,0,2,1,Animation
+Wreck-It Ralph,2012,1,Wreck-It Ralph Collection,0,2,1,Family
+Big Hero 6,2014,0,,0,0,1,Adventure
+Moana,2016,1,Moana Collection,0,2,1,Adventure
+Zootopia,2016,1,Zootopia Collection,0,2,1,Animation
+Raya and the Last Dragon,2021,0,,0,0,1,Animation
+Turning Red,2022,0,,0,0,1,Animation
+Lightyear,2022,0,,0,0,1,Animation
+Elemental,2023,0,,0,0,1,Animation
+Wish,2023,0,,0,0,1,Animation
+Madagascar 3,2012,1,Madagascar Collection,2,3,1,Animation
+Kung Fu Panda 3,2016,1,Kung Fu Panda Collection,2,4,1,Animation
+Rise of the Guardians,2012,0,,0,0,1,Action
+The Croods,2013,1,The Croods Collection,0,2,1,Animation
+The Croods: A New Age,2020,1,The Croods Collection,1,2,1,Animation
+Megamind,2010,1,Megamind Collection,0,2,1,Animation
+Trolls,2016,1,The Trolls Collection,0,3,1,Adventure
+Trolls World Tour,2020,1,The Trolls Collection,1,3,1,Family
+Kung Fu Panda,2008,1,Kung Fu Panda Collection,0,4,1,Action
+Kung Fu Panda 2,2011,1,Kung Fu Panda Collection,1,4,1,Animation
+How to Train Your Dragon,2010,1,How to Train Your Dragon Collection,0,3,1,Fantasy
+How to Train Your Dragon 2,2014,1,How to Train Your Dragon Collection,1,3,1,Fantasy
+How to Train Your Dragon 3,2019,1,How to Train Your Dragon Collection,1,3,1,Fantasy
+Madagascar,2005,1,Madagascar Collection,0,3,1,Adventure
+Madagascar 2,2008,1,Madagascar Collection,1,3,1,Adventure
+Despicable Me,2010,1,Despicable Me Collection,0,4,1,Animation
+Despicable Me 2,2013,1,Despicable Me Collection,1,4,1,Animation
+Despicable Me 3,2017,1,Despicable Me Collection,2,4,1,Action
+The Secret Life of Pets,2016,1,The Secret Life of Pets Collection,0,2,1,Animation
+Sing,2016,1,Sing Collection,0,2,1,Animation
+Sing 2,2021,1,Sing Collection,1,2,1,Animation
+The Secret Life of Pets 2,2019,1,The Secret Life of Pets Collection,1,2,1,Animation
+Hop,2011,0,,0,0,1,Animation
+Horton Hears a Who!,2008,0,,0,0,1,Animation
+Ice Age,2002,1,Ice Age Collection,0,7,1,Animation
+Ice Age: The Meltdown,2006,1,Ice Age Collection,1,7,1,Animation
+Ice Age: Dawn of the Dinosaurs,2009,1,Ice Age Collection,2,7,1,Animation
+Ice Age: Continental Drift,2012,1,Ice Age Collection,3,7,1,Animation
+Ice Age: Collision Course,2016,1,Ice Age Collection,4,7,1,Adventure
+Rio,2011,1,Rio Collection,0,2,1,Animation
+Rio 2,2014,1,Rio Collection,1,2,1,Animation
+Rango,2011,0,,0,0,1,Animation
+The Book of Life,2014,0,,0,0,1,Animation
+Curious George,2006,1,Curious George Collection,0,9,1,Adventure
+Charlotte's Web,2006,0,,0,0,0,Comedy
+Stuart Little,1999,1,Stuart Little Collection,0,3,0,Family
+Bumblebee,2018,0,,0,0,0,Action
+Transformers,2007,1,Transformers Collection,0,5,0,Adventure
+Transformers: Revenge of the Fallen,2009,1,Transformers Collection,1,5,0,Science Fiction
+Transformers: Dark of the Moon,2011,1,Transformers Collection,2,5,0,Action
+Transformers: Age of Extinction,2014,1,Transformers Collection,3,5,0,Science Fiction
+Transformers: The Last Knight,2017,1,Transformers Collection,4,5,0,Action
+Guardians of the Galaxy,2014,1,Guardians of the Galaxy Collection,0,3,0,Action
+Guardians of the Galaxy Vol. 2,2017,1,Guardians of the Galaxy Collection,1,3,0,Science Fiction
+Guardians of the Galaxy Vol. 3,2023,1,Guardians of the Galaxy Collection,2,3,0,Science Fiction
+Thor,2011,1,Thor Collection,0,4,0,Adventure
+Thor: The Dark World,2013,1,Thor Collection,1,4,0,Action
+Thor: Ragnarok,2017,1,Thor Collection,2,4,0,Action
+Iron Man,2008,1,Iron Man Collection,0,3,0,Action
+Iron Man 2,2010,1,Iron Man Collection,1,3,0,Adventure
+Captain America: The First Avenger,2011,1,Captain America Collection,0,4,0,Action
+Captain America: The Winter Soldier,2014,1,Captain America Collection,1,4,0,Action
+Ant-Man,2015,1,Ant-Man Collection,0,3,0,Science Fiction
+Ant-Man and the Wasp,2018,1,Ant-Man Collection,1,3,0,Action
+Black Widow,2021,0,,0,0,0,Action
+Captain Marvel,2019,1,Captain Marvel Collection,0,2,0,Action
+Spider-Man: Homecoming,2017,1,Spider-Man (MCU) Collection,0,4,0,Action
+Spider-Man: Far From Home,2019,1,Spider-Man (MCU) Collection,1,4,0,Action
+The Amazing Spider-Man,2012,1,The Amazing Spider-Man Collection,0,2,0,Action
+The Amazing Spider-Man 2,2014,1,The Amazing Spider-Man Collection,1,2,0,Action
+Spider-Man 3,2007,1,Spider-Man Collection,2,3,0,Action
+Spider-Man 2,2004,1,Spider-Man Collection,1,3,0,Action
+Spider-Man,2002,1,Spider-Man Collection,0,3,0,Action
+Venom,2018,1,Venom Collection,0,3,0,Science Fiction
+Venom: Let There Be Carnage,2021,1,Venom Collection,1,3,0,Science Fiction
+X-Men Origins: Wolverine,2009,1,The Wolverine Collection,0,3,0,Adventure
+The Wolverine,2013,1,The Wolverine Collection,1,3,0,Action
+Logan,2017,1,The Wolverine Collection,2,3,0,Action
+X-Men: Days of Future Past,2014,1,X-Men Collection,4,7,0,Action
+X-Men: The Last Stand,2006,1,X-Men Collection,2,7,0,Adventure
+X-Men: Apocalypse,2016,1,X-Men Collection,5,7,0,Science Fiction
+X-Men: Dark Phoenix,2019,1,X-Men Collection,6,7,0,Science Fiction
+Deadpool,2016,1,Deadpool Collection,0,3,0,Action
+Deadpool 2,2018,1,Deadpool Collection,1,3,0,Action
+Wonder Woman,2017,1,Wonder Woman Collection,0,2,0,Action
+Wonder Woman 1984,2020,1,Wonder Woman Collection,1,2,0,Action
+Batman v Superman: Dawn of Justice,2016,1,Man of Steel Collection,1,2,0,Action
+Superman Returns,2006,0,,0,0,0,Science Fiction
+Man of Steel,2013,1,Man of Steel Collection,0,2,0,Action
+The Dark Knight,2008,1,The Dark Knight Collection,1,3,0,Action
+The Dark Knight Rises,2012,1,The Dark Knight Collection,2,3,0,Action
+Batman Begins,2005,1,The Dark Knight Collection,0,3,0,Drama
+Justice League,2017,0,,0,0,0,Action
+Aquaman and the Lost Kingdom,2023,1,Aquaman Collection,1,2,0,Action
+Shazam! Fury of the Gods,2023,1,Shazam! Collection,1,2,0,Comedy
+The Flash,2023,0,,0,0,0,Action
+Eternals,2021,0,,0,0,0,Science Fiction
+Shang-Chi and the Legend of the Ten Rings,2021,0,,0,0,0,Action
+Black Panther: Wakanda Forever,2022,1,Black Panther Collection,1,2,0,Action
+The Mummy,1999,1,The Mummy Collection,0,4,0,Adventure
+The Mummy Returns,2001,1,The Mummy Collection,1,4,0,Adventure
+The Mummy: Tomb of the Dragon Emperor,2008,1,The Mummy Collection,2,4,0,Adventure
+Jurassic Park,1993,1,Jurassic Park Collection,0,7,0,Adventure
+Jurassic Park III,2001,1,Jurassic Park Collection,2,7,0,Adventure
+The Lost World: Jurassic Park,1997,1,Jurassic Park Collection,1,7,0,Adventure
+Jurassic World: Fallen Kingdom,2018,1,Jurassic Park Collection,4,7,0,Adventure
+Jurassic World Dominion,2022,1,Jurassic Park Collection,5,7,0,Adventure
+Godzilla,2014,1,Godzilla Collection,0,3,0,Action
+Godzilla: King of the Monsters,2019,1,Godzilla Collection,1,3,0,Science Fiction
+Godzilla vs. Kong,2021,1,Godzilla Collection,2,3,0,Action
+Godzilla x Kong: The New Empire,2024,1,Godzilla x Kong Collection,0,2,0,Action
+King Kong,2005,0,,0,0,0,Adventure
+Rampage,2018,0,,0,0,0,Action
+Dune,2021,1,Dune Collection,0,3,0,Science Fiction
+Dune: Part Two,2024,1,Dune Collection,1,3,0,Science Fiction
+Inception,2010,0,,0,0,0,Action
+Interstellar,2014,0,,0,0,0,Adventure
+Seabiscuit,2003,0,,0,0,0,Drama
+Apollo 13,1995,0,,0,0,0,Drama
+The Revenant,2015,0,,0,0,0,Western
+Oppenheimer,2023,0,,0,0,0,Drama
+Killers of the Flower Moon,2023,0,,0,0,0,Crime
+The Wolf of Wall Street,2013,0,,0,0,0,Crime
+Once Upon a Time in Hollywood,2019,1,Once Upon a Time... in Hollywood Collection,0,2,0,Comedy
+Pulp Fiction,1994,0,,0,0,0,Thriller
+Inglourious Basterds,2009,0,,0,0,0,Drama
+The Hateful Eight,2015,0,,0,0,0,Drama
+The Big Lebowski,1998,0,,0,0,0,Comedy
+Donnie Darko,2001,1,Darko Collection,0,2,0,Fantasy
+Fight Club,1999,0,,0,0,0,Drama
+Office Space,1999,0,,0,0,0,Comedy
+Blade Runner,1982,1,Blade Runner Collection,0,2,0,Science Fiction
+The Thing,1982,1,The Thing Collection,0,2,0,Horror
+The Shawshank Redemption,1994,0,,0,0,0,Drama
+Scott Pilgrim vs. the World,2010,0,,0,0,0,Action
+Clerks,1994,1,Clerks Collection,0,3,0,Comedy
+Pi,1998,0,,0,0,0,Mystery
+Memento,2000,0,,0,0,0,Mystery
+Primer,2004,0,,0,0,0,Science Fiction
+Moon,2009,1,Moon Collection,0,2,0,Science Fiction
+The Man from Earth,2007,1,The Man from Earth Collection,0,2,0,Science Fiction
+Coherence,2013,1,Coherence Collection,0,1,0,Thriller
+Napoleon Dynamite,2004,0,,0,0,0,Comedy
+Mean Girls,2004,1,Mean Girls Collection,0,2,0,Drama
+American Psycho,2000,1,American Psycho Collection,0,2,0,Thriller
+Heathers,1988,0,,0,0,0,Comedy
+Wet Hot American Summer,2001,0,,0,0,0,Comedy
+Idiocracy,2006,0,,0,0,0,Comedy
+The Boondock Saints,1999,1,The Boondock Saints Collection,0,2,0,Action
+The Room,2003,0,,0,0,0,Drama
+The Princess Bride,1987,0,,0,0,0,Adventure
+Labyrinth,1986,0,,0,0,0,Adventure
+The Dark Crystal,1982,0,,0,0,0,Adventure
+Tron,1982,1,TRON Collection,0,3,0,Science Fiction
+Fear and Loathing in Las Vegas,1998,0,,0,0,0,Adventure
+Bring It On,2000,1,Bring It On Collection,0,7,0,Comedy
+Jennifer's Body,2009,0,,0,0,0,Horror
+Hocus Pocus,1993,1,Hocus Pocus Collection,0,2,0,Fantasy
+The Iron Giant,1999,0,,0,0,1,Animation
+Treasure Planet,2002,0,,0,0,1,Science Fiction
+Children of Men,2006,0,,0,0,0,Science Fiction
+Snatch,2000,0,,0,0,0,Crime
+"Lock, Stock and Two Smoking Barrels",1998,0,,0,0,0,Comedy
+Trainspotting,1996,1,Trainspotting Collection,0,2,0,Drama
+Requiem for a Dream,2000,0,,0,0,0,Crime
+Dredd,2012,0,,0,0,0,Action
+Edge of Tomorrow,2014,0,,0,0,0,Action
+Blade Runner 2049,2017,1,Blade Runner Collection,1,2,0,Science Fiction
+The Nice Guys,2016,0,,0,0,0,Comedy
+Annihilation,2018,0,,0,0,0,Science Fiction
+Sorry to Bother You,2018,0,,0,0,0,Fantasy
+Swiss Army Man,2016,0,,0,0,0,Comedy
+The Lighthouse,2019,0,,0,0,0,Drama
+Mandy,2018,0,,0,0,0,Fantasy
+Hackers,1995,0,,0,0,0,Action
+Empire Records,1995,0,,0,0,0,Comedy
+Dazed and Confused,1993,0,,0,0,0,Comedy
+This Is Spinal Tap,1984,1,This Is Spinal Tap Collection,0,2,0,Comedy
+Brazil,1985,0,,0,0,0,Comedy
+Repo Man,1984,1,The Repo Collection,0,2,0,Comedy
+Withnail and I,1987,0,,0,0,0,Comedy
+A Clockwork Orange,1971,0,,0,0,0,Science Fiction
+Eraserhead,1977,0,,0,0,0,Horror
+Harold and Maude,1971,0,,0,0,0,Comedy
+John Carter,2012,0,,0,0,0,Action
+The Lone Ranger,2013,0,,0,0,0,Action
+Cutthroat Island,1995,0,,0,0,0,Action
+Heaven's Gate,1980,0,,0,0,0,Drama
+Waterworld,1995,0,,0,0,0,Adventure
+Ishtar,1987,0,,0,0,0,Comedy
+Battlefield Earth,2000,0,,0,0,0,Science Fiction
+The Adventures of Pluto Nash,2002,0,,0,0,0,Action
+Mars Needs Moms,2011,0,,0,0,1,Adventure
+Gigli,2003,0,,0,0,0,Comedy
+Catwoman,2004,0,,0,0,0,Action
+The 13th Warrior,1999,0,,0,0,0,Adventure
+Sahara,2005,0,,0,0,0,Action
+Final Fantasy: The Spirits Within,2001,0,,0,0,1,Action
+Speed Racer,2008,0,,0,0,0,Family
+Jupiter Ascending,2015,0,,0,0,0,Science Fiction
+Tomorrowland,2015,0,,0,0,0,Adventure
+The Golden Compass,2007,0,,0,0,0,Adventure
+Pan,2015,0,,0,0,0,Fantasy
+King Arthur: Legend of the Sword,2017,0,,0,0,0,Action
+Valerian and the City of a Thousand Planets,2017,0,,0,0,0,Adventure
+Ben-Hur,2016,0,,0,0,0,Action
+Monster Trucks,2016,0,,0,0,0,Action
+A Wrinkle in Time,2018,0,,0,0,0,Adventure
+Cats,2019,0,,0,0,0,Fantasy
+The Happening,2008,0,,0,0,0,Thriller
+Green Lantern,2011,0,,0,0,0,Adventure
+R.I.P.D.,2013,1,R.I.P.D. Collection,0,2,0,Fantasy
+47 Ronin,2013,1,47 Ronin Collection,0,2,0,Drama
+Dark Phoenix,2019,1,X-Men Collection,6,7,0,Science Fiction
+Terminator: Dark Fate,2019,1,The Terminator Collection,5,6,0,Science Fiction
+Solo: A Star Wars Story,2018,0,,0,0,0,Science Fiction
+Babylon,2022,0,,0,0,0,Drama
+Amsterdam,2022,0,,0,0,0,Mystery
+Strange World,2022,0,,0,0,1,Animation
+The Marvels,2023,1,Captain Marvel Collection,1,2,0,Science Fiction
+Mortal Engines,2018,0,,0,0,0,Adventure
+Robin Hood,2018,0,,0,0,0,Adventure
+The Nutcracker and the Four Realms,2018,0,,0,0,0,Family
+Cleopatra,1963,0,,0,0,0,Drama
+The Blair Witch Project,1999,1,Blair Witch Collection,0,3,0,Horror
+Paranormal Activity,2007,1,Paranormal Activity Collection,0,7,0,Horror
+Once,2007,0,,0,0,0,Drama
+Little Miss Sunshine,2006,0,,0,0,0,Comedy
+Juno,2007,0,,0,0,0,Comedy
+Get Out,2017,0,,0,0,0,Mystery
+Hereditary,2018,0,,0,0,0,Horror
+The Witch,2015,0,,0,0,0,Horror
+It Follows,2014,1,It Follows Collection,0,1,0,Horror
+Whiplash,2014,0,,0,0,0,Drama
+Ex Machina,2014,0,,0,0,0,Drama
+Lady Bird,2017,0,,0,0,0,Drama
+Moonlight,2016,0,,0,0,0,Drama
+The Florida Project,2017,0,,0,0,0,Drama
+Tangerine,2015,0,,0,0,0,Comedy
+Eighth Grade,2018,0,,0,0,0,Comedy
+Saw,2004,1,Saw Collection,0,10,0,Horror
+Open Water,2003,1,Open Water Collection,0,3,0,Horror
+Chronicle,2012,0,,0,0,0,Science Fiction
+District 9,2009,0,,0,0,0,Science Fiction
+Looper,2012,0,,0,0,0,Action
+Brick,2005,0,,0,0,0,Drama
+The Babadook,2014,0,,0,0,0,Drama
+A Ghost Story,2017,0,,0,0,0,Drama
+Frances Ha,2012,0,,0,0,0,Comedy
+500 Days of Summer,2009,0,,0,0,0,Comedy
+Lost in Translation,2003,0,,0,0,0,Drama
+Garden State,2004,0,,0,0,0,Comedy
+Booksmart,2019,0,,0,0,0,Comedy
+Uncut Gems,2019,0,,0,0,0,Drama
+Good Time,2017,0,,0,0,0,Crime
+The Lobster,2015,0,,0,0,0,Comedy
+Amelie,2001,0,,0,0,0,Comedy
+Oldboy,2003,0,,0,0,0,Thriller
+Pan's Labyrinth,2006,0,,0,0,0,Fantasy
+City of God,2002,0,,0,0,0,Drama
+Akira,1988,0,,0,0,1,Animation
+Princess Mononoke,1997,0,,0,0,1,Adventure
+Drive,2011,0,,0,0,0,Drama
+Burning,2018,0,,0,0,0,Mystery
+A Separation,2011,0,,0,0,0,Drama
+Enter the Void,2009,0,,0,0,0,Fantasy
+Spring Breakers,2012,0,,0,0,0,Drama
+Nightcrawler,2014,0,,0,0,0,Crime
+Birdman,2014,0,,0,0,0,Drama
+Her,2013,0,,0,0,0,Romance
+The Grand Budapest Hotel,2014,0,,0,0,0,Comedy
+Eternal Sunshine of the Spotless Mind,2004,0,,0,0,0,Science Fiction
+There Will Be Blood,2007,0,,0,0,0,Drama
+No Country for Old Men,2007,0,,0,0,0,Crime
+Donnie Brasco,1997,0,,0,0,0,Crime
+Gattaca,1997,0,,0,0,0,Science Fiction
+Event Horizon,1997,0,,0,0,0,Horror
+Dark City,1998,0,,0,0,0,Mystery
+The Fountain,2006,0,,0,0,0,Drama
+Sunshine,2007,0,,0,0,0,Science Fiction
+Grindhouse,2007,0,,0,0,0,Thriller
+MacGruber,2010,0,,0,0,0,Action
+Kung Fury,2015,1,Kung Fury Collection,0,1,0,Action

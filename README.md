@@ -1,9 +1,23 @@
 # The Pandora Paradox: Predicting Film Cultural Impact Through Data Integration
 
-> Capstone research project — **ESADE MIBA**
+> Capstone research project, **ESADE MIBA**
 > Authors: **Francesco Polimeni**, **Hiroaki Nakano**
 > Supervisor: **Carlos Carrasco-Farré, Ph.D.** (ESADE Business School)
 > Repository: <https://github.com/francescopolimeni05-cmd/the-pandora-paradox>
+
+---
+
+## Final Results (read this first)
+
+The full final model, results and interpretation live in **[`FINAL_MODEL.md`](FINAL_MODEL.md)**; the data-consistency audit is in **[`DATA_AUDIT.md`](DATA_AUDIT.md)**.
+
+Headline findings on the final sample of **349 films** (194 top-grossing + 155 cult / flop / low-budget / arthouse):
+
+- **The paradox, quantified.** Box office explains only R2 = 0.03 to 0.06 of the Cultural Footprint Index, so roughly 94 to 97 percent of cultural footprint is decoupled from commercial size.
+- **What drives cultural over-performance.** Audience love (IMDb), critical acclaim (Metascore), runtime, and a sequel penalty survive Holm correction. Star power is suggestive only. Budget, franchise, animation, adaptation and language are null.
+- **The mechanism is a clean null.** Symbolic compressibility, measured from scripts, does not predict which films become quotable, across a theory index, a cross-validated empirical index and three causal designs. It stays null even when re-tested against real online quote circulation (see `RUN_QUOTES.md`).
+
+The analysis pipeline is scripts **20 to 35** (`20_build_sci.py` ... `35_quote_reuse_anchored.py`); collection is scripts **01 to 09** and **26 to 27**. Run instructions: [`RUN_EXPANSION.md`](RUN_EXPANSION.md) and [`RUN_QUOTES.md`](RUN_QUOTES.md).
 
 ---
 
@@ -15,11 +29,11 @@ The project challenges the assumption that box office success automatically tran
 
 ### Key Research Questions
 
-1. **Do blockbusters dominate cultural conversation?** — Compare Wikipedia pageviews and Reddit engagement for high- vs. low-grossing films.
-2. **What drives sustained cultural interest?** — Identify which metrics best predict long-term Wikipedia engagement.
-3. **Can we predict a film's cultural impact from production signals alone?** — Build ML models that use pre-release and early-reception features.
-4. **How does cultural impact correlate with critical reception?** — Compare TMDB ratings against Wikipedia, Reddit, and YouTube activity.
-5. **How does script/subtitle complexity affect cultural reach?** — Correlate dialogue density, lexical diversity, and peak-intensity features with cultural metrics.
+1. **Do blockbusters dominate cultural conversation?**, Compare Wikipedia pageviews and Reddit engagement for high- vs. low-grossing films.
+2. **What drives sustained cultural interest?**, Identify which metrics best predict long-term Wikipedia engagement.
+3. **Can we predict a film's cultural impact from production signals alone?**, Build ML models that use pre-release and early-reception features.
+4. **How does cultural impact correlate with critical reception?**, Compare TMDB ratings against Wikipedia, Reddit, and YouTube activity.
+5. **How does script/subtitle complexity affect cultural reach?**, Correlate dialogue density, lexical diversity, and peak-intensity features with cultural metrics.
 
 ---
 
@@ -28,7 +42,7 @@ The project challenges the assumption that box office success automatically tran
 ```
 capstone-pandora-paradox/
 ├── data/
-│   ├── top200_movies.csv              # Seed list of top-grossing films (197 after disambiguation)
+│   ├── top200_movies.csv              # Seed list of top-grossing films (194 after disambiguation)
 │   ├── cultural_footprint.csv         # Per-film Cultural Footprint Index (CFI) components
 │   ├── script_features.csv            # NLP features from IMSDb scripts (limited coverage)
 │   ├── subtitle_features.csv          # NLP features from official English subtitles (full coverage)
@@ -72,7 +86,7 @@ capstone-pandora-paradox/
 ### 1. Box Office Data (Script 01)
 - **Source**: Wikipedia list of highest-grossing films.
 - **Metrics**: Worldwide gross, domestic gross, budget, release year, genre, franchise flag.
-- **Coverage**: **197 films** (1997–2024). 3 titles were dropped from the original top 200 during disambiguation cleaning (see `fix_disambiguation_titles.py`).
+- **Coverage**: **194 films** (1997-2024). 6 titles were dropped from the original top 200 during disambiguation cleaning (see `fix_disambiguation_titles.py`).
 
 ### 2. Wikipedia Activity (Script 06)
 - **Source**: Wikimedia REST API (no authentication required).
@@ -102,35 +116,35 @@ capstone-pandora-paradox/
 - **Cost**: Free (registration + API key required).
 - **API key**: <https://www.themoviedb.org/settings/api>
 
-### 5. Google Trends (Script 07 — SerpAPI)
+### 5. Google Trends (Script 07, SerpAPI)
 - **Source**: Google Trends via **SerpAPI** (`07_google_trends_serpapi.py`).
-- **Why not pytrends?** Direct scraping rate-limited us to 13/197 films with 429 responses. SerpAPI proxies the Trends endpoint server-side, removing the per-IP limit.
+- **Why not pytrends?** Direct scraping rate-limited us to 13/194 films with 429 responses. SerpAPI proxies the Trends endpoint server-side, removing the per-IP limit.
 - **Metrics**: 3-year interest time series, max / min / average interest, peak date, `gtrends_pre2004` flag for titles older than the Trends record.
-- **Cost**: Paid tier likely needed for a full 197-film run (1 search per film). Free tier covers smoke testing.
+- **Cost**: Paid tier likely needed for a full 194-film run (1 search per film). Free tier covers smoke testing.
 - **API key**: <https://serpapi.com/manage-api-key>
 
 ### 6. Awards, Quotes, Meme Signal (Script 06.1)
-- **Awards** — OMDb API: `awards_wins`, `awards_nominations`, `oscar_wins` parsed from the plain-text `Awards` field.
-- **Quotability** — Wikiquote: `wikiquote_count` (number of `<dl>` dialogue blocks on `https://en.wikiquote.org/wiki/<Title>`). IMDb's `/quotes` is blocked by anti-bot; Wikiquote is the open-licensed fallback.
-- **Meme signal** — derived from Reddit posts already collected: `meme_post_count`, `subreddit_diversity`, `top_subreddit`.
+- **Awards**, OMDb API: `awards_wins`, `awards_nominations`, `oscar_wins` parsed from the plain-text `Awards` field.
+- **Quotability**, Wikiquote: `wikiquote_count` (number of `<dl>` dialogue blocks on `https://en.wikiquote.org/wiki/<Title>`). IMDb's `/quotes` is blocked by anti-bot; Wikiquote is the open-licensed fallback.
+- **Meme signal**, derived from Reddit posts already collected: `meme_post_count`, `subreddit_diversity`, `top_subreddit`.
 
 ### 7. YouTube Trailers (Scripts 07 & 09)
 - **Source**: YouTube Data API v3 (simple API key, no OAuth).
-- **`07_youtube_trailer_collector.py`** — trailer-level features, split to avoid data leakage:
+- **`07_youtube_trailer_collector.py`**, trailer-level features, split to avoid data leakage:
   - **Model A (safe, pre-release)**: `yt_trailer_count`, `yt_upload_lead_days`.
   - **Model B (early-reception)**: `yt_comments_day_7`, `yt_comments_day_30`, `yt_comments_velocity`.
-- **`09_youtube_trailer_views.py`** — absolute view / like / comment counts per trailer, checkpoint-based to survive daily quota limits.
-- **Pre-2005 films** flagged with `yt_pre_youtube_era` — YouTube launched Feb 2005, so earlier "trailers" are post-hoc uploads and produce noisy signals.
+- **`09_youtube_trailer_views.py`**, absolute view / like / comment counts per trailer, checkpoint-based to survive daily quota limits.
+- **Pre-2005 films** flagged with `yt_pre_youtube_era`, YouTube launched Feb 2005, so earlier "trailers" are post-hoc uploads and produce noisy signals.
 
 ### 8. Movie Scripts & Subtitles (Scripts 03 & 03.1)
-- **Scripts** — IMSDb (`03_movie_scripts.py`): line count, dialogue/action ratio, basic NLP. Coverage ≈30% (many films have no public script).
-- **Subtitles** — YIFY via TMDB lookup (`03_1_subtitle_features.py`): parses official English `.srt`, computes traditional NLP features **plus peak-based features** (most-intense 10% of runtime, lexical burstiness). Coverage is much higher than IMSDb scripts and does not rely on screenplay availability.
+- **Scripts**, IMSDb (`03_movie_scripts.py`): line count, dialogue/action ratio, basic NLP. Coverage ≈30% (many films have no public script).
+- **Subtitles**, YIFY via TMDB lookup (`03_1_subtitle_features.py`): parses official English `.srt`, computes traditional NLP features **plus peak-based features** (most-intense 10% of runtime, lexical burstiness). Coverage is much higher than IMSDb scripts and does not rely on screenplay availability.
 
 ---
 
 ## The Cultural Footprint Index (CFI)
 
-The CFI is an 8-component composite, MinMax-normalised to 0–100. `04_1_build_index.py` builds two variants:
+The CFI is an 8-component composite, MinMax-normalised to 0-100. `04_1_build_index.py` builds two variants:
 
 **Basic CFI** (when only `live_api_data.json` is present):
 
@@ -142,7 +156,7 @@ The CFI is an 8-component composite, MinMax-normalised to 0–100. `04_1_build_i
 | 15%    | TMDB vote count (log)              |
 | 15%    | Google Trends average interest     |
 
-**Extended CFI** (used when `extended_api_data.json` is present — default):
+**Extended CFI** (used when `extended_api_data.json` is present, default):
 
 | Weight | Component                          |
 |--------|------------------------------------|
@@ -173,10 +187,10 @@ pip install -r requirements.txt
 ```
 
 ### 3. API keys (store as environment variables)
-- **TMDB** — <https://www.themoviedb.org/settings/api>
-- **OMDb** — <http://www.omdbapi.com/apikey.aspx>
-- **SerpAPI** (for Google Trends) — <https://serpapi.com/manage-api-key>
-- **YouTube Data API v3** — Google Cloud Console, enable *YouTube Data API v3*, create an API key.
+- **TMDB**, <https://www.themoviedb.org/settings/api>
+- **OMDb**, <http://www.omdbapi.com/apikey.aspx>
+- **SerpAPI** (for Google Trends), <https://serpapi.com/manage-api-key>
+- **YouTube Data API v3**, Google Cloud Console, enable *YouTube Data API v3*, create an API key.
 
 ### 4. (Optional) SpaCy language model for extended NLP
 ```bash
@@ -189,13 +203,13 @@ python -m spacy download en_core_web_sm
 
 All scripts run from the repo root.
 
-### Phase 1 — Collect the seed list
+### Phase 1, Collect the seed list
 ```bash
 python scripts/01_collect_movies.py
 # → data/top200_movies.csv
 ```
 
-### Phase 3 — Script & subtitle features
+### Phase 3, Script & subtitle features
 ```bash
 # Legacy script-based pass (limited coverage)
 python scripts/03_movie_scripts.py
@@ -206,7 +220,7 @@ python scripts/03_1_subtitle_features.py --api-key "$TMDB_API_KEY"
 # → data/subtitle_features.csv
 ```
 
-### Phase 6 — Live API collectors
+### Phase 6, Live API collectors
 ```bash
 # All collectors
 python scripts/06_live_data_collectors.py --api-key "$TMDB_API_KEY"
@@ -222,7 +236,7 @@ python scripts/06_1_extended_collectors.py --omdb-key "$OMDB_API_KEY"
 # → data/extended_api_data.json
 ```
 
-### Phase 7 — Google Trends (SerpAPI) and YouTube trailers
+### Phase 7, Google Trends (SerpAPI) and YouTube trailers
 ```bash
 python scripts/07_google_trends_serpapi.py --api-key "$SERPAPI_KEY"
 # → data/google_trends_serpapi.json
@@ -231,13 +245,13 @@ python scripts/07_youtube_trailer_collector.py --api-key "$YOUTUBE_API_KEY"
 # → data/youtube_data.json
 ```
 
-### Phase 9 — YouTube trailer absolute views
+### Phase 9, YouTube trailer absolute views
 ```bash
 python scripts/09_youtube_trailer_views.py --api-key "$YOUTUBE_API_KEY"
 # → data/youtube_trailer_data.json
 ```
 
-### Phase 4.1 — Build the index and full dataset
+### Phase 4.1, Build the index and full dataset
 ```bash
 python scripts/04_1_build_index.py
 # → data/cultural_footprint.csv
@@ -258,7 +272,9 @@ See `notebooks/INDEX.txt` for a cell-level map.
 
 ---
 
-## Key Findings (Preliminary)
+## Key Findings (Preliminary, midterm-era)
+
+> These are the early midterm findings, kept for context. The **final** results are in [`FINAL_MODEL.md`](FINAL_MODEL.md) and the summary above.
 
 ### The Paradox Effect
 - **High box office ≠ high cultural impact.** Some blockbusters dominate both (e.g. *Avengers: Endgame*), but many high-grossing titles have weak Wikipedia / Reddit / search signals relative to their revenue.
@@ -267,11 +283,11 @@ See `notebooks/INDEX.txt` for a cell-level map.
 
 ### Wikipedia as cultural barometer
 - Pageviews show **seasonal spikes** aligned with anniversaries, sequels, and awards cycles.
-- Peak pageviews and average-monthly pageviews measure different audiences — average better predicts sustained impact.
+- Peak pageviews and average-monthly pageviews measure different audiences, average better predicts sustained impact.
 
 ### Reddit as a demographic filter
 - Sci-fi and animation genres are over-represented.
-- Franchises show **lower per-post engagement** than standalone films — more posts but shorter discussions.
+- Franchises show **lower per-post engagement** than standalone films, more posts but shorter discussions.
 
 ### Script & subtitle features
 - **Dialogue density** (subtitles) correlates positively with Reddit engagement.
@@ -315,18 +331,18 @@ top200_movies  06 / 06.1    live_api_data   pandora_full_dataset   cultural_foot
 
 ## Troubleshooting
 
-- **TMDB `401 Unauthorized`** — pass a valid key via `--api-key`.
-- **Reddit `429`** — reduce `--limit`, or wait. The script already throttles.
-- **Wikipedia pageviews empty** — title may need disambiguation; see `fix_disambiguation_titles.py`.
-- **IMSDb script missing** — ~30% coverage is expected; the subtitle pipeline (`03_1`) is the recommended alternative.
-- **pytrends 429** — do not use `pytrends` for full runs; switch to `07_google_trends_serpapi.py`.
-- **YouTube quota exceeded** — `09_youtube_trailer_views.py` is checkpoint-based; rerun the next day and it resumes.
+- **TMDB `401 Unauthorized`**, pass a valid key via `--api-key`.
+- **Reddit `429`**, reduce `--limit`, or wait. The script already throttles.
+- **Wikipedia pageviews empty**, title may need disambiguation; see `fix_disambiguation_titles.py`.
+- **IMSDb script missing**, ~30% coverage is expected; the subtitle pipeline (`03_1`) is the recommended alternative.
+- **pytrends 429**, do not use `pytrends` for full runs; switch to `07_google_trends_serpapi.py`.
+- **YouTube quota exceeded**, `09_youtube_trailer_views.py` is checkpoint-based; rerun the next day and it resumes.
 
 ---
 
 ## Project Timeline
 
-- **Phase 1** (Done): Seed list from Wikipedia — 200 → 197 after disambiguation.
+- **Phase 1** (Done): Seed list from Wikipedia, 200 → 194 after disambiguation.
 - **Phase 2** (Done): Legacy cultural metrics.
 - **Phase 3** (Done): IMSDb script NLP.
 - **Phase 3.1** (Done): Subtitle-based NLP (full-coverage replacement for 3).
@@ -343,7 +359,7 @@ top200_movies  06 / 06.1    live_api_data   pandora_full_dataset   cultural_foot
 ## Team & Attribution
 
 - **Authors**: Francesco Polimeni, Hiroaki Nakano (ESADE MIBA)
-- **Supervisor**: Carlos Carrasco-Farré, Ph.D. — ESADE Business School
+- **Supervisor**: Carlos Carrasco-Farré, Ph.D., ESADE Business School
 - **Focus**: Data-driven cultural impact prediction
 - **Methods**: Web scraping, API integration, NLP (spaCy / custom), regression & classification
 - **Tools**: Python, Pandas, Scikit-learn, spaCy, Matplotlib / Seaborn
@@ -355,7 +371,7 @@ top200_movies  06 / 06.1    live_api_data   pandora_full_dataset   cultural_foot
 - [Wikimedia REST API docs](https://www.mediawiki.org/wiki/APIs)
 - [TMDB API](https://developer.themoviedb.org/)
 - [OMDb API](http://www.omdbapi.com/)
-- [SerpAPI — Google Trends](https://serpapi.com/google-trends-api)
+- [SerpAPI, Google Trends](https://serpapi.com/google-trends-api)
 - [YouTube Data API v3](https://developers.google.com/youtube/v3)
 - [Reddit API](https://www.reddit.com/dev/api/)
 - [IMSDb](https://www.imsdb.com/)
@@ -376,4 +392,4 @@ For any commercial use, review each provider's terms directly.
 ---
 
 **Last Updated**: April 2026
-**Status**: Midterm checkpoint — active development
+**Status**: Midterm checkpoint, active development

@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "Tomorrowland",
+    "year": 2015,
+    "quote": "We are the Future.",
+    "results_exact": null,
+    "results_film": 358000,
+    "status": "success"
+  },
+  {
+    "title": "The Secret Life of Pets 2",
+    "year": 2019,
+    "quote": "And, Thank you!",
+    "results_exact": null,
+    "results_film": 1900000,
+    "status": "success"
+  },
+  {
+    "title": "Rio 2",
+    "year": 2014,
+    "quote": "Back to the party",
+    "results_exact": null,
+    "results_film": 5640000,
+    "status": "success"
+  },
+  {
+    "title": "Rio 2",
+    "year": 2014,
+    "quote": "It's on in the Amazon!",
+    "results_exact": null,
+    "results_film": 13800,
+    "status": "success"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "quote": "I See You.",
+    "results_exact": null,
+    "results_film": 8620000,
+    "status": "success"
+  },
+  {
+    "title": "Incredibles 2",
+    "year": 2018,
+    "quote": "Oh, my god.",
+    "results_exact": null,
+    "results_film": 1020000,
+    "status": "success"
+  },
+  {
+    "title": "Incredibles 2",
+    "year": 2018,
+    "quote": "Well, that went poorly.",
+    "results_exact": null,
+    "results_film": 145,
+    "status": "success"
+  },
+  {
+    "title": "The Croods",
+    "year": 2013,
+    "quote": "I have an idea!",
+    "results_exact": null,
+    "results_film": 38500,
+    "status": "success"
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "year": 2017,
+    "quote": "This is not over!",
+    "results_exact": null,
+    "results_film": 31800,
+    "status": "success"
+  },
+  {
+    "title": "Man of Steel",
+    "year": 2013,
+    "quote": "Welcome to the Planet.",
+    "results_exact": null,
+    "results_film": 3490000,
+    "status": "success"
+  },
+  {
+    "title": "The Iron Giant",
+    "year": 1999,
+    "quote": "That's for sure.",
+    "results_exact": null,
+    "results_film": 379000,
+    "status": "success"
+  },
+  {
+    "title": "Shrek Forever After",
+    "year": 2010,
+    "quote": "The Final Chapter",
+    "results_exact": null,
+    "results_film": 159000,
+    "status": "success"
+  },
+  {
+    "title": "Cinderella",
+    "year": 1950,
+    "quote": "Are you going to get it?",
+    "results_exact": null,
+    "results_film": 531000,
+    "status": "success"
+  },
+  {
+    "title": "Cinderella",
+    "year": 1950,
+    "quote": "We have to get dressed!",
+    "results_exact": null,
+    "results_film": 181000,
+    "status": "success"
+  },
+  {
+    "title": "A Bug's Life",
+    "year": 1998,
+    "quote": "Leave the island?!",
+    "results_exact": null,
+    "results_film": 1220000,
+    "status": "success"
+  },
+  {
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "quote": "No, Thank you.",
+    "results_exact": null,
+    "results_film": 192000,
+    "status": "success"
+  },
+  {
+    "title": "Saw",
+    "year": 2004,
+    "quote": "I want to play a game.",
+    "results_exact": null,
+    "results_film": 10600000,
+    "status": "success"
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "quote": "I love this car.",
+    "results_exact": null,
+    "results_film": 67100,
+    "status": "success"
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "quote": "That’s my car!",
+    "results_exact": null,
+    "results_film": 61700,
+    "status": "success"
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "year": 2011,
+    "quote": "Shia LaBeouf as Sam Witwicky",
+    "results_exact": null,
+    "results_film": 11100,
+    "status": "success"
+  },
+  {
+    "title": "The Fountain",
+    "year": 2006,
+    "quote": "I'm here for her.",
+    "results_exact": null,
+    "results_film": 73700,
+    "status": "success"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": 2016,
+    "quote": "Kung Fu Panda",
+    "results_exact": null,
+    "results_film": 14700000,
+    "status": "success"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": 2016,
+    "quote": "The weight is over.",
+    "results_exact": null,
+    "results_film": 2770,
+    "status": "success"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "year": 2016,
+    "quote": "Kung Fu Panda 2",
+    "results_exact": null,
+    "results_film": 1700000,
+    "status": "success"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "year": 2011,
+    "quote": "Kung Fu Panda",
+    "results_exact": null,
+    "results_film": 22200000,
+    "status": "success"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "year": 2011,
+    "quote": "Kung Fu Panda 3",
+    "results_exact": null,
+    "results_film": 1830000,
+    "status": "success"
+  },
+  {
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "quote": "Welcome to hell",
+    "results_exact": null,
+    "results_film": 488000,
+    "status": "success"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "quote": "And so it begins...",
+    "results_exact": null,
+    "results_film": 276000,
+    "status": "success"
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "quote": "I lost my friend.",
+    "results_exact": null,
+    "results_film": 477000,
+    "status": "success"
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "quote": "I love you, Joseph.",
+    "results_exact": null,
+    "results_film": 12300,
+    "status": "success"
+  },
+  {
+    "title": "Moonlight",
+    "year": 2016,
+    "quote": "Oh shit, I gotta pee!",
+    "results_exact": null,
+    "results_film": 6,
+    "status": "success"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "quote": "The adventure of a lifetime.",
+    "results_exact": null,
+    "results_film": 152000,
+    "status": "success"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "quote": "The celebration of a lifetime.",
+    "results_exact": null,
+    "results_film": 175000,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "quote": "Reach for the sky!",
+    "results_exact": null,
+    "results_film": 1020000,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "quote": "There's a snake in my boot!",
+    "results_exact": null,
+    "results_film": 232000,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story 4",
+    "year": 2019,
+    "quote": "You're my favorite deputy!",
+    "results_exact": null,
+    "results_film": 78800,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "quote": "Reach for the sky!",
+    "results_exact": null,
+    "results_film": 768000,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "quote": "To infinity and beyond!",
+    "results_exact": null,
+    "results_film": 4900000,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "quote": "Buzz Lightyear to the recsue!",
+    "results_exact": null,
+    "results_film": 312000,
+    "status": "success"
+  },
+  {
+    "title": "Jurassic World Dominion",
+    "year": 2022,
+    "quote": "I always come back.",
+    "results_exact": null,
+    "results_film": 5950,
+    "status": "success"
+  },
+  {
+    "title": "Jurassic World Dominion",
+    "year": 2022,
+    "quote": "I could use your expertise.",
+    "results_exact": null,
+    "results_film": 653,
+    "status": "success"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "quote": "The Last Stand",
+    "results_exact": null,
+    "results_film": 898000,
+    "status": "success"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "quote": "The future begins.",
+    "results_exact": null,
+    "results_film": 123000,
+    "status": "success"
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "quote": "His past. Our future.",
+    "results_exact": null,
+    "results_film": 7840,
+    "status": "success"
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "quote": "The Last Stand",
+    "results_exact": null,
+    "results_film": 511000,
+    "status": "success"
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "quote": "Prepare for the Apocalypse.",
+    "results_exact": null,
+    "results_film": 208000,
+    "status": "success"
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "quote": "Only the strong will survive",
+    "results_exact": null,
+    "results_film": 131,
+    "status": "success"
+  },
+  {
+    "title": "Godzilla",
+    "year": 2014,
+    "quote": "That's a lot of fish.",
+    "results_exact": null,
+    "results_film": 54900,
+    "status": "success"
+  },
+  {
+    "title": "Godzilla",
+    "year": 2014,
+    "quote": "Running would be a good idea.",
+    "results_exact": null,
+    "results_film": 520,
+    "status": "success"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "quote": "I'm the king of the world!",
+    "results_exact": null,
+    "results_film": 284000,
+    "status": "success"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows – Part 2",
+    "year": 2011,
+    "quote": "It all ends.",
+    "results_exact": null,
+    "results_film": 23700,
+    "status": "success"
+  },
+  {
+    "title": "Paranormal Activity",
+    "year": 2007,
+    "quote": "Don't See It Alone",
+    "results_exact": null,
+    "results_film": 391000,
+    "status": "success"
+  },
+  {
+    "title": "Paranormal Activity",
+    "year": 2007,
+    "quote": "What Happens When You Sleep?",
+    "results_exact": null,
+    "results_film": 45600,
+    "status": "success"
+  },
+  {
+    "title": "Furious 7",
+    "year": 2015,
+    "quote": "One last ride.",
+    "results_exact": null,
+    "results_film": 178000,
+    "status": "success"
+  },
+  {
+    "title": "Beauty and the Beast (2017)",
+    "year": 2017,
+    "quote": "I told you to go away.",
+    "results_exact": null,
+    "results_film": 101000,
+    "status": "success"
+  },
+  {
+    "title": "Spring Breakers",
+    "year": 2012,
+    "quote": "Love You like a Love Song",
+    "results_exact": null,
+    "results_film": 349000,
+    "status": "success"
+  },
+  {
+    "title": "Spring Breakers",
+    "year": 2012,
+    "quote": "Round & Round",
+    "results_exact": null,
+    "results_film": 43000,
+    "status": "success"
+  },
+  {
+    "title": "Spring Breakers",
+    "year": 2012,
+    "quote": "A Year Without Rain",
+    "results_exact": null,
+    "results_film": 28100,
+    "status": "success"
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "quote": "Fuck this guy!",
+    "results_exact": null,
+    "results_film": 7550,
+    "status": "success"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "quote": "Divided we fall",
+    "results_exact": null,
+    "results_film": 68500,
+    "status": "success"
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "quote": "Whose side are you on?",
+    "results_exact": null,
+    "results_film": 37200,
+    "status": "success"
+  },
+  {
+    "title": "Apollo 13",
+    "year": 1995,
+    "quote": "Houston, we have a problem.",
+    "results_exact": null,
+    "results_film": 278000,
+    "status": "success"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "quote": "Adventure is out there!",
+    "results_exact": null,
+    "results_film": 2970000,
+    "status": "success"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "quote": "From the director of Monsters, Inc.",
+    "results_exact": null,
+    "results_film": 13500,
+    "status": "success"
+  },
+  {
+    "title": "Cars 2",
+    "year": 2011,
+    "quote": "Fuel the love.",
+    "results_exact": null,
+    "results_film": 622000,
+    "status": "success"
+  },
+  {
+    "title": "Cars 2",
+    "year": 2011,
+    "quote": "The mission begins.",
+    "results_exact": null,
+    "results_film": 108000,
+    "status": "success"
+  },
+  {
+    "title": "Tangled",
+    "year": 2010,
+    "quote": "Get tangled up.",
+    "results_exact": null,
+    "results_film": 2700000,
+    "status": "success"
+  },
+  {
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "quote": "Family no more.",
+    "results_exact": null,
+    "results_film": 232000,
+    "status": "success"
+  },
+  {
+    "title": "The Fate of the Furious",
+    "year": 2017,
+    "quote": "Family will be broken.",
+    "results_exact": null,
+    "results_film": 93300,
+    "status": "success"
+  },
+  {
+    "title": "Terminator: Dark Fate",
+    "year": 2019,
+    "quote": "Choose your fate.",
+    "results_exact": null,
+    "results_film": 3370,
+    "status": "success"
+  },
+  {
+    "title": "Big Hero 6",
+    "year": 2014,
+    "quote": "I am not fast.",
+    "results_exact": null,
+    "results_film": 149000,
+    "status": "success"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "quote": "There are no laws.",
+    "results_exact": null,
+    "results_film": 385000,
+    "status": "success"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "quote": "You can't stop what's coming.",
+    "results_exact": null,
+    "results_film": 25500,
+    "status": "success"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "quote": "There are no clean getaways.",
+    "results_exact": null,
+    "results_film": 8930,
+    "status": "success"
+  },
+  {
+    "title": "Empire Records",
+    "year": 1995,
+    "quote": "Open 'til Midnight.",
+    "results_exact": null,
+    "results_film": 9270,
+    "status": "success"
+  },
+  {
+    "title": "Empire Records",
+    "year": 1995,
+    "quote": "Damn the Man! Save the Empire!",
+    "results_exact": null,
+    "results_film": 33100,
+    "status": "success"
+  },
+  {
+    "title": "Heathers",
+    "year": 1988,
+    "quote": "Greetings and Salutations.",
+    "results_exact": null,
+    "results_film": 21500,
+    "status": "success"
+  },
+  {
+    "title": "Finding Dory",
+    "year": 2016,
+    "quote": "Just keep swimming!",
+    "results_exact": null,
+    "results_film": 782000,
+    "status": "success"
+  },
+  {
+    "title": "MacGruber",
+    "year": 2010,
+    "quote": "You're crazy, man!",
+    "results_exact": null,
+    "results_film": 115,
+    "status": "success"
+  },
+  {
+    "title": "MacGruber",
+    "year": 2010,
+    "quote": "Never ever say 'never ever'.",
+    "results_exact": null,
+    "results_film": 1680,
+    "status": "success"
+  },
+  {
+    "title": "Mulan",
+    "year": 1998,
+    "quote": "It is my duty to fight.",
+    "results_exact": null,
+    "results_film": 6460,
+    "status": "success"
+  },
+  {
+    "title": "Shrek the Third",
+    "year": 2007,
+    "quote": "That's it! We're leaving!",
+    "results_exact": null,
+    "results_film": 5620,
+    "status": "success"
+  },
+  {
+    "title": "Dark City",
+    "year": 1998,
+    "quote": "Never talk to strangers.",
+    "results_exact": null,
+    "results_film": 78500,
+    "status": "success"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "quote": "The legend is real.",
+    "results_exact": null,
+    "results_film": 139000,
+    "status": "success"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "year": 2014,
+    "quote": "Stoick the Vast",
+    "results_exact": null,
+    "results_film": 87100,
+    "status": "success"
+  },
+  {
+    "title": "Despicable Me",
+    "year": 2010,
+    "quote": "Ok, my turn.",
+    "results_exact": null,
+    "results_film": 8270,
+    "status": "success"
+  },
+  {
+    "title": "Aquaman",
+    "year": 2018,
+    "quote": "Join me or die!",
+    "results_exact": null,
+    "results_film": 1050,
+    "status": "success"
+  },
+  {
+    "title": "Wet Hot American Summer",
+    "year": 2001,
+    "quote": "Oh, fuck my cock!",
+    "results_exact": null,
+    "results_film": 19100,
+    "status": "success"
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "year": 2014,
+    "quote": "Its a spaceship.",
+    "results_exact": null,
+    "results_film": 10,
+    "status": "success"
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "quote": "Got room for one more?",
+    "results_exact": null,
+    "results_film": 26300,
+    "status": "success"
+  },
+  {
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "quote": "Slow like molasses.",
+    "results_exact": null,
+    "results_film": 328,
+    "status": "success"
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "quote": "She's not just a computer.",
+    "results_exact": null,
+    "results_film": 475000,
+    "status": "success"
+  },
+  {
+    "title": "Fear and Loathing in Las Vegas",
+    "year": 1998,
+    "quote": "Buy the ticket, take the ride.",
+    "results_exact": null,
+    "results_film": 22900,
+    "status": "success"
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "quote": "Live. Die. Repeat.",
+    "results_exact": null,
+    "results_film": 73900,
+    "status": "success"
+  },
+  {
+    "title": "Minions",
+    "year": 2015,
+    "quote": "It’s red hot.",
+    "results_exact": null,
+    "results_film": 2390,
+    "status": "success"
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "quote": "Higher. Further. Faster.",
+    "results_exact": null,
+    "results_film": 131000,
+    "status": "success"
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "quote": "Discover what makes a (her)o.",
+    "results_exact": null,
+    "results_film": 311,
+    "status": "success"
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "quote": "Higher, further, faster, baby.",
+    "results_exact": null,
+    "results_film": 16500,
+    "status": "success"
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "quote": "Chris Hemsworth as Thor",
+    "results_exact": null,
+    "results_film": 147000,
+    "status": "success"
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "quote": "Peter Travers, .",
+    "results_exact": null,
+    "results_film": 49800,
+    "status": "success"
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "quote": "A New-England Folktale",
+    "results_exact": null,
+    "results_film": 43900,
+    "status": "success"
+  },
+  {
+    "title": "The Witch",
+    "year": 2015,
+    "quote": "Evil takes many forms",
+    "results_exact": null,
+    "results_film": 7540,
+    "status": "success"
+  },
+  {
+    "title": "The Boondock Saints",
+    "year": 1999,
+    "quote": "There was a fire-fight!",
+    "results_exact": null,
+    "results_film": 1860,
+    "status": "success"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "quote": "We're in the endgame now.",
+    "results_exact": null,
+    "results_film": 33500,
+    "status": "success"
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "quote": "Mark Hamill - Luke Skywalker",
+    "results_exact": null,
+    "results_film": 87800,
+    "status": "success"
+  },
+  {
+    "title": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "quote": "Harrison Ford - Han Solo",
+    "results_exact": null,
+    "results_film": 78100,
+    "status": "success"
+  },
+  {
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "quote": "Mark Hamill as Luke Skywalker",
+    "results_exact": null,
+    "results_film": 38800,
+    "status": "success"
+  },
+  {
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "quote": "Daisy Ridley as Rey",
+    "results_exact": null,
+    "results_film": 34700,
+    "status": "success"
+  },
+  {
+    "title": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "quote": "Adam Driver as Kylo Ren",
+    "results_exact": null,
+    "results_film": 24100,
+    "status": "success"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "quote": "You Won't Believe Your Eye.",
+    "results_exact": null,
+    "results_film": 21200,
+    "status": "success"
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "quote": "John of Patmos, Revelation 18:4 KJV",
+    "results_exact": null,
+    "results_film": 41900,
+    "status": "success"
+  },
+  {
+    "title": "Toy Story 2",
+    "year": 1999,
+    "quote": "Am I really that fat?",
+    "results_exact": null,
+    "results_film": 9240,
+    "status": "success"
+  },
+  {
+    "title": "Turning Red",
+    "year": 2022,
+    "quote": "Don't look at me! Stay back!",
+    "results_exact": null,
+    "results_film": 68300,
+    "status": "success"
+  },
+  {
+    "title": "Mandy",
+    "year": 2018,
+    "quote": "I come for the Reaper.",
+    "results_exact": null,
+    "results_film": 2310,
+    "status": "success"
+  },
+  {
+    "title": "The Mummy Returns",
+    "year": 2001,
+    "quote": "Adventure is reborn.",
+    "results_exact": null,
+    "results_film": 6080,
+    "status": "success"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "quote": "Zed's dead, baby. Zed's dead.",
+    "results_exact": null,
+    "results_film": 19300,
+    "status": "success"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "quote": "One adventure will change two worlds.",
+    "results_exact": null,
+    "results_film": 48100,
+    "status": "success"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "quote": "America Ferrera - Astrid",
+    "results_exact": null,
+    "results_film": 17600,
+    "status": "success"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "quote": "Jay Baruchel - Hiccup",
+    "results_exact": null,
+    "results_film": 16200,
+    "status": "success"
+  },
+  {
+    "title": "Jennifer's Body",
+    "year": 2009,
+    "quote": "Megan Fox - Jennifer Check",
+    "results_exact": null,
+    "results_film": 47800,
+    "status": "success"
+  },
+  {
+    "title": "Treasure Planet",
+    "year": 2002,
+    "quote": "No, I checked them ALL!",
+    "results_exact": null,
+    "results_film": 1840,
+    "status": "success"
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "quote": "We have our heading.",
+    "results_exact": null,
+    "results_film": 5760,
+    "status": "success"
+  },
+  {
+    "title": "Lightyear",
+    "year": 2022,
+    "quote": "Let's get everyone home.",
+    "results_exact": null,
+    "results_film": 580,
+    "status": "success"
+  },
+  {
+    "title": "The Nice Guys",
+    "year": 2016,
+    "quote": "Jesus tap-dancing Christ!",
+    "results_exact": null,
+    "results_film": 14300,
+    "status": "success"
+  },
+  {
+    "title": "Cars 3",
+    "year": 2017,
+    "quote": "From this moment, everything will change.",
+    "results_exact": null,
+    "results_film": 20700,
+    "status": "success"
+  },
+  {
+    "title": "Hop",
+    "year": 2011,
+    "quote": "From the creators of Despicable Me.",
+    "results_exact": null,
+    "results_film": 6180,
+    "status": "success"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "quote": "Leonardo DiCaprio - Jordan Belfort",
+    "results_exact": null,
+    "results_film": 28200,
+    "status": "success"
+  },
+  {
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "quote": "Tonight I'm Gonna Rock You Tonight",
+    "results_exact": null,
+    "results_film": 23200,
+    "status": "success"
+  },
+  {
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "quote": "I caught you a delicious bass.",
+    "results_exact": null,
+    "results_film": 3510,
+    "status": "success"
+  },
+  {
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "quote": "Do the chickens have large talons?",
+    "results_exact": null,
+    "results_film": 5280,
+    "status": "success"
+  },
+  {
+    "title": "Dredd",
+    "year": 2012,
+    "quote": "Judge Dredd (film)",
+    "results_exact": null,
+    "results_film": 29900,
+    "status": "success"
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "quote": "Shut up, Sid.",
+    "results_exact": null,
+    "results_film": 1200,
+    "status": "success"
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "quote": "You can't trick me anymore.",
+    "results_exact": null,
+    "results_film": 5770,
+    "status": "success"
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "quote": "I don' really know.",
+    "results_exact": null,
+    "results_film": 6,
+    "status": "success"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "quote": "In the end it's all nice.",
+    "results_exact": null,
+    "results_film": 1820,
+    "status": "success"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "quote": "Michael Cera - Scott Pilgrim",
+    "results_exact": null,
+    "results_film": 16500,
+    "status": "success"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "quote": "LT Bradley 'Rooster' Bradshaw",
+    "results_exact": null,
+    "results_film": 25300,
+    "status": "success"
+  },
+  {
+    "title": "101 Dalmatians",
+    "year": 1961,
+    "quote": "Glenn Close - Cruella de Vil",
+    "results_exact": null,
+    "results_film": 13700,
+    "status": "success"
+  },
+  {
+    "title": "Zootopia",
+    "year": 2016,
+    "quote": "It's your word against yours.",
+    "results_exact": null,
+    "results_film": 14900,
+    "status": "success"
+  },
+  {
+    "title": "Rango",
+    "year": 2011,
+    "quote": "Who am I? I'm nobody.",
+    "results_exact": null,
+    "results_film": 387,
+    "status": "success"
+  },
+  {
+    "title": "Hereditary",
+    "year": 2018,
+    "quote": "Evil runs in the family.",
+    "results_exact": null,
+    "results_film": 392000,
+    "status": "success"
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "quote": "Ah, you never forget your first.",
+    "results_exact": null,
+    "results_film": 2170,
+    "status": "success"
+  },
+  {
+    "title": "The Lone Ranger",
+    "year": 2013,
+    "quote": "Johnny Depp as Tonto",
+    "results_exact": null,
+    "results_film": 16600,
+    "status": "success"
+  },
+  {
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "quote": "You want forgiveness? Get religion.",
+    "results_exact": null,
+    "results_film": 12400,
+    "status": "success"
+  },
+  {
+    "title": "Transformers",
+    "year": 2007,
+    "quote": "Their war. Our world.",
+    "results_exact": null,
+    "results_film": 8250,
+    "status": "success"
+  },
+  {
+    "title": "Transformers: Revenge of the Fallen",
+    "year": 2009,
+    "quote": "Shia LaBeouf - Sam Witwicky",
+    "results_exact": null,
+    "results_film": 12800,
+    "status": "success"
+  },
+  {
+    "title": "Drive",
+    "year": 2011,
+    "quote": "Silencio. No hay banda.",
+    "results_exact": null,
+    "results_film": 2940,
+    "status": "success"
+  },
+  {
+    "title": "Birdman",
+    "year": 2014,
+    "quote": "I'm nothing. I'm not even here.",
+    "results_exact": null,
+    "results_film": 400,
+    "status": "success"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "quote": "In heroes we trust.",
+    "results_exact": null,
+    "results_film": 3420,
+    "status": "success"
+  },
+  {
+    "title": "Withnail and I",
+    "year": 1987,
+    "quote": "We've gone on holiday by mistake.",
+    "results_exact": null,
+    "results_film": 5600,
+    "status": "success"
+  }
+]
